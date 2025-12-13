@@ -1,4 +1,4 @@
-# Hi there, I'm Tony 👋
+# Kia ora, I'm Tony 👋
 
 I'm a software engineer passionate about building robust and elegant solutions. Welcome to my GitHub profile!
 
@@ -20,7 +20,7 @@ I work on various software projects spanning different technologies and domains.
 
 ## 🛠️ Tech & Tools
 
-I work with a variety of programming languages, frameworks, and tools to build solutions that solve real problems.
+I primarily work with Python, building tools, libraries, and applications. My repositories showcase work across various Python frameworks and tools for solving real-world problems.
 
 ## 📫 Get In Touch
 
