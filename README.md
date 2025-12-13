@@ -1,6 +1,8 @@
 # Kia ora, I'm Tony 👋
 
-I'm a software engineer passionate about building robust and elegant solutions. Welcome to my GitHub profile!
+I'm a former architect and burned out product manager, back in the warmth of software engineering. I'm passionate about security, education, and the environment.
+
+More importantly, I'm a dad! Go listen to my kid's [band's music](http://kidsupthetree.band) and [his solo stuff](http://fdasavage.nz).
 
 ## 🌐 Find Me Online
 
