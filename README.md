@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Tony 👋
 
-<!--
-**tonyandrewmeyer/tonyandrewmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building robust and elegant solutions. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌐 Find Me Online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 Personal Website: [tonyandrewmeyer.com](https://tonyandrewmeyer.com)
+- ✍️ Blog: [tonyandrewmeyer.blog](https://tonyandrewmeyer.blog)
+- 🍅 Project: [Bad Tomatoes](https://badtomatoes.org)
+
+## 💼 What I Do
+
+I work on various software projects spanning different technologies and domains. My repositories here showcase my work in open source, personal projects, and explorations in software engineering.
+
+## 🛠️ Tech & Tools
+
+I work with a variety of programming languages, frameworks, and tools to build solutions that solve real problems.
+
+## 📫 Get In Touch
+
+Feel free to reach out if you'd like to collaborate on projects, discuss technology, or just connect!
+
+---
+
+💡 *Check out my pinned repositories below to see what I'm currently working on!*
