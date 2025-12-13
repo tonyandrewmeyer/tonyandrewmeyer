@@ -22,7 +22,7 @@ I work on various software projects spanning different technologies and domains.
 
 ## 🛠️ Tech & Tools
 
-I primarily work with Python, building tools, libraries, and applications. My repositories showcase work across various Python frameworks and tools for solving real-world problems.
+I've been writing Python since about 2002 and still love it. Mostly backend stuff, but a bit of Django here and there as well. I dabble in other ecosystems and write a bit of Go for work, but keep coming back to Python, and you can see from the repositories below.
 
 ## 📫 Get In Touch
 
