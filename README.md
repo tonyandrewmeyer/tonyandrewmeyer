@@ -4,9 +4,15 @@ I'm a software engineer passionate about building robust and elegant solutions. 
 
 ## 🌐 Find Me Online
 
-- 🏠 Personal Website: [tonyandrewmeyer.com](https://tonyandrewmeyer.com)
-- ✍️ Blog: [tonyandrewmeyer.blog](https://tonyandrewmeyer.blog)
-- 🍅 Project: [Bad Tomatoes](https://badtomatoes.org)
+- 📚 Goodreads: [tonyandrewmeyer](https://www.goodreads.com/user/show/2229155-tony-meyer)
+- 🎬 Letterboxd: [tonyandrewmeyer](https://letterboxd.com/tonyandrewmeyer/)
+- 📝 Blogroll: [tonyandrewmeyer.blog](https://tonyandrewmeyer.blog)
+- 🏠 Personal blog: [tonyandrewmeyer.com](https://tonyandrewmeyer.com)
+- 🍅 Family blog: [Bad Tomatoes](https://badtomatoes.org)
+- 📺 trakt.tv: [tonyandrewmeyer](https://trakt.tv/users/tonyandrewmeyer)
+- 📖 Instapaper: [tonyandrewmeyer](https://www.instapaper.com/p/tonyandrewmeyer)
+- 🐘 Mastodon: [@tonyandrewmeyer@cloudisland.nz](https://cloudisland.nz/@tonyandrewmeyer)
+- 📷 Family Flickr: [littlechicken](https://flickr.com/people/littlechicken/)
 
 ## 💼 What I Do
 
