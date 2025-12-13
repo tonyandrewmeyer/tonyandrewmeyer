@@ -18,7 +18,7 @@ More importantly, I'm a dad! Go listen to my kid's [band's music](http://kidsupt
 
 ## 💼 What I Do
 
-I work on various software projects spanning different technologies and domains. My repositories here showcase my work in open source, personal projects, and explorations in software engineering.
+I'm a software engineer at @canonical, and do various bits and pieces for [opal3](https://opal3.com), and sometimes find time for some hobby things, if I'm between good books, films, and TV. I love open-source, and am grateful to be able to work on it professionally again, thanks to Canonical!
 
 ## 🛠️ Tech & Tools
 
