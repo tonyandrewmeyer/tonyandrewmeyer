@@ -39,4 +39,4 @@ You can manually trigger the workflow:
 - `articles.opml` - All articles from tonyandrewmeyer.blog
 - `feeds.opml` - All RSS feeds from Feedly
 
-These files are referenced in `BLOGROLL.md` and are automatically updated daily at 00:00 UTC.
+These files are referenced in `BLOGROLL.md` and are automatically updated daily.

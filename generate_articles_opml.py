@@ -10,6 +10,8 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 import sys
 import re
+import requests
+from urllib.parse import urlparse
 
 # Constants
 MAX_DESCRIPTION_LENGTH = 200
@@ -29,6 +31,26 @@ class LinkExtractor(HTMLParser):
                     self.links.append(value)
 
 
+class TitleExtractor(HTMLParser):
+    """Extract title from HTML content."""
+    def __init__(self):
+        super().__init__()
+        self.in_title = False
+        self.title = None
+    
+    def handle_starttag(self, tag, attrs):
+        if tag == 'title':
+            self.in_title = True
+    
+    def handle_endtag(self, tag):
+        if tag == 'title':
+            self.in_title = False
+    
+    def handle_data(self, data):
+        if self.in_title and self.title is None:
+            self.title = data.strip()
+
+
 def create_opml_root():
     """Create the root OPML structure."""
     root = ET.Element('opml', version='2.0')
@@ -42,6 +64,40 @@ def create_opml_root():
     date_created.text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
     
     return root
+
+
+def fetch_title_from_url(url):
+    """Fetch the title from a remote URL.
+    
+    Returns the title from the <title> tag, or None if unable to fetch.
+    """
+    try:
+        # Set a timeout and user agent
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (compatible; BlogrollBot/1.0)'
+        }
+        response = requests.get(url, headers=headers, timeout=10, allow_redirects=True)
+        response.raise_for_status()
+        
+        # Parse the HTML to extract title
+        parser = TitleExtractor()
+        parser.feed(response.text)
+        
+        if parser.title:
+            return parser.title
+        
+        # Fallback: try to extract from URL path
+        parsed_url = urlparse(url)
+        path = parsed_url.path.rstrip('/').split('/')[-1]
+        if path:
+            # Convert URL slug to title (e.g., "my-article" -> "My Article")
+            return path.replace('-', ' ').replace('_', ' ').title()
+        
+        return None
+        
+    except Exception as e:
+        print(f"Error fetching title from {url}: {e}", file=sys.stderr)
+        return None
 
 
 def extract_outgoing_link(entry):
@@ -124,24 +180,24 @@ def generate_articles_opml(feed_url, output_file):
             posts_skipped += 1
             continue
         
+        # Fetch the title from the remote URL
+        article_title = fetch_title_from_url(outgoing_url)
+        if not article_title:
+            print(f"Warning: Could not fetch title for {outgoing_url}, skipping", file=sys.stderr)
+            posts_skipped += 1
+            continue
+        
         # Create OPML entry for the linked article
         outline = ET.SubElement(body, 'outline')
         
-        # Use the blog post title as the article title
-        outline.set('text', entry.get('title', 'Untitled'))
-        outline.set('title', entry.get('title', 'Untitled'))
+        # Use the title from the remote URL
+        outline.set('text', article_title)
         outline.set('type', 'link')
         outline.set('url', outgoing_url)
         
         # Add published date if available
         if hasattr(entry, 'published'):
             outline.set('created', entry.published)
-        
-        # Add description/summary if available
-        if hasattr(entry, 'summary'):
-            # Strip HTML tags from summary for cleaner description
-            summary = re.sub('<[^<]+?>', '', entry.summary)
-            outline.set('description', summary[:MAX_DESCRIPTION_LENGTH])
         
         articles_added += 1
     
