@@ -72,22 +72,38 @@ def fetch_title_from_url(url):
     Returns the title from the <title> tag, or None if unable to fetch.
     """
     try:
+        # Validate URL scheme
+        parsed_url = urlparse(url)
+        if parsed_url.scheme not in ('http', 'https'):
+            print(f"Skipping non-HTTP(S) URL: {url}", file=sys.stderr)
+            return None
+        
         # Set a timeout and user agent
         headers = {
             'User-Agent': 'Mozilla/5.0 (compatible; BlogrollBot/1.0)'
         }
-        response = requests.get(url, headers=headers, timeout=10, allow_redirects=True)
+        # Stream the response and only read the first 50KB (title is typically in head)
+        response = requests.get(url, headers=headers, timeout=10, allow_redirects=True, stream=True)
         response.raise_for_status()
+        
+        # Read only first 50KB to avoid processing large documents
+        content = b''
+        for chunk in response.iter_content(chunk_size=8192):
+            content += chunk
+            if len(content) >= 51200:  # 50KB
+                break
+        
+        # Decode content
+        text_content = content.decode(response.encoding or 'utf-8', errors='ignore')
         
         # Parse the HTML to extract title
         parser = TitleExtractor()
-        parser.feed(response.text)
+        parser.feed(text_content)
         
         if parser.title:
             return parser.title
         
         # Fallback: try to extract from URL path
-        parsed_url = urlparse(url)
         path = parsed_url.path.rstrip('/').split('/')[-1]
         if path:
             # Convert URL slug to title (e.g., "my-article" -> "My Article")
@@ -95,7 +111,7 @@ def fetch_title_from_url(url):
         
         return None
         
-    except Exception as e:
+    except (requests.RequestException, UnicodeDecodeError, ValueError) as e:
         print(f"Error fetching title from {url}: {e}", file=sys.stderr)
         return None
 
