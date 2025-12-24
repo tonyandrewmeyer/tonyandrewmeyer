@@ -8,6 +8,9 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 import sys
 
+# Constants
+MAX_DESCRIPTION_LENGTH = 200
+
 
 def create_opml_root():
     """Create the root OPML structure."""
@@ -58,7 +61,7 @@ def generate_articles_opml(feed_url, output_file):
         
         # Add description/summary if available
         if hasattr(entry, 'summary'):
-            outline.set('description', entry.summary[:200])  # Limit length
+            outline.set('description', entry.summary[:MAX_DESCRIPTION_LENGTH])  # Limit length
     
     # Write to file
     tree = ET.ElementTree(root)

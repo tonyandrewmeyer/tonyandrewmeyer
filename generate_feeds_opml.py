@@ -90,7 +90,10 @@ def generate_feeds_opml(access_token, output_file):
                 # Fallback: extract from feed ID (format: "feed/http://...")
                 feed_id = feed['id']
                 if feed_id.startswith('feed/'):
-                    xml_url = feed_id[5:]  # Remove 'feed/' prefix
+                    potential_url = feed_id[5:]  # Remove 'feed/' prefix
+                    # Validate it's a valid HTTP/HTTPS URL
+                    if potential_url.startswith(('http://', 'https://')):
+                        xml_url = potential_url
             feed_outline.set('xmlUrl', xml_url)
             
             # Add website URL if available
