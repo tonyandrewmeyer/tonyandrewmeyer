@@ -1,0 +1,51 @@
+name: Update Blogroll OPML Files
+
+on:
+  schedule:
+    # Run daily at 8:28 a.m. NZ time (19:28 UTC, which is 8:28 a.m. NZDT)
+    # Note: During NZST (winter), this will run at 7:28 a.m. NZ time
+    - cron: '28 19 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update-opml:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Generate articles OPML
+        run: |
+          python generate_articles_opml.py
+      
+      - name: Generate feeds OPML
+        env:
+          FEEDLY_ACCESS_TOKEN: ${{ secrets.FEEDLY_ACCESS_TOKEN }}
+        run: |
+          # Only run if token is available, otherwise skip
+          if [ -n "$FEEDLY_ACCESS_TOKEN" ]; then
+            python generate_feeds_opml.py
+          else
+            echo "Warning: FEEDLY_ACCESS_TOKEN not set, skipping Feedly feeds update"
+            echo "To enable automatic Feedly updates, add FEEDLY_ACCESS_TOKEN to repository secrets"
+          fi
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add articles.opml feeds.opml
+          git diff --staged --quiet || (git commit -m "Update blogroll OPML files" && git push)

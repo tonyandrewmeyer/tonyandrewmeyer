@@ -8,7 +8,8 @@ More importantly, I'm a dad! Go listen to my kid's [band's music](http://kidsupt
 
 - 📚 Goodreads: [tonyandrewmeyer](https://www.goodreads.com/user/show/2229155-tony-meyer)
 - 🎬 Letterboxd: [tonyandrewmeyer](https://letterboxd.com/tonyandrewmeyer/)
-- 📝 Blogroll: [tonyandrewmeyer.blog](https://tonyandrewmeyer.blog)
+- 📰 Blogroll: [My reading list](BLOGROLL.md)
+- 📝 Link blog: [tonyandrewmeyer.blog](https://tonyandrewmeyer.blog)
 - 🏠 Personal blog: [tonyandrewmeyer.com](https://tonyandrewmeyer.com)
 - 🍅 Family blog: [Bad Tomatoes](https://badtomatoes.org)
 - 📺 trakt.tv: [tonyandrewmeyer](https://trakt.tv/users/tonyandrewmeyer)
