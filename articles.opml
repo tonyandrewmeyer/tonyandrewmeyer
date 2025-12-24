@@ -2,7 +2,32 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 24 Dec 2025 03:56:13 GMT</dateCreated>
+    <dateCreated>Wed, 24 Dec 2025 05:27:52 GMT</dateCreated>
   </head>
-  <body />
+  <body>
+    <outline text="FOMO is not a strategy • Buttondown" type="link" url="https://buttondown.com/justenoughinternet/archive/fomo-is-not-a-strategy/" created="Fri, 19 Dec 2025 22:16:55 +1300" />
+    <outline text="Day 0 Software Development: Putting it All Together on Day 2 | Puppet" type="link" url="https://www.puppet.com/blog/day-0-day-1-day-2-operations" created="Fri, 19 Dec 2025 22:10:33 +1300" />
+    <outline text="Product management is broken. Engineers can fix it" type="link" url="https://newsletter.posthog.com/p/product-management-is-broken-engineers" created="Fri, 19 Dec 2025 22:06:36 +1300" />
+    <outline text="What Actually Is Claude Code’s Plan Mode? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/" created="Fri, 19 Dec 2025 21:43:41 +1300" />
+    <outline text="Don't fear Python subprocess or Go codegen" type="link" url="https://benhoyt.com/writings/jubilant/" created="Tue, 16 Dec 2025 14:06:18 +1300" />
+    <outline text="I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours" type="link" url="https://simonwillison.net/2025/Dec/15/porting-justhtml/#atom-everything" created="Tue, 16 Dec 2025 14:04:55 +1300" />
+    <outline text="Reflecting on Life | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2024/12/26/reflecting-on-life" created="Sun, 14 Dec 2025 19:42:25 +1300" />
+    <outline text="My approach to running a link blog" type="link" url="https://simonwillison.net/2024/Dec/22/link-blog/" created="Sun, 14 Dec 2025 19:25:24 +1300" />
+    <outline text="Designing remote work at Linear - Linear" type="link" url="https://linear.app/now/designing-remote-work-at-linear" created="Sun, 14 Dec 2025 19:02:11 +1300" />
+    <outline text="How to provide feedback on documents. | Irrational Exuberance" type="link" url="https://lethain.com/providing-feedback-on-writing/?&amp;aid=rec0G1wJan7OXJWMX&amp;_bhlid=3f36155db13212618d48f169ae301e87e5e9656c" created="Fri, 12 Dec 2025 23:50:57 +1300" />
+    <outline text="Email has algorithmic curation, too — Seth Larson" type="link" url="https://sethmlarson.dev/email-has-algorithmic-curation-too?utm_campaign=rss" created="Fri, 12 Dec 2025 23:44:25 +1300" />
+    <outline text="Two Scenario Threat Modeling - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2025/aug/8/two-scenario-threat-modeling/" created="Fri, 12 Dec 2025 23:35:49 +1300" />
+    <outline text="Microservices Are a Tax Your Startup Probably Can’t Afford | Oleg Pustovit – Technical Leadership &amp; MVP Development for Startups" type="link" url="https://nexo.sh/posts/microservices-for-startups/" created="Fri, 12 Dec 2025 23:01:45 +1300" />
+    <outline text="Why I'm No Longer Talking to Architects About Microservices" type="link" url="https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices" created="Fri, 12 Dec 2025 22:54:50 +1300" />
+    <outline text="Punycode: My New Favorite Algorithm - Ian Duncan - Ian Duncan" type="link" url="https://iankduncan.com/engineering/2025-12-01-punycode/" created="Fri, 12 Dec 2025 20:17:28 +1300" />
+    <outline text="Under the hood of Canada Spends with Brendan Samek" type="link" url="https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything" created="Wed, 10 Dec 2025 14:07:40 +1300" />
+    <outline text="The fastest way to detect a vowel in a string - Austin Z. Henley" type="link" url="https://austinhenley.com/blog/vowels.html" created="Wed, 03 Dec 2025 20:25:12 +1300" />
+    <outline text="Scripts I wrote that I use all the time" type="link" url="https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/" created="Wed, 03 Dec 2025 20:05:16 +1300" />
+    <outline text="Setting up a codebase for working with coding agents" type="link" url="https://simonwillison.net/2025/Oct/25/coding-agent-tips/" created="Wed, 03 Dec 2025 18:56:10 +1300" />
+    <outline text="Unreal Engine isn't ready for AI" type="link" url="https://cra.mr/unreal-engine-isnt-ready-for-ai/" created="Wed, 03 Dec 2025 18:07:08 +1300" />
+    <outline text="No, AI is not Making Engineers 10x as Productive" type="link" url="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" created="Wed, 03 Dec 2025 17:45:36 +1300" />
+    <outline text="How I use AI (Oct 2025) - Ben Stolovitz" type="link" url="https://ben.stolovitz.com/posts/how_use_ai_oct_2025/" created="Wed, 03 Dec 2025 17:24:35 +1300" />
+    <outline text="I Am An AI Hater | moser’s frame shop" type="link" url="http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html" created="Wed, 03 Dec 2025 16:47:02 +1300" />
+    <outline text="Why This Python Performance Trick Doesn’t Matter Anymore" type="link" url="https://blog.codingconfessions.com/p/old-python-performance-trick" created="Fri, 28 Nov 2025 23:20:50 +1300" />
+  </body>
 </opml>
