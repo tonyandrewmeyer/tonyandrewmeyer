@@ -2,7 +2,8 @@ name: Update Blogroll OPML Files
 
 on:
   schedule:
-    # Run daily at 8:28 a.m. NZ time (19:28 UTC during NZDT, 20:28 UTC during NZST)
+    # Run daily at 8:28 a.m. NZ time (19:28 UTC, which is 8:28 a.m. NZDT)
+    # Note: During NZST (winter), this will run at 7:28 a.m. NZ time
     - cron: '28 19 * * *'
   workflow_dispatch:  # Allow manual triggering
 

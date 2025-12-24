@@ -9,6 +9,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 import sys
+import re
 
 # Constants
 MAX_DESCRIPTION_LENGTH = 200
@@ -69,8 +70,9 @@ def extract_outgoing_link(entry):
     # Filter out self-referential links and common non-article links
     external_links = []
     for link in parser.links:
-        # Skip links to the blog itself
-        if BLOG_DOMAIN in link:
+        # Skip links to the blog itself (check domain more precisely)
+        link_lower = link.lower()
+        if f'//{BLOG_DOMAIN}' in link_lower or f'www.{BLOG_DOMAIN}' in link_lower:
             continue
         # Skip common non-article links
         if link.startswith(('mailto:', 'javascript:', '#')):
@@ -138,7 +140,6 @@ def generate_articles_opml(feed_url, output_file):
         # Add description/summary if available
         if hasattr(entry, 'summary'):
             # Strip HTML tags from summary for cleaner description
-            import re
             summary = re.sub('<[^<]+?>', '', entry.summary)
             outline.set('description', summary[:MAX_DESCRIPTION_LENGTH])
         
