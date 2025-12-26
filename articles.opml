@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Thu, 25 Dec 2025 19:31:09 GMT</dateCreated>
+    <dateCreated>Fri, 26 Dec 2025 19:30:42 GMT</dateCreated>
   </head>
   <body>
+    <outline text="2025 was for AI what 2010 was for cloud (xpost) – charity.wtf" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
+    <outline text="Advent of Slop: A Guest Post by Claude | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/23/advent-of-slop/" created="Sat, 27 Dec 2025 08:19:42 +1300" />
+    <outline text="A new way to extract detailed transcripts from Claude Code" type="link" url="https://simonwillison.net/2025/Dec/25/claude-code-transcripts/" created="Fri, 26 Dec 2025 18:58:36 +1300" />
     <outline text="FOMO is not a strategy • Buttondown" type="link" url="https://buttondown.com/justenoughinternet/archive/fomo-is-not-a-strategy/" created="Fri, 19 Dec 2025 22:16:55 +1300" />
     <outline text="Day 0 Software Development: Putting it All Together on Day 2 | Puppet" type="link" url="https://www.puppet.com/blog/day-0-day-1-day-2-operations" created="Fri, 19 Dec 2025 22:10:33 +1300" />
     <outline text="Product management is broken. Engineers can fix it" type="link" url="https://newsletter.posthog.com/p/product-management-is-broken-engineers" created="Fri, 19 Dec 2025 22:06:36 +1300" />
@@ -26,8 +29,5 @@
     <outline text="Setting up a codebase for working with coding agents" type="link" url="https://simonwillison.net/2025/Oct/25/coding-agent-tips/" created="Wed, 03 Dec 2025 18:56:10 +1300" />
     <outline text="Unreal Engine isn't ready for AI" type="link" url="https://cra.mr/unreal-engine-isnt-ready-for-ai/" created="Wed, 03 Dec 2025 18:07:08 +1300" />
     <outline text="No, AI is not Making Engineers 10x as Productive" type="link" url="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" created="Wed, 03 Dec 2025 17:45:36 +1300" />
-    <outline text="How I use AI (Oct 2025) - Ben Stolovitz" type="link" url="https://ben.stolovitz.com/posts/how_use_ai_oct_2025/" created="Wed, 03 Dec 2025 17:24:35 +1300" />
-    <outline text="I Am An AI Hater | moser’s frame shop" type="link" url="http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html" created="Wed, 03 Dec 2025 16:47:02 +1300" />
-    <outline text="Why This Python Performance Trick Doesn’t Matter Anymore" type="link" url="https://blog.codingconfessions.com/p/old-python-performance-trick" created="Fri, 28 Nov 2025 23:20:50 +1300" />
   </body>
 </opml>
