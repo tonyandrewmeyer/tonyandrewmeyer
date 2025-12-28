@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 27 Dec 2025 19:30:18 GMT</dateCreated>
+    <dateCreated>Sun, 28 Dec 2025 19:30:55 GMT</dateCreated>
   </head>
   <body>
     <outline text="2025 was for AI what 2010 was for cloud (xpost) – charity.wtf" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
@@ -25,6 +25,7 @@
     <outline text="Punycode: My New Favorite Algorithm - Ian Duncan - Ian Duncan" type="link" url="https://iankduncan.com/engineering/2025-12-01-punycode/" created="Fri, 12 Dec 2025 20:17:28 +1300" />
     <outline text="Under the hood of Canada Spends with Brendan Samek" type="link" url="https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything" created="Wed, 10 Dec 2025 14:07:40 +1300" />
     <outline text="The fastest way to detect a vowel in a string - Austin Z. Henley" type="link" url="https://austinhenley.com/blog/vowels.html" created="Wed, 03 Dec 2025 20:25:12 +1300" />
+    <outline text="Scripts I wrote that I use all the time" type="link" url="https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/" created="Wed, 03 Dec 2025 20:05:16 +1300" />
     <outline text="Setting up a codebase for working with coding agents" type="link" url="https://simonwillison.net/2025/Oct/25/coding-agent-tips/" created="Wed, 03 Dec 2025 18:56:10 +1300" />
     <outline text="Unreal Engine isn't ready for AI" type="link" url="https://cra.mr/unreal-engine-isnt-ready-for-ai/" created="Wed, 03 Dec 2025 18:07:08 +1300" />
     <outline text="No, AI is not Making Engineers 10x as Productive" type="link" url="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" created="Wed, 03 Dec 2025 17:45:36 +1300" />
