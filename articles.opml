@@ -2,9 +2,11 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Thu, 01 Jan 2026 19:31:25 GMT</dateCreated>
+    <dateCreated>Fri, 02 Jan 2026 19:30:12 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Deciphering Glyph ::&#10;        The Next Thing Will Not Be Big" type="link" url="https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html" created="Fri, 02 Jan 2026 23:45:42 +1300" />
+    <outline text="2025: The year in LLMs" type="link" url="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything" created="Fri, 02 Jan 2026 15:43:51 +1300" />
     <outline text="2025 was for AI what 2010 was for cloud (xpost) – charity.wtf" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
     <outline text="Advent of Slop: A Guest Post by Claude | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/23/advent-of-slop/" created="Sat, 27 Dec 2025 08:19:42 +1300" />
     <outline text="A new way to extract detailed transcripts from Claude Code" type="link" url="https://simonwillison.net/2025/Dec/25/claude-code-transcripts/" created="Fri, 26 Dec 2025 18:58:36 +1300" />
@@ -27,7 +29,5 @@
     <outline text="The fastest way to detect a vowel in a string - Austin Z. Henley" type="link" url="https://austinhenley.com/blog/vowels.html" created="Wed, 03 Dec 2025 20:25:12 +1300" />
     <outline text="Scripts I wrote that I use all the time" type="link" url="https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/" created="Wed, 03 Dec 2025 20:05:16 +1300" />
     <outline text="Setting up a codebase for working with coding agents" type="link" url="https://simonwillison.net/2025/Oct/25/coding-agent-tips/" created="Wed, 03 Dec 2025 18:56:10 +1300" />
-    <outline text="Unreal Engine isn't ready for AI" type="link" url="https://cra.mr/unreal-engine-isnt-ready-for-ai/" created="Wed, 03 Dec 2025 18:07:08 +1300" />
-    <outline text="No, AI is not Making Engineers 10x as Productive" type="link" url="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" created="Wed, 03 Dec 2025 17:45:36 +1300" />
   </body>
 </opml>
