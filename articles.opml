@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 10 Jan 2026 19:31:12 GMT</dateCreated>
+    <dateCreated>Sun, 11 Jan 2026 19:30:55 GMT</dateCreated>
   </head>
   <body>
+    <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
     <outline text="AWS and Microsoft are selling much more than cloud services - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/" created="Fri, 09 Jan 2026 20:10:39 +1300" />
     <outline text="Deciphering Glyph ::&#10;        The Next Thing Will Not Be Big" type="link" url="https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html" created="Fri, 02 Jan 2026 23:45:42 +1300" />
     <outline text="2025: The year in LLMs" type="link" url="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything" created="Fri, 02 Jan 2026 15:43:51 +1300" />
@@ -27,7 +28,5 @@
     <outline text="Why I'm No Longer Talking to Architects About Microservices" type="link" url="https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices" created="Fri, 12 Dec 2025 22:54:50 +1300" />
     <outline text="Punycode: My New Favorite Algorithm - Ian Duncan - Ian Duncan" type="link" url="https://iankduncan.com/engineering/2025-12-01-punycode/" created="Fri, 12 Dec 2025 20:17:28 +1300" />
     <outline text="Under the hood of Canada Spends with Brendan Samek" type="link" url="https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything" created="Wed, 10 Dec 2025 14:07:40 +1300" />
-    <outline text="The fastest way to detect a vowel in a string - Austin Z. Henley" type="link" url="https://austinhenley.com/blog/vowels.html" created="Wed, 03 Dec 2025 20:25:12 +1300" />
-    <outline text="Scripts I wrote that I use all the time" type="link" url="https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/" created="Wed, 03 Dec 2025 20:05:16 +1300" />
   </body>
 </opml>
