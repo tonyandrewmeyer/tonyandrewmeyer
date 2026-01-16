@@ -2,9 +2,14 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Thu, 15 Jan 2026 19:36:04 GMT</dateCreated>
+    <dateCreated>Fri, 16 Jan 2026 19:31:35 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
+    <outline text="From Software Engineering ⇒ Product Management (A 3 Month Reflection)" type="link" url="https://loujaybee.com/software-engineering-to-product-management" created="Fri, 16 Jan 2026 18:18:06 +1300" />
+    <outline text="How to Ruin All of Package Management | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html" created="Fri, 16 Jan 2026 18:13:16 +1300" />
+    <outline text="Pluralistic: How the Light Gets In (15 Jan 2026) – Pluralistic: Daily links from Cory Doctorow" type="link" url="https://pluralistic.net/2026/01/15/how-the-light-gets-in/" created="Fri, 16 Jan 2026 17:51:32 +1300" />
+    <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
     <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
     <outline text="AWS and Microsoft are selling much more than cloud services - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/" created="Fri, 09 Jan 2026 20:10:39 +1300" />
     <outline text="Deciphering Glyph ::&#10;        The Next Thing Will Not Be Big" type="link" url="https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html" created="Fri, 02 Jan 2026 23:45:42 +1300" />
@@ -23,10 +28,5 @@
     <outline text="Designing remote work at Linear - Linear" type="link" url="https://linear.app/now/designing-remote-work-at-linear" created="Sun, 14 Dec 2025 19:02:11 +1300" />
     <outline text="How to provide feedback on documents. | Irrational Exuberance" type="link" url="https://lethain.com/providing-feedback-on-writing/?&amp;aid=rec0G1wJan7OXJWMX&amp;_bhlid=3f36155db13212618d48f169ae301e87e5e9656c" created="Fri, 12 Dec 2025 23:50:57 +1300" />
     <outline text="Email has algorithmic curation, too — Seth Larson" type="link" url="https://sethmlarson.dev/email-has-algorithmic-curation-too?utm_campaign=rss" created="Fri, 12 Dec 2025 23:44:25 +1300" />
-    <outline text="Two Scenario Threat Modeling - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2025/aug/8/two-scenario-threat-modeling/" created="Fri, 12 Dec 2025 23:35:49 +1300" />
-    <outline text="Microservices Are a Tax Your Startup Probably Can’t Afford | Oleg Pustovit – Technical Leadership &amp; MVP Development for Startups" type="link" url="https://nexo.sh/posts/microservices-for-startups/" created="Fri, 12 Dec 2025 23:01:45 +1300" />
-    <outline text="Why I'm No Longer Talking to Architects About Microservices" type="link" url="https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices" created="Fri, 12 Dec 2025 22:54:50 +1300" />
-    <outline text="Punycode: My New Favorite Algorithm - Ian Duncan - Ian Duncan" type="link" url="https://iankduncan.com/engineering/2025-12-01-punycode/" created="Fri, 12 Dec 2025 20:17:28 +1300" />
-    <outline text="Under the hood of Canada Spends with Brendan Samek" type="link" url="https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything" created="Wed, 10 Dec 2025 14:07:40 +1300" />
   </body>
 </opml>
