@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 21 Jan 2026 19:37:56 GMT</dateCreated>
+    <dateCreated>Thu, 22 Jan 2026 19:35:05 GMT</dateCreated>
   </head>
   <body>
     <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
@@ -12,6 +12,7 @@
     <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
     <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
     <outline text="AWS and Microsoft are selling much more than cloud services - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/" created="Fri, 09 Jan 2026 20:10:39 +1300" />
+    <outline text="Deciphering Glyph ::&#10;        The Next Thing Will Not Be Big" type="link" url="https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html" created="Fri, 02 Jan 2026 23:45:42 +1300" />
     <outline text="2025: The year in LLMs" type="link" url="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything" created="Fri, 02 Jan 2026 15:43:51 +1300" />
     <outline text="2025 was for AI what 2010 was for cloud (xpost) – charity.wtf" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
     <outline text="Advent of Slop: A Guest Post by Claude | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/23/advent-of-slop/" created="Sat, 27 Dec 2025 08:19:42 +1300" />
