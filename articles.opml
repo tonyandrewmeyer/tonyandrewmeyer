@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Tue, 27 Jan 2026 19:37:33 GMT</dateCreated>
+    <dateCreated>Wed, 28 Jan 2026 19:38:55 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Inside a five-year-old startup’s rapid AI makeover" type="link" url="https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft" created="Wed, 28 Jan 2026 11:56:00 +1300" />
     <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
     <outline text="From Software Engineering ⇒ Product Management (A 3 Month Reflection)" type="link" url="https://loujaybee.com/software-engineering-to-product-management" created="Fri, 16 Jan 2026 18:18:06 +1300" />
     <outline text="How to Ruin All of Package Management | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html" created="Fri, 16 Jan 2026 18:13:16 +1300" />
@@ -27,6 +28,5 @@
     <outline text="My approach to running a link blog" type="link" url="https://simonwillison.net/2024/Dec/22/link-blog/" created="Sun, 14 Dec 2025 19:25:24 +1300" />
     <outline text="Designing remote work at Linear - Linear" type="link" url="https://linear.app/now/designing-remote-work-at-linear" created="Sun, 14 Dec 2025 19:02:11 +1300" />
     <outline text="How to provide feedback on documents. | Irrational Exuberance" type="link" url="https://lethain.com/providing-feedback-on-writing/?&amp;aid=rec0G1wJan7OXJWMX&amp;_bhlid=3f36155db13212618d48f169ae301e87e5e9656c" created="Fri, 12 Dec 2025 23:50:57 +1300" />
-    <outline text="Email has algorithmic curation, too — Seth Larson" type="link" url="https://sethmlarson.dev/email-has-algorithmic-curation-too?utm_campaign=rss" created="Fri, 12 Dec 2025 23:44:25 +1300" />
   </body>
 </opml>
