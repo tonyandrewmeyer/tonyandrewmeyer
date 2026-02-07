@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 06 Feb 2026 19:40:49 GMT</dateCreated>
+    <dateCreated>Sat, 07 Feb 2026 19:35:27 GMT</dateCreated>
   </head>
   <body>
+    <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
     <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
     <outline text="How Markdown took over the world - Anil Dash" type="link" url="https://anildash.com/2026/01/09/how-markdown-took-over-the-world/" created="Sat, 07 Feb 2026 00:49:09 +1300" />
     <outline text="How I influence tech company politics as a staff software engineer" type="link" url="https://www.seangoedecke.com/how-to-influence-politics/" created="Sat, 07 Feb 2026 00:03:33 +1300" />
