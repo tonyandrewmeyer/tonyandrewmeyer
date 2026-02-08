@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 07 Feb 2026 19:35:27 GMT</dateCreated>
+    <dateCreated>Sun, 08 Feb 2026 19:36:01 GMT</dateCreated>
   </head>
   <body>
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
@@ -14,7 +14,6 @@
     <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
     <outline text="From Software Engineering ⇒ Product Management (A 3 Month Reflection)" type="link" url="https://loujaybee.com/software-engineering-to-product-management" created="Fri, 16 Jan 2026 18:18:06 +1300" />
     <outline text="How to Ruin All of Package Management | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html" created="Fri, 16 Jan 2026 18:13:16 +1300" />
-    <outline text="Pluralistic: How the Light Gets In (15 Jan 2026) – Pluralistic: Daily links from Cory Doctorow" type="link" url="https://pluralistic.net/2026/01/15/how-the-light-gets-in/" created="Fri, 16 Jan 2026 17:51:32 +1300" />
     <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
     <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
     <outline text="AWS and Microsoft are selling much more than cloud services - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/" created="Fri, 09 Jan 2026 20:10:39 +1300" />
