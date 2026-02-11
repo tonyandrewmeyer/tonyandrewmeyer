@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Tue, 10 Feb 2026 19:48:29 GMT</dateCreated>
+    <dateCreated>Wed, 11 Feb 2026 19:46:01 GMT</dateCreated>
   </head>
   <body>
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
     <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
     <outline text="How Markdown took over the world - Anil Dash" type="link" url="https://anildash.com/2026/01/09/how-markdown-took-over-the-world/" created="Sat, 07 Feb 2026 00:49:09 +1300" />
+    <outline text="How I influence tech company politics as a staff software engineer" type="link" url="https://www.seangoedecke.com/how-to-influence-politics/" created="Sat, 07 Feb 2026 00:03:33 +1300" />
     <outline text="Agent Psychosis: Are We Going Insane? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/18/agent-psychosis/" created="Fri, 06 Feb 2026 14:40:41 +1300" />
     <outline text="Inside a five-year-old startup’s rapid AI makeover" type="link" url="https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft" created="Wed, 28 Jan 2026 11:56:00 +1300" />
     <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
