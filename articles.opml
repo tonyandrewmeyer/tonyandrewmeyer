@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 14 Feb 2026 19:35:30 GMT</dateCreated>
+    <dateCreated>Sun, 15 Feb 2026 19:36:23 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Nobody Rips Out the Plumbing – Regionally Famous" type="link" url="https://regionallyfamous.com/nobody-rips-out-the-plumbing/" created="Sun, 15 Feb 2026 19:56:16 +1300" />
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
     <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
     <outline text="How Markdown took over the world - Anil Dash" type="link" url="https://anildash.com/2026/01/09/how-markdown-took-over-the-world/" created="Sat, 07 Feb 2026 00:49:09 +1300" />
@@ -28,6 +29,5 @@
     <outline text="Product management is broken. Engineers can fix it" type="link" url="https://newsletter.posthog.com/p/product-management-is-broken-engineers" created="Fri, 19 Dec 2025 22:06:36 +1300" />
     <outline text="What Actually Is Claude Code’s Plan Mode? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/" created="Fri, 19 Dec 2025 21:43:41 +1300" />
     <outline text="Don't fear Python subprocess or Go codegen" type="link" url="https://benhoyt.com/writings/jubilant/" created="Tue, 16 Dec 2025 14:06:18 +1300" />
-    <outline text="I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours" type="link" url="https://simonwillison.net/2025/Dec/15/porting-justhtml/#atom-everything" created="Tue, 16 Dec 2025 14:04:55 +1300" />
   </body>
 </opml>
