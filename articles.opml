@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 20 Feb 2026 19:40:06 GMT</dateCreated>
+    <dateCreated>Sat, 21 Feb 2026 19:35:20 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Recovering lost code" type="link" url="https://simonwillison.net/2026/Feb/19/recovering-lost-code/" created="Sat, 21 Feb 2026 19:42:50 +1300" />
     <outline text="Nobody Rips Out the Plumbing – Regionally Famous" type="link" url="https://regionallyfamous.com/nobody-rips-out-the-plumbing/" created="Sun, 15 Feb 2026 19:56:16 +1300" />
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
     <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
@@ -28,6 +29,5 @@
     <outline text="Day 0 Software Development: Putting it All Together on Day 2 | Puppet" type="link" url="https://www.puppet.com/blog/day-0-day-1-day-2-operations" created="Fri, 19 Dec 2025 22:10:33 +1300" />
     <outline text="Product management is broken. Engineers can fix it" type="link" url="https://newsletter.posthog.com/p/product-management-is-broken-engineers" created="Fri, 19 Dec 2025 22:06:36 +1300" />
     <outline text="What Actually Is Claude Code’s Plan Mode? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/" created="Fri, 19 Dec 2025 21:43:41 +1300" />
-    <outline text="Don't fear Python subprocess or Go codegen" type="link" url="https://benhoyt.com/writings/jubilant/" created="Tue, 16 Dec 2025 14:06:18 +1300" />
   </body>
 </opml>
