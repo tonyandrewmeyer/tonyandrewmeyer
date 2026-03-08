@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 07 Mar 2026 19:34:07 GMT</dateCreated>
+    <dateCreated>Sun, 08 Mar 2026 19:35:09 GMT</dateCreated>
   </head>
   <body>
+    <outline text="An Entirely Other Day: Lose Myself" type="link" url="https://www.eod.com/blog/2026/02/lose-myself/" created="Sun, 08 Mar 2026 23:04:44 +1300" />
+    <outline text="Respecting maintainer time should be in security policies — Seth Larson" type="link" url="https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies" created="Sun, 08 Mar 2026 22:59:12 +1300" />
+    <outline text="AI fatigue is real and nobody talks about it | Siddhant Khare" type="link" url="https://siddhantkhare.com/writing/ai-fatigue-is-real" created="Sun, 08 Mar 2026 20:07:38 +1300" />
     <outline text="Recovering lost code" type="link" url="https://simonwillison.net/2026/Feb/19/recovering-lost-code/" created="Sat, 21 Feb 2026 19:42:50 +1300" />
     <outline text="Nobody Rips Out the Plumbing – New Website Project" type="link" url="https://regionallyfamous.com/nobody-rips-out-the-plumbing/" created="Sun, 15 Feb 2026 19:56:16 +1300" />
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
@@ -25,9 +28,5 @@
     <outline text="2025 was for AI what 2010 was for cloud (xpost) – charity.wtf" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
     <outline text="Advent of Slop: A Guest Post by Claude | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/23/advent-of-slop/" created="Sat, 27 Dec 2025 08:19:42 +1300" />
     <outline text="A new way to extract detailed transcripts from Claude Code" type="link" url="https://simonwillison.net/2025/Dec/25/claude-code-transcripts/" created="Fri, 26 Dec 2025 18:58:36 +1300" />
-    <outline text="FOMO is not a strategy • Buttondown" type="link" url="https://buttondown.com/justenoughinternet/archive/fomo-is-not-a-strategy/" created="Fri, 19 Dec 2025 22:16:55 +1300" />
-    <outline text="Day 0 Software Development: Putting it All Together on Day 2 | Puppet" type="link" url="https://www.puppet.com/blog/day-0-day-1-day-2-operations" created="Fri, 19 Dec 2025 22:10:33 +1300" />
-    <outline text="Product management is broken. Engineers can fix it" type="link" url="https://newsletter.posthog.com/p/product-management-is-broken-engineers" created="Fri, 19 Dec 2025 22:06:36 +1300" />
-    <outline text="What Actually Is Claude Code’s Plan Mode? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/" created="Fri, 19 Dec 2025 21:43:41 +1300" />
   </body>
 </opml>
