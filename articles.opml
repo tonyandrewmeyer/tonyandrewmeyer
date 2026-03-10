@@ -2,9 +2,16 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Mon, 09 Mar 2026 19:41:43 GMT</dateCreated>
+    <dateCreated>Tue, 10 Mar 2026 19:41:02 GMT</dateCreated>
   </head>
   <body>
+    <outline text="AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed." type="link" url="https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/" created="Tue, 10 Mar 2026 22:45:25 +1300" />
+    <outline text="Deciphering Glyph ::&#10;        What Is Code Review For?" type="link" url="https://blog.glyph.im/2026/03/what-is-code-review-for.html" created="Tue, 10 Mar 2026 22:38:26 +1300" />
+    <outline text="First run the tests - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/" created="Tue, 10 Mar 2026 22:33:49 +1300" />
+    <outline text="Building AI Code Review with context as a first-class system" type="link" url="https://getunblocked.com/blog/building-ai-code-review-with-context-as-a-first-class-system/" created="Tue, 10 Mar 2026 22:25:11 +1300" />
+    <outline text="Curiosity is the first-step in problem solving. | Irrational Exuberance" type="link" url="https://lethain.com/curiosity-first-step-problem-solving/" created="Tue, 10 Mar 2026 22:02:01 +1300" />
+    <outline text="Context Management and MCP" type="link" url="https://cra.mr/context-management-and-mcp/" created="Tue, 10 Mar 2026 21:34:29 +1300" />
+    <outline text="crawshaw - 2026-02-08" type="link" url="https://crawshaw.io/blog/eight-more-months-of-agents" created="Tue, 10 Mar 2026 21:12:42 +1300" />
     <outline text="An Entirely Other Day: Lose Myself" type="link" url="https://www.eod.com/blog/2026/02/lose-myself/" created="Sun, 08 Mar 2026 23:04:44 +1300" />
     <outline text="Respecting maintainer time should be in security policies — Seth Larson" type="link" url="https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies" created="Sun, 08 Mar 2026 22:59:12 +1300" />
     <outline text="AI fatigue is real and nobody talks about it | Siddhant Khare" type="link" url="https://siddhantkhare.com/writing/ai-fatigue-is-real" created="Sun, 08 Mar 2026 20:07:38 +1300" />
@@ -13,6 +20,7 @@
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
     <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
     <outline text="How Markdown took over the world - Anil Dash" type="link" url="https://anildash.com/2026/01/09/how-markdown-took-over-the-world/" created="Sat, 07 Feb 2026 00:49:09 +1300" />
+    <outline text="How I influence tech company politics as a staff software engineer" type="link" url="https://www.seangoedecke.com/how-to-influence-politics/" created="Sat, 07 Feb 2026 00:03:33 +1300" />
     <outline text="Agent Psychosis: Are We Going Insane? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/18/agent-psychosis/" created="Fri, 06 Feb 2026 14:40:41 +1300" />
     <outline text="Inside a five-year-old startup’s rapid AI makeover" type="link" url="https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft" created="Wed, 28 Jan 2026 11:56:00 +1300" />
     <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
@@ -21,11 +29,5 @@
     <outline text="Pluralistic: How the Light Gets In (15 Jan 2026) – Pluralistic: Daily links from Cory Doctorow" type="link" url="https://pluralistic.net/2026/01/15/how-the-light-gets-in/" created="Fri, 16 Jan 2026 17:51:32 +1300" />
     <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
     <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
-    <outline text="AWS and Microsoft are selling much more than cloud services - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/" created="Fri, 09 Jan 2026 20:10:39 +1300" />
-    <outline text="Deciphering Glyph ::&#10;        The Next Thing Will Not Be Big" type="link" url="https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html" created="Fri, 02 Jan 2026 23:45:42 +1300" />
-    <outline text="2025: The year in LLMs" type="link" url="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything" created="Fri, 02 Jan 2026 15:43:51 +1300" />
-    <outline text="2025 was for AI what 2010 was for cloud (xpost) – charity.wtf" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
-    <outline text="Advent of Slop: A Guest Post by Claude | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/23/advent-of-slop/" created="Sat, 27 Dec 2025 08:19:42 +1300" />
-    <outline text="A new way to extract detailed transcripts from Claude Code" type="link" url="https://simonwillison.net/2025/Dec/25/claude-code-transcripts/" created="Fri, 26 Dec 2025 18:58:36 +1300" />
   </body>
 </opml>
