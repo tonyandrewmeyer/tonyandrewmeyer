@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Tue, 10 Mar 2026 19:41:02 GMT</dateCreated>
+    <dateCreated>Wed, 11 Mar 2026 19:41:52 GMT</dateCreated>
   </head>
   <body>
+    <outline text="I Sold Out For 200 A Month And All I Got Was This Perfectly Generated Terraform" type="link" url="https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/" created="Wed, 11 Mar 2026 11:14:40 +1300" />
     <outline text="AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed." type="link" url="https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/" created="Tue, 10 Mar 2026 22:45:25 +1300" />
     <outline text="Deciphering Glyph ::&#10;        What Is Code Review For?" type="link" url="https://blog.glyph.im/2026/03/what-is-code-review-for.html" created="Tue, 10 Mar 2026 22:38:26 +1300" />
     <outline text="First run the tests - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/" created="Tue, 10 Mar 2026 22:33:49 +1300" />
@@ -28,6 +29,5 @@
     <outline text="How to Ruin All of Package Management | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html" created="Fri, 16 Jan 2026 18:13:16 +1300" />
     <outline text="Pluralistic: How the Light Gets In (15 Jan 2026) – Pluralistic: Daily links from Cory Doctorow" type="link" url="https://pluralistic.net/2026/01/15/how-the-light-gets-in/" created="Fri, 16 Jan 2026 17:51:32 +1300" />
     <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
-    <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
   </body>
 </opml>
