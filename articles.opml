@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 13 Mar 2026 19:39:40 GMT</dateCreated>
+    <dateCreated>Sat, 14 Mar 2026 19:37:08 GMT</dateCreated>
   </head>
   <body>
+    <outline text="What do coders do after AI? - Anil Dash" type="link" url="https://anildash.com/2026/03/13/coders-after-ai/" created="Sat, 14 Mar 2026 18:00:13 +1300" />
+    <outline text="Optimizing Content for Agents" type="link" url="https://cra.mr/optimizing-content-for-agents/" created="Sat, 14 Mar 2026 17:29:41 +1300" />
+    <outline text="Labor Market Impacts" type="link" url="https://www.anthropic.com/research/labor-market-impacts" created="Sat, 14 Mar 2026 17:20:16 +1300" />
     <outline text="I Sold Out For 200 A Month And All I Got Was This Perfectly Generated Terraform" type="link" url="https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/" created="Wed, 11 Mar 2026 11:14:40 +1300" />
     <outline text="AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed." type="link" url="https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/" created="Tue, 10 Mar 2026 22:45:25 +1300" />
     <outline text="Deciphering Glyph ::&#10;        What Is Code Review For?" type="link" url="https://blog.glyph.im/2026/03/what-is-code-review-for.html" created="Tue, 10 Mar 2026 22:38:26 +1300" />
@@ -26,8 +29,5 @@
     <outline text="Inside a five-year-old startup’s rapid AI makeover" type="link" url="https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft" created="Wed, 28 Jan 2026 11:56:00 +1300" />
     <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
     <outline text="From Software Engineering ⇒ Product Management (A 3 Month Reflection)" type="link" url="https://loujaybee.com/software-engineering-to-product-management" created="Fri, 16 Jan 2026 18:18:06 +1300" />
-    <outline text="How to Ruin All of Package Management | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html" created="Fri, 16 Jan 2026 18:13:16 +1300" />
-    <outline text="Pluralistic: How the Light Gets In (15 Jan 2026) – Pluralistic: Daily links from Cory Doctorow" type="link" url="https://pluralistic.net/2026/01/15/how-the-light-gets-in/" created="Fri, 16 Jan 2026 17:51:32 +1300" />
-    <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
   </body>
 </opml>
