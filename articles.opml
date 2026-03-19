@@ -2,9 +2,16 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 18 Mar 2026 19:43:38 GMT</dateCreated>
+    <dateCreated>Thu, 19 Mar 2026 19:43:20 GMT</dateCreated>
   </head>
   <body>
+    <outline text="AddyOsmani.com - 21 Lessons From 14 Years at Google" type="link" url="https://addyosmani.com/blog/21-lessons/" created="Fri, 20 Mar 2026 00:55:25 +1300" />
+    <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
+    <outline text="Monty says: The concepts of forking" type="link" url="http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html" created="Fri, 20 Mar 2026 00:41:32 +1300" />
+    <outline text="Defense in Depth: A Practical Guide to Python Supply Chain Security · Bernát Gábor - Engineering &amp; Open Source" type="link" url="https://bernat.tech/posts/securing-python-supply-chain/" created="Fri, 20 Mar 2026 00:37:18 +1300" />
+    <outline text="robida/human.json: A lightweight protocol for humans to assert authorship of their website content and vouch for the humanity of others. - Codeberg.org" type="link" url="https://codeberg.org/robida/human.json" created="Fri, 20 Mar 2026 00:20:41 +1300" />
+    <outline text="Wired for Change: When Tech Stopped Being “Safe” – Accidentally in Code" type="link" url="https://cate.blog/2026/03/17/wired-for-change-when-tech-stopped-being-safe/" created="Fri, 20 Mar 2026 00:11:13 +1300" />
+    <outline text="The 49MB Web Page | thatshubham" type="link" url="https://thatshubham.com/blog/news-audit" created="Thu, 19 Mar 2026 14:20:02 +1300" />
     <outline text="What do coders do after AI? - Anil Dash" type="link" url="https://anildash.com/2026/03/13/coders-after-ai/" created="Sat, 14 Mar 2026 18:00:13 +1300" />
     <outline text="Optimizing Content for Agents" type="link" url="https://cra.mr/optimizing-content-for-agents/" created="Sat, 14 Mar 2026 17:29:41 +1300" />
     <outline text="Labor Market Impacts" type="link" url="https://www.anthropic.com/research/labor-market-impacts" created="Sat, 14 Mar 2026 17:20:16 +1300" />
@@ -22,12 +29,5 @@
     <outline text="Recovering lost code" type="link" url="https://simonwillison.net/2026/Feb/19/recovering-lost-code/" created="Sat, 21 Feb 2026 19:42:50 +1300" />
     <outline text="Nobody Rips Out the Plumbing – Regionally Famous" type="link" url="https://regionallyfamous.com/nobody-rips-out-the-plumbing/" created="Sun, 15 Feb 2026 19:56:16 +1300" />
     <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
-    <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
-    <outline text="How Markdown took over the world - Anil Dash" type="link" url="https://anildash.com/2026/01/09/how-markdown-took-over-the-world/" created="Sat, 07 Feb 2026 00:49:09 +1300" />
-    <outline text="How I influence tech company politics as a staff software engineer" type="link" url="https://www.seangoedecke.com/how-to-influence-politics/" created="Sat, 07 Feb 2026 00:03:33 +1300" />
-    <outline text="Agent Psychosis: Are We Going Insane? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/18/agent-psychosis/" created="Fri, 06 Feb 2026 14:40:41 +1300" />
-    <outline text="Inside a five-year-old startup’s rapid AI makeover" type="link" url="https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft" created="Wed, 28 Jan 2026 11:56:00 +1300" />
-    <outline text="Stacktower: An Accidental Deep Dive" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
-    <outline text="From Software Engineering ⇒ Product Management (A 3 Month Reflection)" type="link" url="https://loujaybee.com/software-engineering-to-product-management" created="Fri, 16 Jan 2026 18:18:06 +1300" />
   </body>
 </opml>
