@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Thu, 19 Mar 2026 19:43:20 GMT</dateCreated>
+    <dateCreated>Fri, 20 Mar 2026 19:40:08 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
+    <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
+    <outline text="No Semicolons Needed | Terts Diepraam" type="link" url="https://terts.dev/blog/no-semicolons-needed/" created="Fri, 20 Mar 2026 14:24:15 +1300" />
     <outline text="AddyOsmani.com - 21 Lessons From 14 Years at Google" type="link" url="https://addyosmani.com/blog/21-lessons/" created="Fri, 20 Mar 2026 00:55:25 +1300" />
     <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
     <outline text="Monty says: The concepts of forking" type="link" url="http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html" created="Fri, 20 Mar 2026 00:41:32 +1300" />
@@ -26,8 +29,5 @@
     <outline text="An Entirely Other Day: Lose Myself" type="link" url="https://www.eod.com/blog/2026/02/lose-myself/" created="Sun, 08 Mar 2026 23:04:44 +1300" />
     <outline text="Respecting maintainer time should be in security policies — Seth Larson" type="link" url="https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies" created="Sun, 08 Mar 2026 22:59:12 +1300" />
     <outline text="AI fatigue is real and nobody talks about it | Siddhant Khare" type="link" url="https://siddhantkhare.com/writing/ai-fatigue-is-real" created="Sun, 08 Mar 2026 20:07:38 +1300" />
-    <outline text="Recovering lost code" type="link" url="https://simonwillison.net/2026/Feb/19/recovering-lost-code/" created="Sat, 21 Feb 2026 19:42:50 +1300" />
-    <outline text="Nobody Rips Out the Plumbing – Regionally Famous" type="link" url="https://regionallyfamous.com/nobody-rips-out-the-plumbing/" created="Sun, 15 Feb 2026 19:56:16 +1300" />
-    <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
   </body>
 </opml>
