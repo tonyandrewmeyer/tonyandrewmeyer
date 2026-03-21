@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 20 Mar 2026 19:40:08 GMT</dateCreated>
+    <dateCreated>Sat, 21 Mar 2026 19:35:20 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Some Things Just Take Time | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" created="Sun, 22 Mar 2026 00:21:49 +1300" />
     <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
     <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
     <outline text="No Semicolons Needed | Terts Diepraam" type="link" url="https://terts.dev/blog/no-semicolons-needed/" created="Fri, 20 Mar 2026 14:24:15 +1300" />
@@ -28,6 +29,5 @@
     <outline text="crawshaw - 2026-02-08" type="link" url="https://crawshaw.io/blog/eight-more-months-of-agents" created="Tue, 10 Mar 2026 21:12:42 +1300" />
     <outline text="An Entirely Other Day: Lose Myself" type="link" url="https://www.eod.com/blog/2026/02/lose-myself/" created="Sun, 08 Mar 2026 23:04:44 +1300" />
     <outline text="Respecting maintainer time should be in security policies — Seth Larson" type="link" url="https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies" created="Sun, 08 Mar 2026 22:59:12 +1300" />
-    <outline text="AI fatigue is real and nobody talks about it | Siddhant Khare" type="link" url="https://siddhantkhare.com/writing/ai-fatigue-is-real" created="Sun, 08 Mar 2026 20:07:38 +1300" />
   </body>
 </opml>
