@@ -2,9 +2,16 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 21 Mar 2026 19:35:20 GMT</dateCreated>
+    <dateCreated>Sun, 22 Mar 2026 19:36:30 GMT</dateCreated>
   </head>
   <body>
+    <outline text="On Long Term Software Development - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/on-long-term-software-development/" created="Sun, 22 Mar 2026 23:23:01 +1300" />
+    <outline text="simonw/actions-latest" type="link" url="https://simonwillison.net/2025/Dec/28/actions-latest/" created="Sun, 22 Mar 2026 22:41:08 +1300" />
+    <outline text="Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology" type="link" url="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/" created="Sun, 22 Mar 2026 22:38:33 +1300" />
+    <outline text="Turn Dependabot Off" type="link" url="https://words.filippo.io/dependabot/" created="Sun, 22 Mar 2026 22:15:21 +1300" />
+    <outline text="Literary Hub » What We Lose When We Gamify Reading" type="link" url="https://lithub.com/what-we-lose-when-we-gamify-reading/" created="Sun, 22 Mar 2026 22:09:47 +1300" />
+    <outline text="AI 'aha' team meetings | Lara Hogan" type="link" url="https://larahogan.me/blog/ai-aha-team-meetings/" created="Sun, 22 Mar 2026 21:35:26 +1300" />
+    <outline text="Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights | Spotify Engineering" type="link" url="https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped" created="Sun, 22 Mar 2026 21:25:50 +1300" />
     <outline text="Some Things Just Take Time | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" created="Sun, 22 Mar 2026 00:21:49 +1300" />
     <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
     <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
@@ -23,11 +30,5 @@
     <outline text="AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed." type="link" url="https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/" created="Tue, 10 Mar 2026 22:45:25 +1300" />
     <outline text="Deciphering Glyph ::&#10;        What Is Code Review For?" type="link" url="https://blog.glyph.im/2026/03/what-is-code-review-for.html" created="Tue, 10 Mar 2026 22:38:26 +1300" />
     <outline text="First run the tests - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/" created="Tue, 10 Mar 2026 22:33:49 +1300" />
-    <outline text="Building AI Code Review with context as a first-class system" type="link" url="https://getunblocked.com/blog/building-ai-code-review-with-context-as-a-first-class-system/" created="Tue, 10 Mar 2026 22:25:11 +1300" />
-    <outline text="Curiosity is the first-step in problem solving. | Irrational Exuberance" type="link" url="https://lethain.com/curiosity-first-step-problem-solving/" created="Tue, 10 Mar 2026 22:02:01 +1300" />
-    <outline text="Context Management and MCP" type="link" url="https://cra.mr/context-management-and-mcp/" created="Tue, 10 Mar 2026 21:34:29 +1300" />
-    <outline text="crawshaw - 2026-02-08" type="link" url="https://crawshaw.io/blog/eight-more-months-of-agents" created="Tue, 10 Mar 2026 21:12:42 +1300" />
-    <outline text="An Entirely Other Day: Lose Myself" type="link" url="https://www.eod.com/blog/2026/02/lose-myself/" created="Sun, 08 Mar 2026 23:04:44 +1300" />
-    <outline text="Respecting maintainer time should be in security policies — Seth Larson" type="link" url="https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies" created="Sun, 08 Mar 2026 22:59:12 +1300" />
   </body>
 </opml>
