@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Tue, 24 Mar 2026 19:44:44 GMT</dateCreated>
+    <dateCreated>Wed, 25 Mar 2026 19:43:20 GMT</dateCreated>
   </head>
   <body>
     <outline text="Using Git with coding agents - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/" created="Mon, 23 Mar 2026 20:12:37 +1300" />
@@ -21,6 +21,7 @@
     <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
     <outline text="Monty says: The concepts of forking" type="link" url="http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html" created="Fri, 20 Mar 2026 00:41:32 +1300" />
     <outline text="Defense in Depth: A Practical Guide to Python Supply Chain Security · Bernát Gábor - Engineering &amp; Open Source" type="link" url="https://bernat.tech/posts/securing-python-supply-chain/" created="Fri, 20 Mar 2026 00:37:18 +1300" />
+    <outline text="robida/human.json: A lightweight protocol for humans to assert authorship of their website content and vouch for the humanity of others. - Codeberg.org" type="link" url="https://codeberg.org/robida/human.json" created="Fri, 20 Mar 2026 00:20:41 +1300" />
     <outline text="Wired for Change: When Tech Stopped Being “Safe” – Accidentally in Code" type="link" url="https://cate.blog/2026/03/17/wired-for-change-when-tech-stopped-being-safe/" created="Fri, 20 Mar 2026 00:11:13 +1300" />
     <outline text="The 49MB Web Page | thatshubham" type="link" url="https://thatshubham.com/blog/news-audit" created="Thu, 19 Mar 2026 14:20:02 +1300" />
     <outline text="What do coders do after AI? - Anil Dash" type="link" url="https://anildash.com/2026/03/13/coders-after-ai/" created="Sat, 14 Mar 2026 18:00:13 +1300" />
