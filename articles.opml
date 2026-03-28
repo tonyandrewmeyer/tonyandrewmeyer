@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 27 Mar 2026 19:41:50 GMT</dateCreated>
+    <dateCreated>Sat, 28 Mar 2026 19:38:59 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Package Management is a Wicked Problem | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html" created="Sun, 29 Mar 2026 01:11:36 +1300" />
+    <outline text="Salesforce – Part one" type="link" url="https://buildingslack.com/salesforce-part-one/" created="Sat, 28 Mar 2026 23:25:15 +1300" />
+    <outline text="My heuristics are wrong. What now? - Marc's Blog" type="link" url="https://brooker.co.za/blog/2026/03/20/ic-leadership.html" created="Sat, 28 Mar 2026 23:19:09 +1300" />
     <outline text="Using Git with coding agents - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/" created="Mon, 23 Mar 2026 20:12:37 +1300" />
     <outline text="On Long Term Software Development - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/on-long-term-software-development/" created="Sun, 22 Mar 2026 23:23:01 +1300" />
     <outline text="simonw/actions-latest" type="link" url="https://simonwillison.net/2025/Dec/28/actions-latest/" created="Sun, 22 Mar 2026 22:41:08 +1300" />
@@ -26,8 +29,5 @@
     <outline text="The 49MB Web Page | thatshubham" type="link" url="https://thatshubham.com/blog/news-audit" created="Thu, 19 Mar 2026 14:20:02 +1300" />
     <outline text="What do coders do after AI? - Anil Dash" type="link" url="https://anildash.com/2026/03/13/coders-after-ai/" created="Sat, 14 Mar 2026 18:00:13 +1300" />
     <outline text="Optimizing Content for Agents" type="link" url="https://cra.mr/optimizing-content-for-agents/" created="Sat, 14 Mar 2026 17:29:41 +1300" />
-    <outline text="Labor Market Impacts" type="link" url="https://www.anthropic.com/research/labor-market-impacts" created="Sat, 14 Mar 2026 17:20:16 +1300" />
-    <outline text="I Sold Out For 200 A Month And All I Got Was This Perfectly Generated Terraform" type="link" url="https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/" created="Wed, 11 Mar 2026 11:14:40 +1300" />
-    <outline text="AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed." type="link" url="https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/" created="Tue, 10 Mar 2026 22:45:25 +1300" />
   </body>
 </opml>
