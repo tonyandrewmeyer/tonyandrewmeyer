@@ -2,9 +2,14 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sun, 29 Mar 2026 19:39:34 GMT</dateCreated>
+    <dateCreated>Mon, 30 Mar 2026 19:44:40 GMT</dateCreated>
   </head>
   <body>
+    <outline text="How do school photos still exist in the age of smartphones?  | The Spinoff" type="link" url="https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones" created="Mon, 30 Mar 2026 20:45:51 +1300" />
+    <outline text="What Actually Makes You Senior – Terrible Software" type="link" url="https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/" created="Mon, 30 Mar 2026 20:36:51 +1300" />
+    <outline text="Why I Ignore The Spotlight as a Staff Engineer - Lalit Maganti" type="link" url="https://lalitm.com/software-engineering-outside-the-spotlight/" created="Mon, 30 Mar 2026 20:11:39 +1300" />
+    <outline text="Tracing Sucks" type="link" url="https://cra.mr/tracing-sucks/" created="Mon, 30 Mar 2026 20:06:32 +1300" />
+    <outline text="Thoughts on slowing the fuck down" type="link" url="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/" created="Mon, 30 Mar 2026 20:02:30 +1300" />
     <outline text="Package Management is a Wicked Problem | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html" created="Sun, 29 Mar 2026 01:11:36 +1300" />
     <outline text="Salesforce – Part one" type="link" url="https://buildingslack.com/salesforce-part-one/" created="Sat, 28 Mar 2026 23:25:15 +1300" />
     <outline text="My heuristics are wrong. What now? - Marc's Blog" type="link" url="https://brooker.co.za/blog/2026/03/20/ic-leadership.html" created="Sat, 28 Mar 2026 23:19:09 +1300" />
@@ -24,10 +29,5 @@
     <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
     <outline text="Monty says: The concepts of forking" type="link" url="http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html" created="Fri, 20 Mar 2026 00:41:32 +1300" />
     <outline text="Defense in Depth: A Practical Guide to Python Supply Chain Security · Bernát Gábor - Engineering &amp; Open Source" type="link" url="https://bernat.tech/posts/securing-python-supply-chain/" created="Fri, 20 Mar 2026 00:37:18 +1300" />
-    <outline text="robida/human.json: A lightweight protocol for humans to assert authorship of their website content and vouch for the humanity of others. - Codeberg.org" type="link" url="https://codeberg.org/robida/human.json" created="Fri, 20 Mar 2026 00:20:41 +1300" />
-    <outline text="Wired for Change: When Tech Stopped Being “Safe” – Accidentally in Code" type="link" url="https://cate.blog/2026/03/17/wired-for-change-when-tech-stopped-being-safe/" created="Fri, 20 Mar 2026 00:11:13 +1300" />
-    <outline text="The 49MB Web Page | thatshubham" type="link" url="https://thatshubham.com/blog/news-audit" created="Thu, 19 Mar 2026 14:20:02 +1300" />
-    <outline text="What do coders do after AI? - Anil Dash" type="link" url="https://anildash.com/2026/03/13/coders-after-ai/" created="Sat, 14 Mar 2026 18:00:13 +1300" />
-    <outline text="Optimizing Content for Agents" type="link" url="https://cra.mr/optimizing-content-for-agents/" created="Sat, 14 Mar 2026 17:29:41 +1300" />
   </body>
 </opml>
