@@ -2,9 +2,11 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Tue, 31 Mar 2026 19:44:44 GMT</dateCreated>
+    <dateCreated>Wed, 01 Apr 2026 19:47:10 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Premium: The AI Data Center Financial Crisis" type="link" url="https://www.wheresyoured.at/data-center-crisis/" created="Wed, 01 Apr 2026 16:24:02 +1300" />
+    <outline text="Why Are We Still Doing This?" type="link" url="https://www.wheresyoured.at/why-are-we-still-doing-this/" created="Wed, 01 Apr 2026 16:01:01 +1300" />
     <outline text="How do school photos still exist in the age of smartphones?  | The Spinoff" type="link" url="https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones" created="Mon, 30 Mar 2026 20:45:51 +1300" />
     <outline text="What Actually Makes You Senior – Terrible Software" type="link" url="https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/" created="Mon, 30 Mar 2026 20:36:51 +1300" />
     <outline text="Why I Ignore The Spotlight as a Staff Engineer - Lalit Maganti" type="link" url="https://lalitm.com/software-engineering-outside-the-spotlight/" created="Mon, 30 Mar 2026 20:11:39 +1300" />
@@ -27,7 +29,5 @@
     <outline text="No Semicolons Needed | Terts Diepraam" type="link" url="https://terts.dev/blog/no-semicolons-needed/" created="Fri, 20 Mar 2026 14:24:15 +1300" />
     <outline text="AddyOsmani.com - 21 Lessons From 14 Years at Google" type="link" url="https://addyosmani.com/blog/21-lessons/" created="Fri, 20 Mar 2026 00:55:25 +1300" />
     <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
-    <outline text="Monty says: The concepts of forking" type="link" url="http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html" created="Fri, 20 Mar 2026 00:41:32 +1300" />
-    <outline text="Defense in Depth: A Practical Guide to Python Supply Chain Security · Bernát Gábor - Engineering &amp; Open Source" type="link" url="https://bernat.tech/posts/securing-python-supply-chain/" created="Fri, 20 Mar 2026 00:37:18 +1300" />
   </body>
 </opml>
