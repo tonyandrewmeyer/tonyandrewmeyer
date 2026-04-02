@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 01 Apr 2026 19:47:10 GMT</dateCreated>
+    <dateCreated>Thu, 02 Apr 2026 19:43:34 GMT</dateCreated>
   </head>
   <body>
+    <outline text="xkcd: Creation" type="link" url="https://xkcd.com/3227" created="Thu, 02 Apr 2026 11:15:56 +1300" />
     <outline text="Premium: The AI Data Center Financial Crisis" type="link" url="https://www.wheresyoured.at/data-center-crisis/" created="Wed, 01 Apr 2026 16:24:02 +1300" />
     <outline text="Why Are We Still Doing This?" type="link" url="https://www.wheresyoured.at/why-are-we-still-doing-this/" created="Wed, 01 Apr 2026 16:01:01 +1300" />
     <outline text="How do school photos still exist in the age of smartphones?  | The Spinoff" type="link" url="https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones" created="Mon, 30 Mar 2026 20:45:51 +1300" />
@@ -28,6 +29,5 @@
     <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
     <outline text="No Semicolons Needed | Terts Diepraam" type="link" url="https://terts.dev/blog/no-semicolons-needed/" created="Fri, 20 Mar 2026 14:24:15 +1300" />
     <outline text="AddyOsmani.com - 21 Lessons From 14 Years at Google" type="link" url="https://addyosmani.com/blog/21-lessons/" created="Fri, 20 Mar 2026 00:55:25 +1300" />
-    <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
   </body>
 </opml>
