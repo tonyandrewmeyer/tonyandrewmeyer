@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 08 Apr 2026 19:48:50 GMT</dateCreated>
+    <dateCreated>Thu, 09 Apr 2026 19:49:52 GMT</dateCreated>
   </head>
   <body>
+    <outline text="I've sold out" type="link" url="https://mariozechner.at/posts/2026-04-08-ive-sold-out/" created="Thu, 09 Apr 2026 12:14:44 +1300" />
     <outline text="The Difference Between Day-0, Day-1, And Day-2 Operations  | Octopus blog" type="link" url="https://octopus.com/blog/difference-between-day-0-1-2-operations" created="Fri, 03 Apr 2026 22:09:56 +1300" />
     <outline text="xkcd: Creation" type="link" url="https://xkcd.com/3227" created="Thu, 02 Apr 2026 11:15:56 +1300" />
     <outline text="Premium: The AI Data Center Financial Crisis" type="link" url="https://www.wheresyoured.at/data-center-crisis/" created="Wed, 01 Apr 2026 16:24:02 +1300" />
@@ -28,6 +29,5 @@
     <outline text="Some Things Just Take Time | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" created="Sun, 22 Mar 2026 00:21:49 +1300" />
     <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
     <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
-    <outline text="No Semicolons Needed | Terts Diepraam" type="link" url="https://terts.dev/blog/no-semicolons-needed/" created="Fri, 20 Mar 2026 14:24:15 +1300" />
   </body>
 </opml>
