@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Thu, 16 Apr 2026 19:48:32 GMT</dateCreated>
+    <dateCreated>Fri, 17 Apr 2026 19:46:58 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Ready for the revolution" type="link" url="https://coyotetracks.org/blog/ready-for-revolution/" created="Fri, 17 Apr 2026 09:55:19 +1300" />
     <outline text="I've sold out" type="link" url="https://mariozechner.at/posts/2026-04-08-ive-sold-out/" created="Thu, 09 Apr 2026 12:14:44 +1300" />
     <outline text="The Difference Between Day-0, Day-1, And Day-2 Operations  | Octopus blog" type="link" url="https://octopus.com/blog/difference-between-day-0-1-2-operations" created="Fri, 03 Apr 2026 22:09:56 +1300" />
     <outline text="xkcd: Creation" type="link" url="https://xkcd.com/3227" created="Thu, 02 Apr 2026 11:15:56 +1300" />
@@ -28,6 +29,5 @@
     <outline text="Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights | Spotify Engineering" type="link" url="https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped" created="Sun, 22 Mar 2026 21:25:50 +1300" />
     <outline text="Some Things Just Take Time | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" created="Sun, 22 Mar 2026 00:21:49 +1300" />
     <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
-    <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
   </body>
 </opml>
