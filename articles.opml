@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 17 Apr 2026 19:46:58 GMT</dateCreated>
+    <dateCreated>Sat, 18 Apr 2026 19:41:48 GMT</dateCreated>
   </head>
   <body>
+    <outline text="We Automated Everything Except Knowing What's Going On" type="link" url="https://eversole.dev/blog/we-automated-everything/" created="Sat, 18 Apr 2026 19:08:54 +1300" />
+    <outline text="The Center Has a Bias | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/" created="Sat, 18 Apr 2026 18:53:37 +1300" />
+    <outline text="One Developer, Two Dozen Agents, Zero Alignment" type="link" url="https://maggieappleton.com/zero-alignment/" created="Sat, 18 Apr 2026 18:16:57 +1300" />
     <outline text="Ready for the revolution" type="link" url="https://coyotetracks.org/blog/ready-for-revolution/" created="Fri, 17 Apr 2026 09:55:19 +1300" />
     <outline text="I've sold out" type="link" url="https://mariozechner.at/posts/2026-04-08-ive-sold-out/" created="Thu, 09 Apr 2026 12:14:44 +1300" />
     <outline text="The Difference Between Day-0, Day-1, And Day-2 Operations  | Octopus blog" type="link" url="https://octopus.com/blog/difference-between-day-0-1-2-operations" created="Fri, 03 Apr 2026 22:09:56 +1300" />
@@ -26,8 +29,5 @@
     <outline text="Turn Dependabot Off" type="link" url="https://words.filippo.io/dependabot/" created="Sun, 22 Mar 2026 22:15:21 +1300" />
     <outline text="Literary Hub » What We Lose When We Gamify Reading" type="link" url="https://lithub.com/what-we-lose-when-we-gamify-reading/" created="Sun, 22 Mar 2026 22:09:47 +1300" />
     <outline text="AI 'aha' team meetings | Lara Hogan" type="link" url="https://larahogan.me/blog/ai-aha-team-meetings/" created="Sun, 22 Mar 2026 21:35:26 +1300" />
-    <outline text="Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights | Spotify Engineering" type="link" url="https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped" created="Sun, 22 Mar 2026 21:25:50 +1300" />
-    <outline text="Some Things Just Take Time | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" created="Sun, 22 Mar 2026 00:21:49 +1300" />
-    <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
   </body>
 </opml>
