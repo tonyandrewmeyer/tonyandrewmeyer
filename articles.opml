@@ -2,9 +2,11 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 29 Apr 2026 19:58:31 GMT</dateCreated>
+    <dateCreated>Thu, 30 Apr 2026 19:56:34 GMT</dateCreated>
   </head>
   <body>
+    <outline text="The end of &quot;Just ask Sarah&quot; — Simon Aronsson" type="link" url="https://simme.dev/posts/the-end-of-just-ask-sarah/" created="Thu, 30 Apr 2026 22:46:54 +1300" />
+    <outline text="The EGOT of New Zealand music: Could Marlon Williams become our newest STAG? | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag" created="Thu, 30 Apr 2026 13:31:01 +1300" />
     <outline text="We Automated Everything Except Knowing What's Going On" type="link" url="https://eversole.dev/blog/we-automated-everything/" created="Sat, 18 Apr 2026 19:08:54 +1300" />
     <outline text="The Center Has a Bias | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/" created="Sat, 18 Apr 2026 18:53:37 +1300" />
     <outline text="One Developer, Two Dozen Agents, Zero Alignment" type="link" url="https://maggieappleton.com/zero-alignment/" created="Sat, 18 Apr 2026 18:16:57 +1300" />
@@ -27,7 +29,5 @@
     <outline text="simonw/actions-latest" type="link" url="https://simonwillison.net/2025/Dec/28/actions-latest/" created="Sun, 22 Mar 2026 22:41:08 +1300" />
     <outline text="Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology" type="link" url="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/" created="Sun, 22 Mar 2026 22:38:33 +1300" />
     <outline text="Turn Dependabot Off" type="link" url="https://words.filippo.io/dependabot/" created="Sun, 22 Mar 2026 22:15:21 +1300" />
-    <outline text="Literary Hub » What We Lose When We Gamify Reading" type="link" url="https://lithub.com/what-we-lose-when-we-gamify-reading/" created="Sun, 22 Mar 2026 22:09:47 +1300" />
-    <outline text="AI 'aha' team meetings | Lara Hogan" type="link" url="https://larahogan.me/blog/ai-aha-team-meetings/" created="Sun, 22 Mar 2026 21:35:26 +1300" />
   </body>
 </opml>
