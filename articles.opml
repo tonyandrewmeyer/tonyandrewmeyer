@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 02 May 2026 19:44:25 GMT</dateCreated>
+    <dateCreated>Sun, 03 May 2026 19:44:23 GMT</dateCreated>
   </head>
   <body>
+    <outline text="The movie theatres of Auckland, ranked and reviewed | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/01-05-2026/the-movie-cinemas-of-auckland-ranked-and-reviewed" created="Sun, 03 May 2026 21:52:35 +1300" />
     <outline text="The end of &quot;Just ask Sarah&quot; — Simon Aronsson" type="link" url="https://simme.dev/posts/the-end-of-just-ask-sarah/" created="Thu, 30 Apr 2026 22:46:54 +1300" />
     <outline text="The EGOT of New Zealand music: Could Marlon Williams become our newest STAG? | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag" created="Thu, 30 Apr 2026 13:31:01 +1300" />
     <outline text="We Automated Everything Except Knowing What's Going On" type="link" url="https://eversole.dev/blog/we-automated-everything/" created="Sat, 18 Apr 2026 19:08:54 +1300" />
@@ -28,6 +29,5 @@
     <outline text="On Long Term Software Development - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/on-long-term-software-development/" created="Sun, 22 Mar 2026 23:23:01 +1300" />
     <outline text="simonw/actions-latest" type="link" url="https://simonwillison.net/2025/Dec/28/actions-latest/" created="Sun, 22 Mar 2026 22:41:08 +1300" />
     <outline text="Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology" type="link" url="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/" created="Sun, 22 Mar 2026 22:38:33 +1300" />
-    <outline text="Turn Dependabot Off" type="link" url="https://words.filippo.io/dependabot/" created="Sun, 22 Mar 2026 22:15:21 +1300" />
   </body>
 </opml>
