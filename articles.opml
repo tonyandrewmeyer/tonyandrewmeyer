@@ -2,9 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 09 May 2026 19:46:03 GMT</dateCreated>
+    <dateCreated>Sun, 10 May 2026 19:47:09 GMT</dateCreated>
   </head>
   <body>
+    <outline text="The Impossible Things We Have to Believe - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/" created="Mon, 11 May 2026 08:26:14 +1300" />
+    <outline text="The Intolerable Hypocrisy Of Cyberlibertarianism" type="link" url="https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/" created="Mon, 11 May 2026 08:22:34 +1300" />
+    <outline text="The Boring Internet | Terry Godier" type="link" url="https://terrygodier.com/the-boring-internet" created="Mon, 11 May 2026 08:14:02 +1300" />
+    <outline text="The Mismeasure of Open Source | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html" created="Mon, 11 May 2026 08:00:00 +1300" />
     <outline text="The movie theatres of Auckland, ranked and reviewed | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/01-05-2026/the-movie-cinemas-of-auckland-ranked-and-reviewed" created="Sun, 03 May 2026 21:52:35 +1300" />
     <outline text="The end of &quot;Just ask Sarah&quot; — Simon Aronsson" type="link" url="https://simme.dev/posts/the-end-of-just-ask-sarah/" created="Thu, 30 Apr 2026 22:46:54 +1300" />
     <outline text="The EGOT of New Zealand music: Could Marlon Williams become our newest STAG? | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag" created="Thu, 30 Apr 2026 13:31:01 +1300" />
@@ -25,9 +29,5 @@
     <outline text="Package Management is a Wicked Problem | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html" created="Sun, 29 Mar 2026 01:11:36 +1300" />
     <outline text="Salesforce – Part one" type="link" url="https://buildingslack.com/salesforce-part-one/" created="Sat, 28 Mar 2026 23:25:15 +1300" />
     <outline text="My heuristics are wrong. What now? - Marc's Blog" type="link" url="https://brooker.co.za/blog/2026/03/20/ic-leadership.html" created="Sat, 28 Mar 2026 23:19:09 +1300" />
-    <outline text="Using Git with coding agents - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/" created="Mon, 23 Mar 2026 20:12:37 +1300" />
-    <outline text="On Long Term Software Development - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/on-long-term-software-development/" created="Sun, 22 Mar 2026 23:23:01 +1300" />
-    <outline text="simonw/actions-latest" type="link" url="https://simonwillison.net/2025/Dec/28/actions-latest/" created="Sun, 22 Mar 2026 22:41:08 +1300" />
-    <outline text="Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology" type="link" url="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/" created="Sun, 22 Mar 2026 22:38:33 +1300" />
   </body>
 </opml>
