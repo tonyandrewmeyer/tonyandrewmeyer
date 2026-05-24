@@ -2,9 +2,11 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 23 May 2026 19:49:48 GMT</dateCreated>
+    <dateCreated>Sun, 24 May 2026 19:49:45 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Turing Machines" type="link" url="https://samwho.dev/turing-machines/" created="Mon, 25 May 2026 01:55:43 +1300" />
+    <outline text="The way I run standup meetings" type="link" url="https://marcgg.com/blog/2024/11/20/standup/" created="Mon, 25 May 2026 01:05:00 +1300" />
     <outline text="The Impossible Things We Have to Believe - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/" created="Mon, 11 May 2026 08:26:14 +1300" />
     <outline text="The Intolerable Hypocrisy Of Cyberlibertarianism" type="link" url="https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/" created="Mon, 11 May 2026 08:22:34 +1300" />
     <outline text="The Boring Internet | Terry Godier" type="link" url="https://terrygodier.com/the-boring-internet" created="Mon, 11 May 2026 08:14:02 +1300" />
@@ -28,6 +30,5 @@
     <outline text="Thoughts on slowing the fuck down" type="link" url="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/" created="Mon, 30 Mar 2026 20:02:30 +1300" />
     <outline text="Package Management is a Wicked Problem | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html" created="Sun, 29 Mar 2026 01:11:36 +1300" />
     <outline text="Salesforce – Part one" type="link" url="https://buildingslack.com/salesforce-part-one/" created="Sat, 28 Mar 2026 23:25:15 +1300" />
-    <outline text="My heuristics are wrong. What now? - Marc's Blog" type="link" url="https://brooker.co.za/blog/2026/03/20/ic-leadership.html" created="Sat, 28 Mar 2026 23:19:09 +1300" />
   </body>
 </opml>
