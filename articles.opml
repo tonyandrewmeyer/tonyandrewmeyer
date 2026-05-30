@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Fri, 29 May 2026 20:13:25 GMT</dateCreated>
+    <dateCreated>Sat, 30 May 2026 19:51:30 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Dependency Pruning | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/05/22/dependency-pruning.html" created="Sat, 30 May 2026 21:57:29 +1300" />
     <outline text="The surprising richness of GarageBand â Unsung" type="link" url="https://unsung.aresluna.org/the-surprising-richness-of-garageband" created="Fri, 29 May 2026 22:15:06 +1300" />
     <outline text="Turing Machines" type="link" url="https://samwho.dev/turing-machines/" created="Mon, 25 May 2026 01:55:43 +1300" />
     <outline text="The way I run standup meetings" type="link" url="https://marcgg.com/blog/2024/11/20/standup/" created="Mon, 25 May 2026 01:05:00 +1300" />
@@ -29,6 +30,5 @@
     <outline text="Why I Ignore The Spotlight as a Staff Engineer - Lalit Maganti" type="link" url="https://lalitm.com/software-engineering-outside-the-spotlight/" created="Mon, 30 Mar 2026 20:11:39 +1300" />
     <outline text="Tracing Sucks" type="link" url="https://cra.mr/tracing-sucks/" created="Mon, 30 Mar 2026 20:06:32 +1300" />
     <outline text="Thoughts on slowing the fuck down" type="link" url="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/" created="Mon, 30 Mar 2026 20:02:30 +1300" />
-    <outline text="Package Management is a Wicked Problem | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html" created="Sun, 29 Mar 2026 01:11:36 +1300" />
   </body>
 </opml>
