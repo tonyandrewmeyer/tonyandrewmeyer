@@ -2,9 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 30 May 2026 19:51:30 GMT</dateCreated>
+    <dateCreated>Sun, 31 May 2026 19:51:43 GMT</dateCreated>
   </head>
   <body>
+    <outline text="The AI Bubble — No One's Happy" type="link" url="https://nooneshappy.com/article/the-ai-bubble/" created="Sun, 31 May 2026 13:34:21 +1300" />
+    <outline text="The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind - Viktor Cessan" type="link" url="https://www.viktorcessan.com/the-economics-of-software-teams/" created="Sun, 31 May 2026 12:29:10 +1300" />
+    <outline text="AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers" type="link" url="https://jackmaguire.org/blog/ai-job-grief/" created="Sun, 31 May 2026 12:01:26 +1300" />
+    <outline text="Using AI to write better code more slowly | Read the Tea Leaves" type="link" url="https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/" created="Sun, 31 May 2026 11:34:27 +1300" />
     <outline text="Dependency Pruning | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/05/22/dependency-pruning.html" created="Sat, 30 May 2026 21:57:29 +1300" />
     <outline text="The surprising richness of GarageBand â Unsung" type="link" url="https://unsung.aresluna.org/the-surprising-richness-of-garageband" created="Fri, 29 May 2026 22:15:06 +1300" />
     <outline text="Turing Machines" type="link" url="https://samwho.dev/turing-machines/" created="Mon, 25 May 2026 01:55:43 +1300" />
@@ -26,9 +30,5 @@
     <outline text="Premium: The AI Data Center Financial Crisis" type="link" url="https://www.wheresyoured.at/data-center-crisis/" created="Wed, 01 Apr 2026 16:24:02 +1300" />
     <outline text="Why Are We Still Doing This?" type="link" url="https://www.wheresyoured.at/why-are-we-still-doing-this/" created="Wed, 01 Apr 2026 16:01:01 +1300" />
     <outline text="How do school photos still exist in the age of smartphones?  | The Spinoff" type="link" url="https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones" created="Mon, 30 Mar 2026 20:45:51 +1300" />
-    <outline text="What Actually Makes You Senior – Terrible Software" type="link" url="https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/" created="Mon, 30 Mar 2026 20:36:51 +1300" />
-    <outline text="Why I Ignore The Spotlight as a Staff Engineer - Lalit Maganti" type="link" url="https://lalitm.com/software-engineering-outside-the-spotlight/" created="Mon, 30 Mar 2026 20:11:39 +1300" />
-    <outline text="Tracing Sucks" type="link" url="https://cra.mr/tracing-sucks/" created="Mon, 30 Mar 2026 20:06:32 +1300" />
-    <outline text="Thoughts on slowing the fuck down" type="link" url="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/" created="Mon, 30 Mar 2026 20:02:30 +1300" />
   </body>
 </opml>
