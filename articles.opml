@@ -2,9 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Wed, 08 Jul 2026 19:59:22 GMT</dateCreated>
+    <dateCreated>Thu, 09 Jul 2026 20:05:22 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Open Source vs the Invisible Hand | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html" created="Thu, 09 Jul 2026 13:54:03 +1300" />
+    <outline text="The Coming Loop | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/6/23/the-coming-loop/" created="Thu, 09 Jul 2026 12:34:52 +1300" />
+    <outline text="Clickhouse Is Winning The Observability Wars" type="link" url="https://matduggan.com/clickhouse-is-winning-the-observability-wars/" created="Thu, 09 Jul 2026 12:25:51 +1300" />
+    <outline text="The Demoralization of The White-Collar Worker — No One's Happy" type="link" url="https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/" created="Thu, 09 Jul 2026 12:14:57 +1300" />
     <outline text="The demon of the gaps – Surfing Complexity" type="link" url="https://surfingcomplexity.blog/2026/06/06/the-demon-of-the-gaps/" created="Wed, 10 Jun 2026 19:30:31 +1300" />
     <outline text="How to build a shitty robot" type="link" url="https://mariozechner.at/posts/2026-05-30-shitty-robot/" created="Thu, 04 Jun 2026 15:20:05 +1300" />
     <outline text="Two years without cookies on the site, here's where we ended up | Sentry Blog" type="link" url="https://blog.sentry.io/two-years-without-cookies-on-the-site/" created="Thu, 04 Jun 2026 13:55:23 +1300" />
@@ -24,10 +28,5 @@
     <outline text="The Mismeasure of Open Source | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html" created="Mon, 11 May 2026 08:00:00 +1300" />
     <outline text="The movie theatres of Auckland, ranked and reviewed | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/01-05-2026/the-movie-cinemas-of-auckland-ranked-and-reviewed" created="Sun, 03 May 2026 21:52:35 +1300" />
     <outline text="The end of &quot;Just ask Sarah&quot; — Simon Aronsson" type="link" url="https://simme.dev/posts/the-end-of-just-ask-sarah/" created="Thu, 30 Apr 2026 22:46:54 +1300" />
-    <outline text="The EGOT of New Zealand music: Could Marlon Williams become our newest STAG? | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag" created="Thu, 30 Apr 2026 13:31:01 +1300" />
-    <outline text="We Automated Everything Except Knowing What's Going On" type="link" url="https://eversole.dev/blog/we-automated-everything/" created="Sat, 18 Apr 2026 19:08:54 +1300" />
-    <outline text="The Center Has a Bias | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/" created="Sat, 18 Apr 2026 18:53:37 +1300" />
-    <outline text="One Developer, Two Dozen Agents, Zero Alignment" type="link" url="https://maggieappleton.com/zero-alignment/" created="Sat, 18 Apr 2026 18:16:57 +1300" />
-    <outline text="Ready for the revolution" type="link" url="https://coyotetracks.org/blog/ready-for-revolution/" created="Fri, 17 Apr 2026 09:55:19 +1300" />
   </body>
 </opml>
