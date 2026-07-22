@@ -2,9 +2,10 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Tue, 21 Jul 2026 19:58:20 GMT</dateCreated>
+    <dateCreated>Wed, 22 Jul 2026 19:54:06 GMT</dateCreated>
   </head>
   <body>
+    <outline text="Why we got rid of our small-PR rule | Rootly" type="link" url="https://rootly.com/blog/why-we-got-rid-of-our-small-pr-rule" created="Wed, 22 Jul 2026 14:23:49 +1300" />
     <outline text="Europe Won’t Live By Deporting | Dark Thoughts" type="link" url="https://dark.ronacher.eu/2026/7/17/live-by-deporting/" created="Sat, 18 Jul 2026 21:19:34 +1300" />
     <outline text="The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/" created="Sat, 18 Jul 2026 21:08:18 +1300" />
     <outline text="Art Doesnt Scale" type="link" url="https://matduggan.com/art-doesnt-scale/" created="Sat, 18 Jul 2026 20:47:24 +1300" />
@@ -27,6 +28,5 @@
     <outline text="The way I run standup meetings" type="link" url="https://marcgg.com/blog/2024/11/20/standup/" created="Mon, 25 May 2026 01:05:00 +1300" />
     <outline text="The Impossible Things We Have to Believe - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/" created="Mon, 11 May 2026 08:26:14 +1300" />
     <outline text="The Intolerable Hypocrisy Of Cyberlibertarianism" type="link" url="https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/" created="Mon, 11 May 2026 08:22:34 +1300" />
-    <outline text="The Boring Internet | Terry Godier" type="link" url="https://terrygodier.com/the-boring-internet" created="Mon, 11 May 2026 08:14:02 +1300" />
   </body>
 </opml>
