@@ -1,0 +1,22 @@
+[project]
+name = "blogroll"
+version = "0"
+description = "Generate OPML blogroll files from tonyandrewmeyer.blog"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser>=6.0.10",
+    "requests>=2.31.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.uv]
+# Scripts at the repository root, not an installable package.
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = "."
+testpaths = ["tests"]
