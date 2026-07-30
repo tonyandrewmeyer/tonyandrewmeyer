@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Tony Meyer's Articles</title>
-    <dateCreated>Sat, 25 Jul 2026 19:51:29 GMT</dateCreated>
+    <dateCreated>Thu, 30 Jul 2026 01:13:27 GMT</dateCreated>
   </head>
   <body>
     <outline text="Codeberg Divides | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/7/24/codeberg-divides/" created="Sat, 25 Jul 2026 11:41:41 +1300" />
@@ -10,10 +10,12 @@
     <outline text="Europe Won’t Live By Deporting | Dark Thoughts" type="link" url="https://dark.ronacher.eu/2026/7/17/live-by-deporting/" created="Sat, 18 Jul 2026 21:19:34 +1300" />
     <outline text="The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/" created="Sat, 18 Jul 2026 21:08:18 +1300" />
     <outline text="Art Doesnt Scale" type="link" url="https://matduggan.com/art-doesnt-scale/" created="Sat, 18 Jul 2026 20:47:24 +1300" />
+    <outline text="Nine Questions I Now Ask in Interviews That I Wish I'd Asked Five Years Ago" type="link" url="https://louisedeason.substack.com/p/nine-questions-i-now-ask-in-interviews" created="Thu, 09 Jul 2026 14:16:19 +1300" />
     <outline text="Open Source vs the Invisible Hand | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html" created="Thu, 09 Jul 2026 13:54:03 +1300" />
     <outline text="The Coming Loop | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/6/23/the-coming-loop/" created="Thu, 09 Jul 2026 12:34:52 +1300" />
     <outline text="Clickhouse Is Winning The Observability Wars" type="link" url="https://matduggan.com/clickhouse-is-winning-the-observability-wars/" created="Thu, 09 Jul 2026 12:25:51 +1300" />
     <outline text="The Demoralization of The White-Collar Worker — No One's Happy" type="link" url="https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/" created="Thu, 09 Jul 2026 12:14:57 +1300" />
+    <outline text="Ai Demands More Engineering Discipline Not Less Xpost" type="link" url="https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/" created="Tue, 16 Jun 2026 12:03:30 +1300" />
     <outline text="The demon of the gaps – Surfing Complexity" type="link" url="https://surfingcomplexity.blog/2026/06/06/the-demon-of-the-gaps/" created="Wed, 10 Jun 2026 19:30:31 +1300" />
     <outline text="How to build a shitty robot" type="link" url="https://mariozechner.at/posts/2026-05-30-shitty-robot/" created="Thu, 04 Jun 2026 15:20:05 +1300" />
     <outline text="Two years without cookies on the site, here's where we ended up | Sentry Blog" type="link" url="https://blog.sentry.io/two-years-without-cookies-on-the-site/" created="Thu, 04 Jun 2026 13:55:23 +1300" />
@@ -24,9 +26,525 @@
     <outline text="AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers" type="link" url="https://jackmaguire.org/blog/ai-job-grief/" created="Sun, 31 May 2026 12:01:26 +1300" />
     <outline text="Using AI to write better code more slowly | Read the Tea Leaves" type="link" url="https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/" created="Sun, 31 May 2026 11:34:27 +1300" />
     <outline text="Dependency Pruning | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/05/22/dependency-pruning.html" created="Sat, 30 May 2026 21:57:29 +1300" />
-    <outline text="The surprising richness of GarageBand â Unsung" type="link" url="https://unsung.aresluna.org/the-surprising-richness-of-garageband" created="Fri, 29 May 2026 22:15:06 +1300" />
+    <outline text="The surprising richness of GarageBand – Unsung" type="link" url="https://unsung.aresluna.org/the-surprising-richness-of-garageband" created="Fri, 29 May 2026 22:15:06 +1300" />
     <outline text="Turing Machines" type="link" url="https://samwho.dev/turing-machines/" created="Mon, 25 May 2026 01:55:43 +1300" />
     <outline text="The way I run standup meetings" type="link" url="https://marcgg.com/blog/2024/11/20/standup/" created="Mon, 25 May 2026 01:05:00 +1300" />
     <outline text="The Impossible Things We Have to Believe - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/" created="Mon, 11 May 2026 08:26:14 +1300" />
+    <outline text="The Intolerable Hypocrisy Of Cyberlibertarianism" type="link" url="https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/" created="Mon, 11 May 2026 08:22:34 +1300" />
+    <outline text="The Boring Internet | Terry Godier" type="link" url="https://terrygodier.com/the-boring-internet" created="Mon, 11 May 2026 08:14:02 +1300" />
+    <outline text="The Mismeasure of Open Source | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html" created="Mon, 11 May 2026 08:00:00 +1300" />
+    <outline text="The movie theatres of Auckland, ranked and reviewed | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/01-05-2026/the-movie-cinemas-of-auckland-ranked-and-reviewed" created="Sun, 03 May 2026 21:52:35 +1300" />
+    <outline text="The end of &quot;Just ask Sarah&quot; — Simon Aronsson" type="link" url="https://simme.dev/posts/the-end-of-just-ask-sarah/" created="Thu, 30 Apr 2026 22:46:54 +1300" />
+    <outline text="The EGOT of New Zealand music: Could Marlon Williams become our newest STAG? | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/23-04-2026/the-egot-of-new-zealand-music-could-marlon-williams-become-our-newest-stag" created="Thu, 30 Apr 2026 13:31:01 +1300" />
+    <outline text="We Automated Everything Except Knowing What's Going On" type="link" url="https://eversole.dev/blog/we-automated-everything/" created="Sat, 18 Apr 2026 19:08:54 +1300" />
+    <outline text="The Center Has a Bias | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/" created="Sat, 18 Apr 2026 18:53:37 +1300" />
+    <outline text="One Developer, Two Dozen Agents, Zero Alignment" type="link" url="https://maggieappleton.com/zero-alignment/" created="Sat, 18 Apr 2026 18:16:57 +1300" />
+    <outline text="Ready for the revolution" type="link" url="https://coyotetracks.org/blog/ready-for-revolution/" created="Fri, 17 Apr 2026 09:55:19 +1300" />
+    <outline text="I've sold out" type="link" url="https://mariozechner.at/posts/2026-04-08-ive-sold-out/" created="Thu, 09 Apr 2026 12:14:44 +1300" />
+    <outline text="The Difference Between Day-0, Day-1, And Day-2 Operations | Octopus blog" type="link" url="https://octopus.com/blog/difference-between-day-0-1-2-operations" created="Fri, 03 Apr 2026 22:09:56 +1300" />
+    <outline text="xkcd: Creation" type="link" url="https://xkcd.com/3227" created="Thu, 02 Apr 2026 11:15:56 +1300" />
+    <outline text="Premium: The AI Data Center Financial Crisis" type="link" url="https://www.wheresyoured.at/data-center-crisis/" created="Wed, 01 Apr 2026 16:24:02 +1300" />
+    <outline text="Why Are We Still Doing This?" type="link" url="https://www.wheresyoured.at/why-are-we-still-doing-this/" created="Wed, 01 Apr 2026 16:01:01 +1300" />
+    <outline text="How do school photos still exist in the age of smartphones? | The Spinoff" type="link" url="https://thespinoff.co.nz/society/28-03-2026/how-do-school-photos-still-exist-in-the-age-of-smart-phones" created="Mon, 30 Mar 2026 20:45:51 +1300" />
+    <outline text="What Actually Makes You Senior – Terrible Software" type="link" url="https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/" created="Mon, 30 Mar 2026 20:36:51 +1300" />
+    <outline text="Why I Ignore The Spotlight as a Staff Engineer - Lalit Maganti" type="link" url="https://lalitm.com/software-engineering-outside-the-spotlight/" created="Mon, 30 Mar 2026 20:11:39 +1300" />
+    <outline text="Tracing Sucks" type="link" url="https://cra.mr/tracing-sucks/" created="Mon, 30 Mar 2026 20:06:32 +1300" />
+    <outline text="Thoughts on slowing the fuck down" type="link" url="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/" created="Mon, 30 Mar 2026 20:02:30 +1300" />
+    <outline text="Package Management is a Wicked Problem | Andrew Nesbitt" type="link" url="https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html" created="Sun, 29 Mar 2026 01:11:36 +1300" />
+    <outline text="Salesforce – Part one" type="link" url="https://buildingslack.com/salesforce-part-one/" created="Sat, 28 Mar 2026 23:25:15 +1300" />
+    <outline text="My heuristics are wrong. What now? - Marc's Blog" type="link" url="https://brooker.co.za/blog/2026/03/20/ic-leadership.html" created="Sat, 28 Mar 2026 23:19:09 +1300" />
+    <outline text="Bring Back Ops Pride - by Charity Majors - charity.wtf" type="link" url="https://charitydotwtf.substack.com/p/bring-back-ops-pride" created="Mon, 23 Mar 2026 22:08:02 +1300" />
+    <outline text="Using Git with coding agents - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/" created="Mon, 23 Mar 2026 20:12:37 +1300" />
+    <outline text="On Long Term Software Development - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/on-long-term-software-development/" created="Sun, 22 Mar 2026 23:23:01 +1300" />
+    <outline text="simonw/actions-latest" type="link" url="https://simonwillison.net/2025/Dec/28/actions-latest/" created="Sun, 22 Mar 2026 22:41:08 +1300" />
+    <outline text="Python Numbers Every Programmer Should Know • Michael Kennedy's Thoughts on Technology" type="link" url="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/" created="Sun, 22 Mar 2026 22:38:33 +1300" />
+    <outline text="Turn Dependabot Off" type="link" url="https://words.filippo.io/dependabot/" created="Sun, 22 Mar 2026 22:15:21 +1300" />
+    <outline text="Literary Hub » What We Lose When We Gamify Reading" type="link" url="https://lithub.com/what-we-lose-when-we-gamify-reading/" created="Sun, 22 Mar 2026 22:09:47 +1300" />
+    <outline text="AI 'aha' team meetings | Lara Hogan" type="link" url="https://larahogan.me/blog/ai-aha-team-meetings/" created="Sun, 22 Mar 2026 21:35:26 +1300" />
+    <outline text="Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights | Spotify Engineering" type="link" url="https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped" created="Sun, 22 Mar 2026 21:25:50 +1300" />
+    <outline text="Some Things Just Take Time | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/" created="Sun, 22 Mar 2026 00:21:49 +1300" />
+    <outline text="Don't make these feature flag mistakes - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/dont-make-these-classic-feature-flag" created="Fri, 20 Mar 2026 14:32:25 +1300" />
+    <outline text="Hacker News conversation on feature flags" type="link" url="https://simonwillison.net/2025/Feb/2/feature-flags/" created="Fri, 20 Mar 2026 14:29:24 +1300" />
+    <outline text="No Semicolons Needed | Terts Diepraam" type="link" url="https://terts.dev/blog/no-semicolons-needed/" created="Fri, 20 Mar 2026 14:24:15 +1300" />
+    <outline text="AddyOsmani.com - 21 Lessons From 14 Years at Google" type="link" url="https://addyosmani.com/blog/21-lessons/" created="Fri, 20 Mar 2026 00:55:25 +1300" />
+    <outline text="Testing: exceptions and caches | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches" created="Fri, 20 Mar 2026 00:43:55 +1300" />
+    <outline text="Monty says: The concepts of forking" type="link" url="http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html" created="Fri, 20 Mar 2026 00:41:32 +1300" />
+    <outline text="Defense in Depth: A Practical Guide to Python Supply Chain Security · Bernát Gábor — Python packaging, tox, virtualenv &amp; open source" type="link" url="https://bernat.tech/posts/securing-python-supply-chain/" created="Fri, 20 Mar 2026 00:37:18 +1300" />
+    <outline text="robida/human.json: A lightweight protocol for humans to assert authorship of their website content and vouch for the humanity of others. - Codeberg.org" type="link" url="https://codeberg.org/robida/human.json" created="Fri, 20 Mar 2026 00:20:41 +1300" />
+    <outline text="Wired for Change: When Tech Stopped Being “Safe” – Accidentally in Code" type="link" url="https://cate.blog/2026/03/17/wired-for-change-when-tech-stopped-being-safe/" created="Fri, 20 Mar 2026 00:11:13 +1300" />
+    <outline text="The 49MB Web Page | thatshubham" type="link" url="https://thatshubham.com/blog/news-audit" created="Thu, 19 Mar 2026 14:20:02 +1300" />
+    <outline text="What do coders do after AI? - Anil Dash" type="link" url="https://anildash.com/2026/03/13/coders-after-ai/" created="Sat, 14 Mar 2026 18:00:13 +1300" />
+    <outline text="Optimizing Content for Agents" type="link" url="https://cra.mr/optimizing-content-for-agents/" created="Sat, 14 Mar 2026 17:29:41 +1300" />
+    <outline text="Labor market impacts of AI: A new measure and early evidence \ Anthropic" type="link" url="https://www.anthropic.com/research/labor-market-impacts" created="Sat, 14 Mar 2026 17:20:16 +1300" />
+    <outline text="I Sold Out For 200 A Month And All I Got Was This Perfectly Generated Terraform" type="link" url="https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/" created="Wed, 11 Mar 2026 11:14:40 +1300" />
+    <outline text="AI Didn't Break the Senior Engineer Pipeline. It Showed That One Never Existed." type="link" url="https://blog.bryanl.dev/posts/ai-senior-engineer-pipeline/" created="Tue, 10 Mar 2026 22:45:25 +1300" />
+    <outline text="Deciphering Glyph :: What Is Code Review For?" type="link" url="https://blog.glyph.im/2026/03/what-is-code-review-for.html" created="Tue, 10 Mar 2026 22:38:26 +1300" />
+    <outline text="First run the tests - Agentic Engineering Patterns - Simon Willison's Weblog" type="link" url="https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/" created="Tue, 10 Mar 2026 22:33:49 +1300" />
+    <outline text="Building AI Code Review with context as a first-class system" type="link" url="https://getunblocked.com/blog/building-ai-code-review-with-context-as-a-first-class-system/" created="Tue, 10 Mar 2026 22:25:11 +1300" />
+    <outline text="Curiosity is the first-step in problem solving. | Irrational Exuberance" type="link" url="https://lethain.com/curiosity-first-step-problem-solving/" created="Tue, 10 Mar 2026 22:02:01 +1300" />
+    <outline text="Context Management and MCP" type="link" url="https://cra.mr/context-management-and-mcp/" created="Tue, 10 Mar 2026 21:34:29 +1300" />
+    <outline text="crawshaw - 2026-02-08" type="link" url="https://crawshaw.io/blog/eight-more-months-of-agents" created="Tue, 10 Mar 2026 21:12:42 +1300" />
+    <outline text="An Entirely Other Day: Lose Myself" type="link" url="https://www.eod.com/blog/2026/02/lose-myself/" created="Sun, 08 Mar 2026 23:04:44 +1300" />
+    <outline text="Respecting maintainer time should be in security policies — Seth Larson" type="link" url="https://sethmlarson.dev/respecting-maintainer-time-should-be-in-security-policies" created="Sun, 08 Mar 2026 22:59:12 +1300" />
+    <outline text="Claude Code is the New Excel - by John Hwang" type="link" url="https://open.substack.com/pub/nextword/p/claude-code-is-the-new-excel" created="Sun, 08 Mar 2026 22:33:44 +1300" />
+    <outline text="AI fatigue is real and nobody talks about it · Siddhant Khare" type="link" url="https://siddhantkhare.com/writing/ai-fatigue-is-real" created="Sun, 08 Mar 2026 20:07:38 +1300" />
+    <outline text="Recovering lost code" type="link" url="https://simonwillison.net/2026/Feb/19/recovering-lost-code/" created="Sat, 21 Feb 2026 19:42:50 +1300" />
+    <outline text="Nobody Rips Out the Plumbing | AI &amp; WordPress | Regionally F" type="link" url="https://regionallyfamous.com/nobody-rips-out-the-plumbing/" created="Sun, 15 Feb 2026 19:56:16 +1300" />
+    <outline text="My AI Adoption Journey – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/my-ai-adoption-journey" created="Sun, 08 Feb 2026 00:36:37 +1300" />
+    <outline text="Giving University Exams in the Age of Chatbots" type="link" url="https://ploum.net/2026-01-19-exam-with-chatbots.html" created="Sat, 07 Feb 2026 01:00:45 +1300" />
+    <outline text="How Markdown took over the world - Anil Dash" type="link" url="https://anildash.com/2026/01/09/how-markdown-took-over-the-world/" created="Sat, 07 Feb 2026 00:49:09 +1300" />
+    <outline text="How I influence tech company politics as a staff software engineer" type="link" url="https://www.seangoedecke.com/how-to-influence-politics/" created="Sat, 07 Feb 2026 00:03:33 +1300" />
+    <outline text="Agent Psychosis: Are We Going Insane? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/18/agent-psychosis/" created="Fri, 06 Feb 2026 14:40:41 +1300" />
+    <outline text="Inside a five-year-old startup’s rapid AI makeover" type="link" url="https://newsletter.pragmaticengineer.com/p/ai-first-makeover-craft" created="Wed, 28 Jan 2026 11:56:00 +1300" />
+    <outline text="Stacktower — Visualize Software Dependencies as XKCD-Style Towers" type="link" url="https://stacktower.io/" created="Fri, 16 Jan 2026 18:31:53 +1300" />
+    <outline text="From Software Engineering ⇒ Product Management (A 3 Month Reflection)" type="link" url="https://loujaybee.com/software-engineering-to-product-management" created="Fri, 16 Jan 2026 18:18:06 +1300" />
+    <outline text="How to Ruin All of Package Management | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html" created="Fri, 16 Jan 2026 18:13:16 +1300" />
+    <outline text="Pluralistic: How the Light Gets In (15 Jan 2026) – Pluralistic: Daily links from Cory Doctorow" type="link" url="https://pluralistic.net/2026/01/15/how-the-light-gets-in/" created="Fri, 16 Jan 2026 17:51:32 +1300" />
+    <outline text="Porting MiniJinja to Go With an Agent | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/" created="Fri, 16 Jan 2026 11:49:13 +1300" />
+    <outline text="How uv got so fast | Andrew Nesbitt" type="link" url="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html" created="Sun, 11 Jan 2026 15:47:08 +1300" />
+    <outline text="Sandboxes For Ai" type="link" url="https://www.luiscardoso.dev/blog/sandboxes-for-ai" created="Sun, 11 Jan 2026 15:35:34 +1300" />
+    <outline text="AWS and Microsoft are selling much more than cloud services - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/aws-and-microsoft-are-selling-much-more-than-cloud/" created="Fri, 09 Jan 2026 20:10:39 +1300" />
+    <outline text="Deciphering Glyph :: The Next Thing Will Not Be Big" type="link" url="https://blog.glyph.im/2026/01/the-next-thing-will-not-be-big.html" created="Fri, 02 Jan 2026 23:45:42 +1300" />
+    <outline text="2025: The year in LLMs" type="link" url="https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything" created="Fri, 02 Jan 2026 15:43:51 +1300" />
+    <outline text="2025 Was For Ai What 2010 Was For Cloud Xpost" type="link" url="https://charity.wtf/2025/12/22/2025-was-for-ai-what-2010-was-for-cloud-xpost/" created="Sat, 27 Dec 2025 08:25:15 +1300" />
+    <outline text="Advent of Slop: A Guest Post by Claude | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/23/advent-of-slop/" created="Sat, 27 Dec 2025 08:19:42 +1300" />
+    <outline text="A new way to extract detailed transcripts from Claude Code" type="link" url="https://simonwillison.net/2025/Dec/25/claude-code-transcripts/" created="Fri, 26 Dec 2025 18:58:36 +1300" />
+    <outline text="FOMO is not a strategy • Buttondown" type="link" url="https://buttondown.com/justenoughinternet/archive/fomo-is-not-a-strategy/" created="Fri, 19 Dec 2025 22:16:55 +1300" />
+    <outline text="Day 0 Software Development: Putting it All Together on Day 2 | Puppet" type="link" url="https://www.puppet.com/blog/day-0-day-1-day-2-operations" created="Fri, 19 Dec 2025 22:10:33 +1300" />
+    <outline text="Product management is broken. Engineers can fix it" type="link" url="https://newsletter.posthog.com/p/product-management-is-broken-engineers" created="Fri, 19 Dec 2025 22:06:36 +1300" />
+    <outline text="What Actually Is Claude Code’s Plan Mode? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/" created="Fri, 19 Dec 2025 21:43:41 +1300" />
+    <outline text="Don't fear Python subprocess or Go codegen" type="link" url="https://benhoyt.com/writings/jubilant/" created="Tue, 16 Dec 2025 14:06:18 +1300" />
+    <outline text="I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours" type="link" url="https://simonwillison.net/2025/Dec/15/porting-justhtml/#atom-everything" created="Tue, 16 Dec 2025 14:04:55 +1300" />
+    <outline text="Rules for Modern Life - by David Coggins - The Contender" type="link" url="https://thecontender.substack.com/p/rules-for-modern-life" created="Sun, 14 Dec 2025 19:49:13 +1300" />
+    <outline text="Reflecting on Life | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2024/12/26/reflecting-on-life" created="Sun, 14 Dec 2025 19:42:25 +1300" />
+    <outline text="My approach to running a link blog" type="link" url="https://simonwillison.net/2024/Dec/22/link-blog/" created="Sun, 14 Dec 2025 19:25:24 +1300" />
+    <outline text="Designing remote work at Linear - Linear" type="link" url="https://linear.app/now/designing-remote-work-at-linear" created="Sun, 14 Dec 2025 19:02:11 +1300" />
+    <outline text="How to provide feedback on documents. | Irrational Exuberance" type="link" url="https://lethain.com/providing-feedback-on-writing/?&amp;aid=rec0G1wJan7OXJWMX&amp;_bhlid=3f36155db13212618d48f169ae301e87e5e9656c" created="Fri, 12 Dec 2025 23:50:57 +1300" />
+    <outline text="Email has algorithmic curation, too — Seth Larson" type="link" url="https://sethmlarson.dev/email-has-algorithmic-curation-too?utm_campaign=rss" created="Fri, 12 Dec 2025 23:44:25 +1300" />
+    <outline text="Two Scenario Threat Modeling - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2025/aug/8/two-scenario-threat-modeling/" created="Fri, 12 Dec 2025 23:35:49 +1300" />
+    <outline text="Microservices Are a Tax Your Startup Probably Can’t Afford | Oleg Pustovit – Technical Leadership &amp; MVP Development for Startups" type="link" url="https://nexo.sh/posts/microservices-for-startups/" created="Fri, 12 Dec 2025 23:01:45 +1300" />
+    <outline text="Why I'm No Longer Talking to Architects About Microservices" type="link" url="https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices" created="Fri, 12 Dec 2025 22:54:50 +1300" />
+    <outline text="Punycode: My New Favorite Algorithm - Ian Duncan" type="link" url="https://iankduncan.com/engineering/2025-12-01-punycode/" created="Fri, 12 Dec 2025 20:17:28 +1300" />
+    <outline text="Under the hood of Canada Spends with Brendan Samek" type="link" url="https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything" created="Wed, 10 Dec 2025 14:07:40 +1300" />
+    <outline text="The fastest way to detect a vowel in a string - Austin Z. Henley" type="link" url="https://austinhenley.com/blog/vowels.html" created="Wed, 03 Dec 2025 20:25:12 +1300" />
+    <outline text="Scripts I wrote that I use all the time" type="link" url="https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/" created="Wed, 03 Dec 2025 20:05:16 +1300" />
+    <outline text="Setting up a codebase for working with coding agents" type="link" url="https://simonwillison.net/2025/Oct/25/coding-agent-tips/" created="Wed, 03 Dec 2025 18:56:10 +1300" />
+    <outline text="Unreal Engine isn't ready for AI" type="link" url="https://cra.mr/unreal-engine-isnt-ready-for-ai/" created="Wed, 03 Dec 2025 18:07:08 +1300" />
+    <outline text="No, AI is not Making Engineers 10x as Productive" type="link" url="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" created="Wed, 03 Dec 2025 17:45:36 +1300" />
+    <outline text="How I use AI (Oct 2025) - Ben Stolovitz" type="link" url="https://ben.stolovitz.com/posts/how_use_ai_oct_2025/" created="Wed, 03 Dec 2025 17:24:35 +1300" />
+    <outline text="I Am An AI Hater | moser’s frame shop" type="link" url="http://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html" created="Wed, 03 Dec 2025 16:47:02 +1300" />
+    <outline text="Why This Python Performance Trick Doesn’t Matter Anymore" type="link" url="https://blog.codingconfessions.com/p/old-python-performance-trick" created="Fri, 28 Nov 2025 23:20:50 +1300" />
+    <outline text="How To Review Code | Matthias Endler" type="link" url="https://endler.dev/2025/how-to-review-code/" created="Fri, 28 Nov 2025 23:06:23 +1300" />
+    <outline text="You’re Not Supposed to Remember the Book" type="link" url="https://horacebianchon.substack.com/p/youre-not-supposed-to-remember-the-book" created="Fri, 28 Nov 2025 22:47:15 +1300" />
+    <outline text="The Management Skill Nobody Talks About – Terrible Software" type="link" url="https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/" created="Fri, 28 Nov 2025 22:41:40 +1300" />
+    <outline text="You asked: What is the the right way to use Slack?" type="link" url="https://buildingslack.com/you-asked-what-is-the-the-right-way-to-use-slack/" created="Fri, 28 Nov 2025 22:06:10 +1300" />
+    <outline text="Going Public – Part One" type="link" url="https://buildingslack.com/going-public-part-one/" created="Fri, 28 Nov 2025 21:52:03 +1300" />
+    <outline text="We remember the internet bubble. This mania looks and feels the same." type="link" url="https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/" created="Fri, 28 Nov 2025 21:43:16 +1300" />
+    <outline text="You no longer need JavaScript Ʊ lyra's epic blog" type="link" url="https://lyra.horse/blog/2025/08/you-dont-need-js/" created="Thu, 20 Nov 2025 16:04:58 +1300" />
+    <outline text="The AI-collapse pre-mortem - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/an-ai-premortem/" created="Thu, 20 Nov 2025 13:19:40 +1300" />
+    <outline text="Why it took 4 years to get a lock files specification" type="link" url="https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/" created="Thu, 20 Nov 2025 13:05:10 +1300" />
+    <outline text="90% | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/9/29/90-percent/" created="Thu, 20 Nov 2025 12:47:24 +1300" />
+    <outline text="How Claude Code is built - by Gergely Orosz" type="link" url="https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built" created="Thu, 20 Nov 2025 12:45:01 +1300" />
+    <outline text="How Well Do New Python Type Checkers Conform? A Deep Dive into Ty, Pyrefly, and Zuban" type="link" url="https://sinon.github.io/future-python-type-checkers/" created="Thu, 20 Nov 2025 11:15:51 +1300" />
+    <outline text="Getting More Strategic – Accidentally in Code" type="link" url="https://cate.blog/2025/09/23/getting-more-strategic/" created="Thu, 20 Nov 2025 11:10:59 +1300" />
+    <outline text="GitHub - bgreenwell/doxx: Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! · GitHub" type="link" url="https://github.com/bgreenwell/doxx" created="Wed, 27 Aug 2025 21:56:11 +1300" />
+    <outline text="A Treatise on AI Chatbots Undermining the Enlightenment" type="link" url="https://maggieappleton.com/ai-enlightenment/" created="Wed, 06 Aug 2025 11:24:10 +1300" />
+    <outline text="Scientific Python - SPEC 8 — Securing the Release Process" type="link" url="https://scientific-python.org/specs/spec-0008/" created="Sun, 03 Aug 2025 23:04:40 +1300" />
+    <outline text="Lessons From 9 More Years of Tricky Bugs | Henrik Warne's blog" type="link" url="https://henrikwarne.com/2025/06/15/lessons-from-9-more-years-of-tricky-bugs/" created="Sun, 03 Aug 2025 19:52:20 +1300" />
+    <outline text="Writing Toy Software Is A Joy" type="link" url="https://blog.jsbarretto.com/blog/software-is-joy/?&amp;aid=recRV94vz0xz4eTE6&amp;_bhlid=e5409cfe0451c8bbdd49dc311f994b96d1f21b3a" created="Sun, 03 Aug 2025 19:47:51 +1300" />
+    <outline text="Ipados 26 Public Beta" type="link" url="https://www.fastcompany.com/91373393/ipados-26-public-beta" created="Mon, 28 Jul 2025 01:06:41 +1300" />
+    <outline text="5038263" type="link" url="https://awful.systems/post/5038263" created="Fri, 25 Jul 2025 19:00:07 +1300" />
+    <outline text="EU-STF for funding critical Open Source | daniel.haxx.se" type="link" url="https://daniel.haxx.se/blog/2025/07/23/eu-stf-for-funding-critical-open-source/" created="Fri, 25 Jul 2025 18:48:38 +1300" />
+    <outline text="Almost Fired" type="link" url="https://www.engineersneedart.com/blog/almostfired/almostfired.html" created="Fri, 11 Jul 2025 10:44:11 +1300" />
+    <outline text="Contra Ptacek's Terrible Article On AI — Ludicity" type="link" url="https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/" created="Thu, 26 Jun 2025 15:39:41 +1300" />
+    <outline text="Agentic Misalignment: How LLMs could be insider threats" type="link" url="https://simonwillison.net/2025/Jun/20/agentic-misalignment/#atom-everything" created="Sat, 21 Jun 2025 09:46:38 +1300" />
+    <outline text="Markdown and the Slow Fade of the Formatting Fetish - iA" type="link" url="https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish" created="Thu, 19 Jun 2025 16:10:23 +1300" />
+    <outline text="Old CSS, new CSS / fuzzy notepad" type="link" url="https://eev.ee/blog/2020/02/01/old-css-new-css/" created="Sun, 08 Jun 2025 00:05:46 +1300" />
+    <outline text="AI Changes Everything | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/6/4/changes" created="Sat, 07 Jun 2025 22:53:32 +1300" />
+    <outline text="What we in the open world are messing up in trying to compete with big tech - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/what-the-open-world-must-do-better/" created="Sat, 07 Jun 2025 20:14:38 +1300" />
+    <outline text="Camels and Rubber Duckies – Joel on Software" type="link" url="https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/" created="Sat, 07 Jun 2025 20:13:24 +1300" />
+    <outline text="Write the most clever code you possibly can • Buttondown" type="link" url="https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/" created="Sat, 07 Jun 2025 19:56:34 +1300" />
+    <outline text="A coherent European/non-US cloud strategy: building railroads for the cloud economy - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/" created="Sat, 07 Jun 2025 19:48:32 +1300" />
+    <outline text="What the Royal Commission really said about the Covid response - Newsroom" type="link" url="http://newsroom.co.nz/2025/03/24/what-the-royal-commission-really-said-about-the-covid-response/" created="Sat, 07 Jun 2025 19:32:39 +1300" />
+    <outline text="15,000 lines of verified cryptography now in Python | Jonathan Protzenko" type="link" url="http://jonathan.protzenko.fr/2025/04/18/python.html" created="Sat, 07 Jun 2025 19:13:26 +1300" />
+    <outline text="The Internet of Consent - Anil Dash" type="link" url="https://www.anildash.com//2025/05/27/2025-05-27-internet-of-consent/" created="Sat, 07 Jun 2025 18:57:46 +1300" />
+    <outline text="Simon Willison’s Weblog" type="link" url="https://simonwillison.net" created="Tue, 03 Jun 2025 14:20:24 +1300" />
+    <outline text="Every chocolate milk in New Zealand, ranked from worst to best | The Spinoff" type="link" url="https://thespinoff.co.nz/kai/04-04-2025/every-chocolate-milk-in-new-zealand-ranked-from-worst-to-best" created="Fri, 04 Apr 2025 09:12:19 +1300" />
+    <outline text="The Master Plan" type="link" url="https://buildingslack.com/the-master-plan/" created="Mon, 31 Mar 2025 23:32:03 +1300" />
+    <outline text="Troy Hunt: A Sneaky Phish Just Grabbed my Mailchimp Mailing List" type="link" url="https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/" created="Tue, 25 Mar 2025 22:49:14 +1300" />
+    <outline text="We are destroying software - &lt;antirez&gt;" type="link" url="https://antirez.com/news/145" created="Mon, 24 Mar 2025 21:15:09 +1300" />
+    <outline text="Back to Mac — Matt Gemmell" type="link" url="https://mattgemmell.scot/back-to-mac/" created="Mon, 24 Mar 2025 21:03:18 +1300" />
+    <outline text="But how to get to that European cloud? - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/" created="Sun, 23 Mar 2025 22:38:59 +1300" />
+    <outline text="The (European) cloud ladder: from virtual server to MS 365 - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/the-european-cloud-ladder/" created="Sun, 23 Mar 2025 22:29:58 +1300" />
+    <outline text="Dear hosters, you are selling wood, not furniture - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/dear-hosting-providers-you-sell-lumber-and-not-furniture/" created="Sun, 23 Mar 2025 22:21:35 +1300" />
+    <outline text="Falsehoods programmers believe about languages" type="link" url="https://www.lexiconista.com/falsehoods-about-languages/" created="Sun, 23 Mar 2025 22:04:56 +1300" />
+    <outline text="Ludic's Guide To Getting Software Engineering Jobs — Ludicity" type="link" url="https://ludic.mataroa.blog/blog/ludics-guide-to-getting-software-engineering-jobs/" created="Sat, 22 Mar 2025 23:37:59 +1300" />
+    <outline text="Why AI Can’t Replace Cybersecurity Analysts – Lesley Carhart's Cybersecurity Blog" type="link" url="https://tisiphone.net/2025/02/26/why-ai-cant-replace-cybersecurity-analysts/" created="Sat, 22 Mar 2025 23:18:44 +1300" />
+    <outline text="Ugly Code and Dumb Things | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/2/20/ugly-code" created="Sat, 22 Mar 2025 23:14:54 +1300" />
+    <outline text="Git without a forge" type="link" url="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/" created="Sat, 22 Mar 2025 15:55:10 +1300" />
+    <outline text="Why &quot;Normal&quot; Engineers Are the Key to Great Teams - IEEE Spectrum" type="link" url="https://spectrum.ieee.org/10x-engineer" created="Sat, 22 Mar 2025 15:46:39 +1300" />
+    <outline text="In S3 simplicity is table stakes | All Things Distributed" type="link" url="https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html" created="Sat, 22 Mar 2025 15:43:45 +1300" />
+    <outline text="The Road Not Taken is Guaranteed Minimum Income" type="link" url="https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/" created="Sat, 22 Mar 2025 15:35:09 +1300" />
+    <outline text="AI search should sustain open source, not just index it — Eric Holscher" type="link" url="https://www.ericholscher.com/blog/2024/nov/1/ai-search-should-sustain-open-source/" created="Sat, 22 Mar 2025 15:33:58 +1300" />
+    <outline text="The features of Python's help() function - Python Morsels" type="link" url="https://www.pythonmorsels.com/help-features/" created="Sat, 22 Mar 2025 15:32:55 +1300" />
+    <outline text="The Unbelievable Scale of AI’s Pirated-Books Problem - The Atlantic" type="link" url="https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/" created="Sat, 22 Mar 2025 15:29:55 +1300" />
+    <outline text="No Longer My Favorite Git Commit · mtlynch.io" type="link" url="https://mtlynch.io/no-longer-my-favorite-git-commit/" created="Sat, 22 Mar 2025 15:25:01 +1300" />
+    <outline text="CVSS is dead to us | daniel.haxx.se" type="link" url="https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/" created="Sat, 25 Jan 2025 08:53:28 +1300" />
+    <outline text="Build It Yourself | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2025/1/24/build-it-yourself" created="Sat, 25 Jan 2025 08:46:57 +1300" />
+    <outline text="Brainwash An Executive Today! — Ludicity" type="link" url="https://ludic.mataroa.blog/blog/brainwash-an-executive-today/" created="Tue, 14 Jan 2025 14:12:25 +1300" />
+    <outline text="Medium" type="link" url="https://ev.medium.com/making-social-social-again-0126fa5c6ce8" created="Mon, 23 Dec 2024 16:46:03 +1300" />
+    <outline text="Why GitHub Actually Won | Butler's Log" type="link" url="https://blog.gitbutler.com/why-github-actually-won/" created="Sun, 22 Dec 2024 18:42:17 +1300" />
+    <outline text="How Hard Should Your Employer Work To Retain You?" type="link" url="https://charity.wtf/2024/10/11/how-hard-should-your-employer-work-to-retain-you/" created="Sun, 22 Dec 2024 18:27:45 +1300" />
+    <outline text="Building LLMs is probably not going be a brilliant business" type="link" url="https://calpaterson.com/porter.html" created="Sun, 22 Dec 2024 18:17:14 +1300" />
+    <outline text="Never Forgive Them" type="link" url="https://www.wheresyoured.at/never-forgive-them/" created="Wed, 18 Dec 2024 15:12:51 +1300" />
+    <outline text="GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown. · GitHub" type="link" url="https://github.com/microsoft/markitdown" created="Mon, 16 Dec 2024 20:29:58 +1300" />
+    <outline text="A gift guide for people who really don’t want to buy shit | The Spinoff" type="link" url="https://thespinoff.co.nz/society/13-12-2024/a-gift-guide-for-people-who-really-dont-want-to-buy-shit" created="Fri, 13 Dec 2024 14:50:58 +1300" />
+    <outline text="The Basics - by Thorsten Ball - Register Spill" type="link" url="https://registerspill.thorstenball.com/p/the-basics" created="Fri, 06 Dec 2024 11:56:21 +1300" />
+    <outline text="An Engineering Manager Challenge" type="link" url="https://blogs.newardassociates.com/blog/2024/engineering-manager-challenge.html" created="Fri, 06 Dec 2024 11:54:17 +1300" />
+    <outline text="Medium" type="link" url="https://skamille.medium.com/the-senior-shortcut-fadffe5503fd" created="Wed, 04 Dec 2024 20:35:35 +1300" />
+    <outline text="Software Engineer Titles Have (Almost) Lost All Their Mea..." type="link" url="https://www.trevorlasn.com/blog/software-engineer-titles-have-almost-lost-all-their-meaning" created="Wed, 04 Dec 2024 20:29:13 +1300" />
+    <outline text="Opposite of Cloud Native is? • Michael Kennedy's Thoughts on Technology" type="link" url="https://mkennedy.codes/posts/opposite-of-cloud-native-is-stack-native/" created="Wed, 04 Dec 2024 20:13:35 +1300" />
+    <outline text="Is the Love Song Dying?" type="link" url="https://pudding.cool/2024/11/love-songs/" created="Wed, 04 Dec 2024 20:05:33 +1300" />
+    <outline text="All 33 malls in Auckland ranked from worst to best | The Spinoff" type="link" url="https://thespinoff.co.nz/the-best-of/21-11-2024/auckland-mall-ranking-new-zealand-malls" created="Tue, 03 Dec 2024 19:00:08 +1300" />
+    <outline text="How some of the world's most brilliant computer scientists got password policies so wrong | Mildly-Aggrieved (not mad!) Scientist" type="link" url="https://stuartschechter.org/posts/password-history/" created="Tue, 03 Dec 2024 18:38:57 +1300" />
+    <outline text="Writes and Write-Nots" type="link" url="https://paulgraham.com/writes.html" created="Tue, 03 Dec 2024 18:30:59 +1300" />
+    <outline text="What Color is Your Function? – journal.stuffwithstuff.com" type="link" url="https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/" created="Tue, 03 Dec 2024 18:26:30 +1300" />
+    <outline text="Certain names make ChatGPT grind to a halt, and we know why - Ars Technica" type="link" url="https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/" created="Tue, 03 Dec 2024 17:20:27 +1300" />
+    <outline text="Why I Will Always Be Angry About Software Engineering — Ludicity" type="link" url="https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/" created="Fri, 29 Nov 2024 23:38:07 +1300" />
+    <outline text="Playground Wisdom: Threads Beat Async/Await | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await" created="Fri, 29 Nov 2024 23:27:11 +1300" />
+    <outline text="The case against living in the Bay Area, for ambitious tech people" type="link" url="https://newsletter.goodtechthings.com/p/the-case-against-living-in-the-bay" created="Fri, 29 Nov 2024 23:09:31 +1300" />
+    <outline text="Solar-powered desalination system requires no extra batteries | MIT News | Massachusetts Institute of Technology" type="link" url="https://news.mit.edu/2024/solar-powered-desalination-system-requires-no-extra-batteries-1008" created="Fri, 29 Nov 2024 23:05:45 +1300" />
+    <outline text="Video scraping: extracting JSON data from a 35 second screen capture for less than 1/10th of a cent" type="link" url="https://simonwillison.net/2024/Oct/17/video-scraping/#atom-everything" created="Sat, 02 Nov 2024 22:21:46 +1300" />
+    <outline text="Ricky Mondello » Apple Passwords’ Generated Strong Password Format" type="link" url="https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/" created="Wed, 09 Oct 2024 23:28:35 +1300" />
+    <outline text="Aggressive Nostalgia | Alfie Kohn" type="link" url="https://www.alfiekohn.org/blogs/aggressive-nostalgia/" created="Wed, 09 Oct 2024 23:26:17 +1300" />
+    <outline text="copilot-explorer | Hacky repo to see what the Copilot extension sends to the server" type="link" url="https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html" created="Sat, 05 Oct 2024 14:13:38 +1300" />
+    <outline text="Home-Cooked Software and Barefoot Developers" type="link" url="https://maggieappleton.com/home-cooked-software" created="Sat, 05 Oct 2024 13:55:54 +1300" />
+    <outline text="How we deleted 4195 code files in 9 hours - by Anton Zaides" type="link" url="https://zaidesanton.substack.com/p/organizing-the-best-cleanathon-your" created="Sat, 05 Oct 2024 12:03:20 +1300" />
+    <outline text="Sonar Learning Center &amp; Training Courses for Developer Set Up" type="link" url="https://explore.tidelift.com/2024-survey" created="Sat, 05 Oct 2024 11:36:28 +1300" />
+    <outline text="What does a date actually mean? - by James Stanier" type="link" url="https://theengineeringmanager.substack.com/p/what-does-a-date-actually-mean" created="Sat, 05 Oct 2024 00:08:32 +1300" />
+    <outline text="Why, after 6 years, I’m over GraphQL" type="link" url="https://bessey.dev/blog/2024/05/24/why-im-over-graphql/" created="Fri, 04 Oct 2024 23:55:02 +1300" />
+    <outline text="Veronica Writes" type="link" url="https://berglyd.net/blog/2024/06/joining-strings-in-python/" created="Wed, 02 Oct 2024 23:57:06 +1300" />
+    <outline text="Standups: Individual → Teammate - by Kent Beck" type="link" url="https://tidyfirst.substack.com/p/standups-individual-teammate" created="Wed, 02 Oct 2024 23:42:41 +1300" />
+    <outline text="I Want My Scrollbar Back (A 2-Minute Read)" type="link" url="https://aartaka.me/scrollbar" created="Wed, 02 Oct 2024 23:37:19 +1300" />
+    <outline text="Changelog philosophy | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202409/changelog_philosophy.html" created="Wed, 02 Oct 2024 23:25:43 +1300" />
+    <outline text="Changelogs and Release Notes | Cogito, Ergo Sumana" type="link" url="https://www.harihareswara.net/posts/2024/changelogs-and-release-notes/" created="Wed, 02 Oct 2024 23:23:35 +1300" />
+    <outline text="Effective Changelogs | xavd.id" type="link" url="https://xavd.id/blog/post/effective-changelogs/" created="Wed, 02 Oct 2024 23:14:15 +1300" />
+    <outline text="Your git log is not a changelog! | agateau.com" type="link" url="https://agateau.com/2022/your-git-log-is-not-a-changelog" created="Wed, 02 Oct 2024 23:11:30 +1300" />
+    <outline text="Fire Faster, but Hire Better" type="link" url="https://cra.mr/fire-faster-but-hire-better/" created="Wed, 02 Oct 2024 23:07:34 +1300" />
+    <outline text="Why Mark Zuckerberg thinks AR glasses will replace your phone | The Verge" type="link" url="https://www.theverge.com/24253481/meta-ceo-mark-zuckerberg-ar-glasses-orion-ray-bans-ai-decoder-interview" created="Thu, 26 Sep 2024 19:54:01 +1300" />
+    <outline text="Cleaning up a messy branch | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202409/cleaning_up_a_messy_branch.html" created="Thu, 26 Sep 2024 11:25:35 +1300" />
+    <outline text="Google Workspace Updates: Gmail allows more senders to protect their brand using BIMI Common Mark Certificates" type="link" url="http://workspaceupdates.googleblog.com/2024/09/gmail-additional-bimi-protections.html" created="Thu, 26 Sep 2024 11:21:08 +1300" />
+    <outline text="A Git story: Not so fun this time | Brachiosoft Blog" type="link" url="https://blog.brachiosoft.com/en/posts/git/" created="Mon, 23 Sep 2024 21:57:29 +1300" />
+    <outline text="DRY – the common source of bad abstractions | Swizec Teller" type="link" url="https://swizec.com/blog/dry-the-common-source-of-bad-abstractions" created="Mon, 23 Sep 2024 21:25:38 +1300" />
+    <outline text="Story Points are Pointless, Measure Queues | Brightball" type="link" url="https://www.brightball.com/articles/story-points-are-pointless-measure-queues" created="Mon, 23 Sep 2024 20:51:09 +1300" />
+    <outline text="Using your own product is a superpower - by Ian Vanagas" type="link" url="https://newsletter.posthog.com/p/using-your-own-product-is-a-superpower" created="Sat, 21 Sep 2024 20:52:13 +1300" />
+    <outline text="The gigantic and unregulated power plants in the cloud - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/the-gigantic-unregulated-power-plants-in-the-cloud/" created="Fri, 20 Sep 2024 23:23:39 +1300" />
+    <outline text="Advanced Testing with Go - Speaker Deck" type="link" url="https://speakerdeck.com/mitchellh/advanced-testing-with-go" created="Fri, 20 Sep 2024 12:49:35 +1300" />
+    <outline text="Your company needs Junior devs" type="link" url="https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors.html" created="Fri, 20 Sep 2024 12:08:40 +1300" />
+    <outline text="How to evaluate dependencies" type="link" url="https://philbooth.me/blog/how-to-evaluate-dependencies?_bhlid=4c425f00b5c01af291ce55b9862dd06ad3e2627d" created="Fri, 20 Sep 2024 12:05:51 +1300" />
+    <outline text="Accidental Spending: A Case For an Open Source Tax? | Armin Ronacher's Thoughts and Writings" type="link" url="https://lucumr.pocoo.org/2024/9/19/open-source-tax" created="Fri, 20 Sep 2024 11:57:56 +1300" />
+    <outline text="Tossed Salads And Scrumbled Eggs — Ludicity" type="link" url="https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/" created="Thu, 19 Sep 2024 23:45:45 +1300" />
+    <outline text="Neither Elon Musk Nor Anybody Else Will Ever Colonize Mars | Defector" type="link" url="https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars" created="Thu, 12 Sep 2024 17:32:42 +1300" />
+    <outline text="20 years — Matt Gemmell" type="link" url="https://mattgemmell.scot/20-years/" created="Fri, 06 Sep 2024 14:12:55 +1300" />
+    <outline text="Disabling Scheduled Dependency Updates – David Lord" type="link" url="https://davidism.com/disabling-scheduled-dependency-updates/" created="Mon, 02 Sep 2024 12:24:15 +1300" />
+    <outline text="Accident Forgiveness · The Fly Blog" type="link" url="https://fly.io/blog/accident-forgiveness/" created="Thu, 22 Aug 2024 12:04:50 +1300" />
+    <outline text="PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights | Robert Heaton" type="link" url="https://robertheaton.com/pyskywifi/" created="Wed, 10 Jul 2024 23:35:51 +1300" />
+    <outline text="‘I hope you fucking die’: The reality of being a bus driver in 2024 | The Spinoff" type="link" url="https://thespinoff.co.nz/society/04-07-2024/i-hope-you-fucking-die-the-reality-of-being-a-bus-driver-in-2024" created="Thu, 04 Jul 2024 12:32:07 +1300" />
+    <outline text="Michael Tsai - Blog - Feature Requests for Death" type="link" url="https://mjtsai.com/blog/2024/07/03/feature-requests-for-death/" created="Thu, 04 Jul 2024 12:28:02 +1300" />
+    <outline text="Watch" type="link" url="https://www.youtube.com/watch?v=kcfERM6fcgU" created="Tue, 02 Jul 2024 15:21:55 +1300" />
+    <outline text="I Will Fucking Piledrive You If You Mention AI Again — Ludicity" type="link" url="https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/" created="Thu, 20 Jun 2024 17:21:40 +1300" />
+    <outline text="Member Journal — 6/10/24 – The Brooks Review" type="link" url="https://brooksreview.net/2024/06/member-journal-61023/" created="Thu, 13 Jun 2024 22:44:16 +1300" />
+    <outline text="NZ’s Best Homes is the opposite of Sunday. Maybe that’s why it’s working | The Spinoff" type="link" url="https://thespinoff.co.nz/pop-culture/11-06-2024/nzs-best-homes-is-the-opposite-of-sunday-maybe-thats-why-its-working" created="Thu, 13 Jun 2024 17:28:50 +1300" />
+    <outline text="pdf-to-podcast.com" type="link" url="https://pdf-to-podcast.com/" created="Thu, 13 Jun 2024 17:24:15 +1300" />
+    <outline text="The remoteness of remote work - Zerodha Tech Blog" type="link" url="https://zerodha.tech/blog/remoteness-of-remote-work/" created="Tue, 11 Jun 2024 23:56:10 +1300" />
+    <outline text="Elided Branches: The Manager as Debugger" type="link" url="https://www.elidedbranches.com/2015/11/the-manager-as-debugger.html" created="Tue, 11 Jun 2024 23:46:03 +1300" />
+    <outline text="Ultrawilding: Aotearoa and the tech revolution giving nature a leg-up | The Spinoff" type="link" url="https://thespinoff.co.nz/books/08-06-2024/ultrawilding-aotearoa-and-the-tech-revolution-giving-nature-a-leg-up" created="Tue, 11 Jun 2024 23:35:37 +1300" />
+    <outline text="No Wrong Doors. | Irrational Exuberance" type="link" url="https://lethain.com/no-wrong-doors/" created="Tue, 11 Jun 2024 23:17:04 +1300" />
+    <outline text="Instead of &quot;auth&quot;, we should say &quot;permissions&quot; and &quot;login&quot; | nicole@web" type="link" url="https://ntietz.com/blog/lets-say-instead-of-auth/" created="Tue, 11 Jun 2024 23:14:32 +1300" />
+    <outline text="How (some) good corporate engineering blogs are written" type="link" url="https://danluu.com/corp-eng-blogs/" created="Tue, 11 Jun 2024 22:52:18 +1300" />
+    <outline text="Programming mantras are proverbs - lukeplant.me.uk" type="link" url="https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/" created="Fri, 31 May 2024 09:39:12 +1300" />
+    <outline text="The Lunacy of Artemis (Idle Words)" type="link" url="https://idlewords.com/2024/5/the_lunacy_of_artemis.htm" created="Wed, 29 May 2024 20:13:25 +1300" />
+    <outline text="Writing commit messages" type="link" url="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/" created="Wed, 29 May 2024 19:27:18 +1300" />
+    <outline text="Deciphering Glyph :: A Grand Unified Theory of the AI Hype Cycle" type="link" url="https://blog.glyph.im/2024/05/grand-unified-ai-hype.html" created="Wed, 29 May 2024 19:18:39 +1300" />
+    <outline text="BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit - Zone Blog" type="link" url="https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/" created="Wed, 29 May 2024 18:43:45 +1300" />
+    <outline text="The Wi-Fi only works when it's raining" type="link" url="https://predr.ag/blog/wifi-only-works-when-its-raining" created="Sun, 19 May 2024 00:43:33 +1300" />
+    <outline text="ongoing by Tim Bray · OSQI" type="link" url="https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI" created="Sun, 19 May 2024 00:38:35 +1300" />
+    <outline text="Have Concerns And Commit | Stay SaaSy" type="link" url="https://staysaasy.com/leadership/2024/04/04/have-concerns-and-commit.html" created="Sun, 19 May 2024 00:14:28 +1300" />
+    <outline text="Deciphering Glyph :: Software Needs To Be More Expensive" type="link" url="https://blog.glyph.im/2024/03/software-needs-to-be-more-expensive.html" created="Sat, 18 May 2024 23:41:32 +1300" />
+    <outline text="The User Is On Their Own | selfaware soup" type="link" url="https://www.selfawaresoup.com/notes/2024/05/01/the-user-is-on-their-own/" created="Thu, 02 May 2024 08:37:48 +1300" />
+    <outline text="The Man Who Killed Google Search" type="link" url="https://www.wheresyoured.at/the-men-who-killed-google/" created="Thu, 25 Apr 2024 13:19:02 +1300" />
+    <outline text="Use an llm to automagically generate meaningful git commit messages | Harper Reed's Blog" type="link" url="https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/" created="Thu, 11 Apr 2024 22:06:21 +1300" />
+    <outline text="Attack on Software Supply Chains Using Fake Python Infrastructure" type="link" url="https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/" created="Thu, 11 Apr 2024 10:21:11 +1300" />
+    <outline text="Files · main · Screwtape / sqlite-schema-diagram · GitLab" type="link" url="https://gitlab.com/Screwtapello/sqlite-schema-diagram/-/tree/main" created="Mon, 25 Mar 2024 23:13:05 +1300" />
+    <outline text="Quick Thoughts on DoJ v. Apple" type="link" url="https://spyglass.org/good-luck-doj/" created="Fri, 22 Mar 2024 10:20:15 +1300" />
+    <outline text="The sun is setting on Sunday. Here’s what it was like to work on the show | The Spinoff" type="link" url="https://thespinoff.co.nz/media/16-03-2024/the-sun-is-setting-on-sunday-heres-what-it-was-like-to-work-on-the-show" created="Sat, 16 Mar 2024 13:39:47 +1300" />
+    <outline text="Learnings From Our 8 Years Of Kubernetes In Production Two Major Cluster Crashes Ditching Self 0257C09D36Cd" type="link" url="https://medium.com/%5B@anders%5D(https://micro.blog/anders)/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd" created="Sun, 10 Mar 2024 16:47:23 +1300" />
+    <outline text="Parkinson's Law: It's Real, So Use It - by James Stanier" type="link" url="https://theengineeringmanager.substack.com/p/parkinsons-law-its-real-so-use-it" created="Sun, 10 Mar 2024 15:18:44 +1300" />
+    <outline text="Enterprise is Dead" type="link" url="https://cra.mr/enterprise-is-dead/" created="Fri, 08 Mar 2024 23:41:15 +1300" />
+    <outline text="(comic) Getting Phone Calls - Work Chronicles" type="link" url="https://open.substack.com/pub/workchronicles/p/comic-getting-phone-calls" created="Thu, 07 Mar 2024 19:21:07 +1300" />
+    <outline text="Interesting ideas in Observable Framework" type="link" url="https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/" created="Mon, 04 Mar 2024 08:40:04 +1300" />
+    <outline text="The One Billion Row Challenge in Go: from 1m45s to 3.4s in nine solutions" type="link" url="https://benhoyt.com/writings/go-1brc/" created="Sun, 03 Mar 2024 22:40:13 +1300" />
+    <outline text="A Baby Computer, or a Computer for Babies? – The Brooks Review" type="link" url="https://brooksreview.net/2024/02/a-baby-computer-or-a-computer-for-babies/" created="Sat, 02 Mar 2024 13:51:37 +1300" />
+    <outline text="Ten Python datetime pitfalls, and what libraries are (not) doing about it | Arie Bovenberg" type="link" url="https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/" created="Wed, 28 Feb 2024 00:01:27 +1300" />
+    <outline text="The “errors” that mean you’re doing it right" type="link" url="https://longform.asmartbear.com/good-problems-to-have/" created="Tue, 27 Feb 2024 23:38:40 +1300" />
+    <outline text="Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?”" type="link" url="https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/" created="Tue, 27 Feb 2024 23:30:52 +1300" />
+    <outline text="Performance Analysis of Python's `dict()` and `{}` - MadeByMe" type="link" url="https://madebyme.today/blog/python-dict-vs-curly-brackets/" created="Tue, 27 Feb 2024 01:23:06 +1300" />
+    <outline text="Open Source and a Healthy Dose of Capitalism" type="link" url="https://cra.mr/open-source-and-a-healthy-dose-of-capitalism/" created="Tue, 27 Feb 2024 01:18:46 +1300" />
+    <outline text="My favourite Git commit | dhwthompson.com" type="link" url="https://dhwthompson.com/2019/my-favourite-git-commit" created="Tue, 27 Feb 2024 01:15:31 +1300" />
+    <outline text="Making my bookshelves clickable - with words, wonder" type="link" url="https://jamesg.blog/2024/02/14/clickable-bookshelves/" created="Tue, 27 Feb 2024 01:11:58 +1300" />
+    <outline text="(comic) Volunteer Standoff - Work Chronicles" type="link" url="https://workchronicles.substack.com/p/comic-volunteer-standoff" created="Fri, 23 Feb 2024 11:21:48 +1300" />
+    <outline text="Just Some Unsolicited Advice" type="link" url="https://www.spamtacular.com/2024/02/21/just-some-unsolicited-advice/" created="Thu, 22 Feb 2024 11:02:59 +1300" />
+    <outline text="The killer app of Gemini Pro 1.5 is video" type="link" url="https://simonwillison.net/2024/Feb/21/gemini-pro-video/" created="Thu, 22 Feb 2024 09:02:42 +1300" />
+    <outline text="Paying people to work on open source is good actually - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2024/feb/16/paying-maintainers-is-good/" created="Wed, 21 Feb 2024 14:18:01 +1300" />
+    <outline text="Falsehoods Junior Developers believe about becoming Senior" type="link" url="https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/" created="Wed, 21 Feb 2024 13:14:29 +1300" />
+    <outline text="Bloom Filters" type="link" url="https://samwho.dev/bloom-filters/" created="Tue, 20 Feb 2024 10:07:11 +1300" />
+    <outline text="(comic) 100% attendance - Work Chronicles" type="link" url="https://workchronicles.substack.com/p/comic-100-attendance-7f2" created="Tue, 20 Feb 2024 10:03:58 +1300" />
+    <outline text="Enterprise Budgeting" type="link" url="https://www.goodtechthings.com/enterprise-budgeting/" created="Tue, 23 Jan 2024 10:43:43 +1300" />
+    <outline text="C++ Seeding Surprises | PCG, A Better Random Number Generator" type="link" url="http://www.pcg-random.org/posts/cpp-seeding-surprises.html" created="Sat, 20 Jan 2024 13:21:33 +1300" />
+    <outline text="Taking the Airbus to the IKEA Cloud - Bert Hubert's writings" type="link" url="https://berthub.eu/articles/posts/taking-the-airbus-to-the-ikea-cloud/" created="Fri, 19 Jan 2024 01:25:45 +1300" />
+    <outline text="We removed advertising cookies and here’s what happened | Sentry Blog" type="link" url="https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/" created="Fri, 19 Jan 2024 00:53:27 +1300" />
+    <outline text="My proof-of-concept record type" type="link" url="https://snarky.ca/my-proof-of-concept-record-type/" created="Thu, 18 Jan 2024 21:48:32 +1300" />
+    <outline text="Don't use Python's property" type="link" url="https://www.b-list.org/weblog/2023/dec/21/dont-use-python-property/" created="Thu, 18 Jan 2024 21:34:35 +1300" />
+    <outline text="The return of None-aware operators for Python [LWN.net]" type="link" url="https://lwn.net/Articles/956862/" created="Thu, 18 Jan 2024 21:14:44 +1300" />
+    <outline text="On undoing, fixing, or removing commits in git" type="link" url="http://sethrobertson.github.io/GitFixUm/fixup.html" created="Thu, 18 Jan 2024 21:08:28 +1300" />
+    <outline text="Git Notes: git's coolest, most unloved­ feature - Tyler Cipriani" type="link" url="https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/" created="Thu, 18 Jan 2024 20:47:19 +1300" />
+    <outline text="A $7 Subscription" type="link" url="https://cra.mr/a-seven-dollar-subscription/" created="Thu, 18 Jan 2024 20:44:28 +1300" />
+    <outline text="Confusing git terminology" type="link" url="https://jvns.ca/blog/2023/11/01/confusing-git-terminology/" created="Thu, 18 Jan 2024 20:37:32 +1300" />
+    <outline text="Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch – John Stawinski IV" type="link" url="https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/" created="Mon, 15 Jan 2024 10:37:54 +1300" />
+    <outline text="(comic) When you try to help - Work Chronicles" type="link" url="https://open.substack.com/pub/workchronicles/p/comic-when-you-try-to-help-e31" created="Wed, 10 Jan 2024 18:27:38 +1300" />
+    <outline text="Google Online Security Blog: Improving Text Classification Resilience and Efficiency with RETVec" type="link" url="https://security.googleblog.com/2023/11/improving-text-classification.html" created="Sat, 09 Dec 2023 23:54:45 +1300" />
+    <outline text="Rethinking Serverless with FLAME · The Fly Blog" type="link" url="https://fly.io/blog/rethinking-serverless-with-flame/" created="Sat, 09 Dec 2023 18:54:25 +1300" />
+    <outline text="Rust std fs slower than Python!? No, it's hardware!" type="link" url="https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/" created="Thu, 30 Nov 2023 11:29:08 +1300" />
+    <outline text="How many Python core devs use typing? | Gram Publishing v2" type="link" url="https://blog.orsinium.dev/posts/py/core-devs-typing/" created="Thu, 30 Nov 2023 11:18:59 +1300" />
+    <outline text="My $500M Mars Rover Mistake: A Failure Story — Chris Lewicki" type="link" url="https://www.chrislewicki.com/articles/failurestory" created="Wed, 29 Nov 2023 12:15:54 +1300" />
+    <outline text="cat /dev/brain - No Should be Your Default" type="link" url="https://blog.ian.stapletoncordas.co/2023/11/no-should-be-your-default" created="Mon, 27 Nov 2023 14:16:15 +1300" />
+    <outline text="The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story | WIRED" type="link" url="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/" created="Sun, 19 Nov 2023 21:12:41 +1300" />
+    <outline text="In The Office Auto Reply Emails For A Hybrid Work Schedule" type="link" url="https://www.mcsweeneys.net/articles/in-the-office-auto-reply-emails-for-a-hybrid-work-schedule" created="Thu, 16 Nov 2023 13:08:57 +1300" />
+    <outline text="A $3,000,000 Dropdown | Sentry Blog" type="link" url="https://sentry.engineering/blog/3m-dollar-dropdown" created="Thu, 16 Nov 2023 13:04:04 +1300" />
+    <outline text="hu.ma.ne" type="link" url="https://hu.ma.ne/" created="Thu, 16 Nov 2023 12:53:18 +1300" />
+    <outline text="(comic) Work Hard on the Slides They Said" type="link" url="https://open.substack.com/pub/workchronicles/p/comic-work-hard-on-the-slides-they-a65" created="Fri, 10 Nov 2023 07:27:50 +1300" />
+    <outline text="Why you shouldn't invoke setup.py directly" type="link" url="https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html" created="Wed, 01 Nov 2023 19:46:27 +1300" />
+    <outline text="The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!) @ tonsky.me" type="link" url="https://tonsky.me/blog/unicode/" created="Tue, 17 Oct 2023 13:13:53 +1300" />
+    <outline text="How To Opt Out Of The Career Ladder - by Jean Hsu" type="link" url="https://devinterrupted.substack.com/p/how-to-opt-out-of-the-career-ladder" created="Tue, 03 Oct 2023 23:18:50 +1300" />
+    <outline text="Database Migrations" type="link" url="https://vadimkravcenko.com/shorts/database-migrations/" created="Tue, 03 Oct 2023 22:03:36 +1300" />
+    <outline text="How Instagram scaled to 14 million users with only 3 engineers" type="link" url="https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million" created="Mon, 25 Sep 2023 15:26:18 +1300" />
+    <outline text="Sharding Ids At Instagram 1Cf5A71E5A5C" type="link" url="https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c" created="Mon, 25 Sep 2023 15:22:53 +1300" />
+    <outline text="Adactio: Journal—Multi-page web apps" type="link" url="https://adactio.com/journal/20442" created="Mon, 25 Sep 2023 15:13:47 +1300" />
+    <outline text="What’s in a domain name: The meaning of URL suffixes - Rest of World" type="link" url="https://restofworld.org/2023/whats-in-a-domain-name/" created="Sun, 24 Sep 2023 12:06:00 +1300" />
+    <outline text="Why write | Swizec Teller" type="link" url="https://swizec.com/blog/why-write" created="Sat, 23 Sep 2023 22:54:42 +1300" />
+    <outline text="How platform teams get stuff done" type="link" url="https://martinfowler.com/articles/platform-teams-stuff-done.html" created="Sat, 23 Sep 2023 22:38:32 +1300" />
+    <outline text="Why &amp; How Python Uses Bloom Filters in String Processing?" type="link" url="https://codeconfessions.substack.com/p/cpython-bloom-filter-usage" created="Thu, 21 Sep 2023 00:51:14 +1300" />
+    <outline text="Inbound Malware Volume Report - The Python Package Index Blog" type="link" url="https://blog.pypi.org/posts/2023-09-18-inbound-malware-reporting/" created="Wed, 20 Sep 2023 21:10:37 +1300" />
+    <outline text="Python return styles · Tony Andrew Meyer" type="link" url="https://tonyandrewmeyer.com/2023/09/19/python-return-styles/" created="Wed, 20 Sep 2023 19:47:43 +1300" />
+    <outline text="Kiwi PyCon 2023 - Waihōpai Invercargill - 15th-17th September 2023 · Tony Andrew Meyer" type="link" url="https://tonyandrewmeyer.com/2023/09/17/kiwi-pycon-2023-waihopai-invercargill-15th-17th-september-2023/" created="Wed, 20 Sep 2023 13:49:55 +1300" />
+    <outline text="Advice to beginners | Ned Batchelder" type="link" url="https://nedbatchelder.com/blog/202309/advice_to_beginners.html" created="Wed, 20 Sep 2023 00:53:36 +1300" />
+    <outline text="Simulating History with ChatGPT - by Benjamin Breen" type="link" url="https://resobscura.substack.com/p/simulating-history-with-chatgpt" created="Sun, 17 Sep 2023 18:59:42 +1300" />
+    <outline text="Validity to start charging for Feedback Loop email feeds" type="link" url="https://www.spamresource.com/2023/09/validity-to-start-charging-for-feedback.html" created="Thu, 14 Sep 2023 07:28:51 +1300" />
+    <outline text="Demise of The Wirecutter, and Trusted Reviews in General – The Brooks Review" type="link" url="https://brooksreview.net/2023/09/demise-of-the-wirecutter-and-trusted-reviews-in-general/" created="Mon, 11 Sep 2023 12:17:02 +1300" />
+    <outline text="The trouble with CNAMEs | Word to the Wise" type="link" url="https://wordtothewise.com/2023/09/the-trouble-with-cnames/" created="Mon, 11 Sep 2023 12:15:58 +1300" />
+    <outline text="My Problem With the Four-Document Model" type="link" url="https://www.hillelwayne.com/post/problems-with-the-4doc-model/" created="Wed, 06 Sep 2023 22:12:08 +1300" />
+    <outline text="Do I need a consultant, contractor or employee? - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2023/aug/24/consultant-contractor-or-employee/" created="Wed, 06 Sep 2023 19:28:45 +1300" />
+    <outline text="managing through layoffs | go ahead, mac my day" type="link" url="https://www.nadynerichmond.com/blog/2023/08/19/managing-through-layoffs/" created="Wed, 06 Sep 2023 19:06:27 +1300" />
+    <outline text="Hire for Floors, not Ceilings - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2023/aug/16/floors-not-ceilings/" created="Wed, 06 Sep 2023 18:33:50 +1300" />
+    <outline text="nip.io - wildcard DNS for any IP Address" type="link" url="https://nip.io" created="Tue, 05 Sep 2023 19:19:22 +1300" />
+    <outline text="Member Journal — 8/28/23 – The Brooks Review" type="link" url="https://brooksreview.net/2023/08/member-journal-82823/" created="Tue, 29 Aug 2023 10:39:20 +1300" />
+    <outline text="Immortalization in Python 3.12: A Dive into Python Internals" type="link" url="https://codeconfessions.substack.com/p/understanding-immortal-objects-in" created="Sun, 27 Aug 2023 09:02:47 +1300" />
+    <outline text="How to Communicate When Trust Is Low (Without Digging Yourself Into A Deeper Hole)" type="link" url="https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/" created="Thu, 17 Aug 2023 18:39:58 +1300" />
+    <outline text="Name before type: why 'age int' is better than 'int age'" type="link" url="https://benhoyt.com/writings/name-before-type/" created="Thu, 17 Aug 2023 12:12:43 +1300" />
+    <outline text="Heres Why They Want You Back At The Office So Bad" type="link" url="https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/" created="Sat, 12 Aug 2023 16:11:23 +1300" />
+    <outline text="Unicode is harder than you think · mcilloni's blog" type="link" url="https://mcilloni.ovh/2023/07/23/unicode-is-hard/" created="Mon, 07 Aug 2023 21:25:51 +1300" />
+    <outline text="Shamir Secret Sharing It’s 3am. Paul, the head of... — too long to tweet" type="link" url="https://max.levch.in/post/724289457144070144/shamir-secret-sharing" created="Mon, 07 Aug 2023 21:12:07 +1300" />
+    <outline text="Making Software With 4,999 Other People — willett dot io" type="link" url="https://www.willett.io/posts/4999/" created="Mon, 07 Aug 2023 21:04:12 +1300" />
+    <outline text="Advantages of not using the best tool for the job" type="link" url="https://www.johndcook.com/blog/2020/07/25/worst-tool-for-the-job/" created="Mon, 07 Aug 2023 08:45:08 +1300" />
+    <outline text="Quirks of Python package versioning — Seth Larson" type="link" url="https://sethmlarson.dev/pep-440" created="Sun, 06 Aug 2023 18:50:14 +1300" />
+    <outline text="Numbers or Brackets for numeric questions? • Lea Verou" type="link" url="https://lea.verou.me/blog/2023/numbers-vs-brackets/" created="Fri, 04 Aug 2023 18:37:27 +1300" />
+    <outline text="Microsoft: Body hash did not verify error" type="link" url="https://www.spamresource.com/2023/08/microsoft-body-hash-did-not-verify-error.html" created="Fri, 04 Aug 2023 09:13:38 +1300" />
+    <outline text="Accidentally Load Bearing" type="link" url="https://www.jefftk.com/p/accidentally-load-bearing" created="Wed, 26 Jul 2023 22:00:32 +1300" />
+    <outline text="How (and Why) to Log Your Entire Bash History" type="link" url="https://spin.atomicobject.com/2016/05/28/log-bash-history/" created="Sat, 22 Jul 2023 13:38:56 +1300" />
+    <outline text="Fresh Work 80/15/5 - by Kent Beck" type="link" url="https://tidyfirst.substack.com/p/fresh-work-80155" created="Sat, 22 Jul 2023 13:25:00 +1300" />
+    <outline text="Kraken Technologies: How we organise our very large Python monolith" type="link" url="https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/" created="Fri, 21 Jul 2023 13:54:09 +1300" />
+    <outline text="Haskell for all: The golden rule of software quality" type="link" url="http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html" created="Thu, 20 Jul 2023 12:38:05 +1300" />
+    <outline text="ongoing by Tim Bray · Just Too Efficient" type="link" url="https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient" created="Thu, 20 Jul 2023 12:24:39 +1300" />
+    <outline text="Lessons Learned: Giving Feedback as an Engineering Manager | Alexey needs a web presence" type="link" url="http://alexeymk.com/2020/06/20/lessons-learned-in-giving-feedback-as-an-engineering-manager.html" created="Thu, 20 Jul 2023 11:43:14 +1300" />
+    <outline text="https://me.micahrl.com/blog/a-random-failure/" type="link" url="https://me.micahrl.com/blog/random-failure-problems-upgrading-ansible-python/" created="Thu, 20 Jul 2023 11:27:17 +1300" />
+    <outline text="Embrace the Grind - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2021/apr/7/embrace-the-grind/" created="Mon, 17 Jul 2023 20:48:25 +1300" />
+    <outline text="What AI can do with a toolbox... Getting started with Code Interpreter [Now called Advanced Data Analytics]" type="link" url="https://www.oneusefulthing.org/p/what-ai-can-do-with-a-toolbox-getting" created="Mon, 17 Jul 2023 10:47:19 +1300" />
+    <outline text="What Are Deployment Patterns? - by Dr Milan Milanović" type="link" url="https://newsletter.techworld-with-milan.com/p/what-are-deployment-patterns" created="Sun, 16 Jul 2023 20:09:15 +1300" />
+    <outline text="All This Unmobilized Love - Erin Kissane's small internet website" type="link" url="https://erinkissane.com/all-this-unmobilized-love" created="Sat, 15 Jul 2023 17:59:21 +1300" />
+    <outline text="Speed matters: Why working quickly is more important than it seems « the jsomers.net blog" type="link" url="https://jsomers.net/blog/speed-matters" created="Sat, 15 Jul 2023 17:50:46 +1300" />
+    <outline text="Tech Debt Research" type="link" url="https://newsletter.abinoda.com/p/tech-debt-research" created="Sat, 15 Jul 2023 17:23:42 +1300" />
+    <outline text="Were All Doing Metrics Wrong" type="link" url="https://matduggan.com/were-all-doing-metrics-wrong/" created="Sat, 15 Jul 2023 10:49:58 +1300" />
+    <outline text="Django: Clean up unused code with Vulture - Adam Johnson" type="link" url="https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/" created="Fri, 14 Jul 2023 18:25:00 +1300" />
+    <outline text="Tech debt metaphor maximalism - apenwarr" type="link" url="https://apenwarr.ca/log/20230605" created="Thu, 13 Jul 2023 15:22:14 +1300" />
+    <outline text="Names should be as short as possible while still being clear" type="link" url="https://benhoyt.com/writings/short-names/" created="Mon, 10 Jul 2023 00:19:02 +1300" />
+    <outline text="Reply: Designing Pythonic library APIs · Tony Andrew Meyer" type="link" url="https://tonyandrewmeyer.wordpress.com/2023/06/25/reply-designing-pythonic-library-apis/" created="Sun, 09 Jul 2023 23:56:44 +1300" />
+    <outline text="20 Things I've Learned in my 20 Years as a Software Engineer - Simple Thread" type="link" url="https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/" created="Thu, 06 Jul 2023 19:22:53 +1300" />
+    <outline text="Tindall On Software Delays" type="link" url="https://two-wrongs.com/tindall-on-software-delays.html" created="Thu, 06 Jul 2023 16:16:48 +1300" />
+    <outline text="Experimenting with LLM coding help · Tony Andrew Meyer" type="link" url="https://tonyandrewmeyer.com/2023/06/14/experimenting-with-llm-coding-help/" created="Wed, 05 Jul 2023 10:50:56 +1300" />
+    <outline text="stamina · PyPI" type="link" url="https://pypi.org/project/stamina/" created="Wed, 05 Jul 2023 09:37:16 +1300" />
+    <outline text="Amirs 10 Laws Of Tech 64536Bf8Eeff" type="link" url="https://medium.com/swlh/amirs-10-laws-of-tech-64536bf8eeff" created="Tue, 04 Jul 2023 12:41:41 +1300" />
+    <outline text="How to make difficult technical decisions you and your team won't regret" type="link" url="https://careercutler.substack.com/p/how-to-make-difficult-technical-decisions" created="Mon, 03 Jul 2023 20:53:35 +1300" />
+    <outline text="The modern way of serving images | Jacob 'Kurt' Groß" type="link" url="https://kurtextrem.de/posts/modern-way-of-img" created="Mon, 03 Jul 2023 20:47:03 +1300" />
+    <outline text="ignore the code: Streak Redemption" type="link" url="http://ignorethecode.net/blog/2023/06/26/streak_redemption/" created="Tue, 27 Jun 2023 12:03:42 +1300" />
+    <outline text="Designing Pythonic library APIs" type="link" url="https://benhoyt.com/writings/python-api-design/" created="Mon, 26 Jun 2023 12:17:11 +1300" />
+    <outline text="The complicated parts of leadership: Eliminate chaos – CodeKraft" type="link" url="https://abdulapopoola.com/2023/06/20/the-complicated-parts-of-leadership-eliminate-chaos/" created="Fri, 23 Jun 2023 15:38:32 +1300" />
+    <outline text="IKEA-Oriented Development" type="link" url="https://taylor.town/ikea-oriented-development" created="Fri, 23 Jun 2023 15:32:43 +1300" />
+    <outline text="Building Search DSLs with Django" type="link" url="https://danlamanna.com/posts/building-search-dsls-with-django/" created="Wed, 21 Jun 2023 14:41:32 +1300" />
+    <outline text="Optimize Django Query Performance by combining Select Related and Prefetch Related | Johnny Metz" type="link" url="https://johnnymetz.com/posts/combine-select-related-prefetch-related/" created="Wed, 21 Jun 2023 14:31:18 +1300" />
+    <outline text="Friends don’t let friends use “cf.” | Scientist Sees Squirrel" type="link" url="https://scientistseessquirrel.wordpress.com/2016/06/13/friends-dont-let-friends-use-cf/" created="Wed, 21 Jun 2023 14:00:09 +1300" />
+    <outline text="A new way to measure developer productivity – from the creators of DORA and SPACE" type="link" url="https://newsletter.pragmaticengineer.com/p/developer-productivity-a-new-framework" created="Tue, 20 Jun 2023 10:27:01 +1300" />
+    <outline text="Configuring Uwsgi Production Deployment" type="link" url="https://www.bloomberg.com/company/stories/configuring-uwsgi-production-deployment/" created="Mon, 19 Jun 2023 13:15:50 +1300" />
+    <outline text="The Poetics of CLI Command Names" type="link" url="https://smallstep.com/blog/the-poetics-of-cli-command-names/" created="Mon, 19 Jun 2023 00:55:57 +1300" />
+    <outline text="Tony Meyer: &quot;A very familiar problem! (Generally interesting r…&quot; - Cloud Island" type="link" url="https://cloudisland.nz/@tonyandrewmeyer/110552350780094205" created="Fri, 16 Jun 2023 18:58:54 +1300" />
+    <outline text="To Build a Top Performing Team, Ask for 85% Effort" type="link" url="https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort" created="Thu, 15 Jun 2023 15:59:52 +1300" />
+    <outline text="The Many Problems with Celery | Log Blog Kebab" type="link" url="https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/" created="Thu, 15 Jun 2023 11:45:54 +1300" />
+    <outline text="AI Means More Developers | Matt Rickard" type="link" url="https://matt-rickard.com/ai-means-more-developers" created="Thu, 15 Jun 2023 11:40:21 +1300" />
+    <outline text="Member Journal — 6/12/23 – The Brooks Review" type="link" url="https://brooksreview.net/2023/06/member-journal-61223/" created="Tue, 13 Jun 2023 18:09:16 +1300" />
+    <outline text="My Approach to Building Large Technical Projects – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/building-large-technical-projects" created="Sat, 10 Jun 2023 17:14:32 +1300" />
+    <outline text="The growing pains of database architecture | Figma Blog" type="link" url="https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/" created="Fri, 09 Jun 2023 20:52:03 +1300" />
+    <outline text="How Much Are GitHub Stars Worth to You? (The Guild)" type="link" url="https://the-guild.dev/blog/judging-open-source-by-github-stars" created="Fri, 09 Jun 2023 20:47:48 +1300" />
+    <outline text="How Leaders Manage Time &amp; Attention - Allen Pike" type="link" url="https://allenpike.com/2023/how-leaders-manage-time-attention-tasks" created="Wed, 07 Jun 2023 21:24:08 +1300" />
+    <outline text="Detail.Cfm" type="link" url="https://queue.acm.org/detail.cfm?id=3595878" created="Thu, 01 Jun 2023 13:58:01 +1300" />
+    <outline text="Email addresses are not primary user identities | nicole@web" type="link" url="https://ntietz.com/blog/email-address-not-identifier/" created="Thu, 01 Jun 2023 12:46:40 +1300" />
+    <outline text="10 Most(ly dead) Influential Programming Languages" type="link" url="https://www.hillelwayne.com/post/influential-dead-languages/" created="Thu, 01 Jun 2023 10:15:49 +1300" />
+    <outline text="How Much Memory Do You Need to Run 1 Million Concurrent Tasks? | Piotr Kołaczkowski" type="link" url="https://pkolaczk.github.io/memory-consumption-of-async/" created="Wed, 31 May 2023 18:28:55 +1300" />
+    <outline text="Prompt Engineering vs. Blind Prompting – Mitchell Hashimoto" type="link" url="https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting" created="Mon, 29 May 2023 22:35:07 +1300" />
+    <outline text="The Simple Joys of Scaling Up" type="link" url="https://motherduck.com/blog/the-simple-joys-of-scaling-up/" created="Mon, 29 May 2023 14:46:33 +1300" />
+    <outline text="How to evaluate dependencies" type="link" url="https://philbooth.me/blog/how-to-evaluate-dependencies" created="Mon, 29 May 2023 14:39:20 +1300" />
+    <outline text="Is 20M Of Rows Still A Valid Soft Limit Of Mysql Table In 2023" type="link" url="https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/" created="Mon, 29 May 2023 14:31:28 +1300" />
+    <outline text="Matt Mullenweg: WordPress, AI, and jazz — Design Better — Overcast" type="link" url="https://overcast.fm/+JvNKPOi24" created="Sun, 28 May 2023 17:50:34 +1300" />
+    <outline text="Episode 30: The Magic of Meetups — Distributed, with Matt Mullenweg — Overcast" type="link" url="https://overcast.fm/+SFR7X-CzE" created="Sat, 27 May 2023 11:37:51 +1300" />
+    <outline text="Slides for Measuring an engineering organization. | Irrational Exuberance" type="link" url="https://lethain.com/slides-measuring-engineering-organizations/" created="Mon, 22 May 2023 14:50:38 +1300" />
+    <outline text="GitHub - Textualize/trogon: Easily turn your Click CLI into a powerful terminal application · GitHub" type="link" url="https://github.com/Textualize/trogon" created="Mon, 22 May 2023 10:55:59 +1300" />
+    <outline text="(comic) Cherry Picking - Work Chronicles" type="link" url="https://open.substack.com/pub/workchronicles/p/comic-cherry-picking" created="Fri, 19 May 2023 14:25:23 +1300" />
+    <outline text="9 multipliers for boosting your team’s productivity – CodeKraft" type="link" url="https://abdulapopoola.com/2022/01/03/9-multipliers-for-boosting-your-teams-productivity/" created="Fri, 19 May 2023 01:49:25 +1300" />
+    <outline text="Uptime Guarantees — A Pragmatic Perspective" type="link" url="https://world.hey.com/itzy/uptime-guarantees-a-pragmatic-perspective-736d7ea4" created="Thu, 11 May 2023 10:51:53 +1300" />
+    <outline text="Measuring Flow And Focus" type="link" url="https://newsletter.abinoda.com/p/measuring-flow-and-focus" created="Thu, 11 May 2023 10:47:20 +1300" />
+    <outline text="Developer Productivity Survey | Infrastructure Engineering" type="link" url="https://infraeng.dev/developer-survey/" created="Tue, 09 May 2023 16:10:31 +1300" />
+    <outline text="Contrafreeloading - by Mike Fisher - Fish Food for Thought" type="link" url="https://mikefisher.substack.com/p/contrafreeloading" created="Tue, 09 May 2023 12:13:48 +1300" />
+    <outline text="How to recover from microservices" type="link" url="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" created="Mon, 08 May 2023 10:51:39 +1300" />
+    <outline text="Medium" type="link" url="https://skamille.medium.com/avoiding-the-rewrite-trap-b1283b8dd39e" created="Fri, 05 May 2023 15:18:09 +1300" />
+    <outline text="Amazon Entertainment: Movies, streaming, games, music, live sports, and more" type="link" url="https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90" created="Thu, 04 May 2023 22:36:56 +1300" />
+    <outline text="How to plan as an engineering executive. | Irrational Exuberance" type="link" url="https://lethain.com/planning/" created="Thu, 04 May 2023 00:41:36 +1300" />
+    <outline text="Choose Boring Technology Culture - by Charity Majors" type="link" url="https://charity.wtf/2023/05/01/choose-boring-technology-culture/" created="Tue, 02 May 2023 19:28:20 +1300" />
+    <outline text="Command Line Interface Guidelines" type="link" url="https://clig.dev" created="Fri, 28 Apr 2023 19:39:33 +1300" />
+    <outline text="GitHub - derwiki/layoff-runbook: Being laid off can be overwhelming and it's easy to miss important tasks. This runbook will help make sure you stay on track. · GitHub" type="link" url="https://github.com/derwiki/layoff-runbook" created="Thu, 27 Apr 2023 22:57:41 +1300" />
+    <outline text="An oral history of Bank Python" type="link" url="https://calpaterson.com/bank-python.html" created="Thu, 27 Apr 2023 15:40:30 +1300" />
+    <outline text="Is Critical Thinking the Most Important Skill for Software Engineers? - The Pragmatic Engineer" type="link" url="https://blog.pragmaticengineer.com/critical-thinking/" created="Wed, 26 Apr 2023 10:34:07 +1300" />
+    <outline text="How to build a webhook: guidelines and best practices — WorkOS" type="link" url="https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices" created="Tue, 25 Apr 2023 14:06:13 +1300" />
+    <outline text="Writing Tips for Improving Your Pull Requests - Simple Thread" type="link" url="https://www.simplethread.com/writing-tips-for-improving-your-pull-requests/" created="Mon, 24 Apr 2023 12:24:04 +1300" />
+    <outline text="Inside Look: Measuring Developer Productivity and Happiness at LinkedIn" type="link" url="https://engineering.linkedin.com/blog/2023/inside-look--measuring-developer-productivity-and-happiness-at-l" created="Sun, 23 Apr 2023 14:14:42 +1300" />
+    <outline text="Slack" type="link" url="https://martinfowler.com/bliki/Slack.html" created="Sat, 22 Apr 2023 10:43:56 +1300" />
+    <outline text="Building LLM applications for production" type="link" url="https://huyenchip.com/2023/04/11/llm-engineering.html" created="Fri, 21 Apr 2023 12:28:33 +1300" />
+    <outline text="Load Balancing" type="link" url="https://samwho.dev/load-balancing/" created="Thu, 20 Apr 2023 12:18:16 +1300" />
+    <outline text="A list of programming playgrounds" type="link" url="https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/" created="Wed, 19 Apr 2023 09:14:20 +1300" />
+    <outline text="libyear" type="link" url="https://libyear.com" created="Tue, 18 Apr 2023 15:22:57 +1300" />
+    <outline text="Database “sharding” came from UO? – Raph Koster" type="link" url="https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/" created="Mon, 17 Apr 2023 11:53:23 +1300" />
+    <outline text="Python At Scale Strict Modules C0Bb9245C834" type="link" url="https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834" created="Sun, 16 Apr 2023 13:43:58 +1300" />
+    <outline text="Give me back my monolith - CRAIG KERSTIENS" type="link" url="https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/" created="Sat, 15 Apr 2023 10:18:11 +1300" />
+    <outline text="The Great Flowering Why Openai Is The New Aws And The New Kingmakers Still Matter" type="link" url="https://redmonk.com/jgovernor/2023/04/13/the-great-flowering-why-openai-is-the-new-aws-and-the-new-kingmakers-still-matter/" created="Fri, 14 Apr 2023 11:14:18 +1300" />
+    <outline text="Five practices for serverless &amp; distributed systems productivity - Chaordic" type="link" url="https://chaordic.io/blog/serverless-distributed-system-productivity/" created="Fri, 14 Apr 2023 10:58:40 +1300" />
+    <outline text="Replacing my best friends with an LLM trained on 500,000 group chat messages" type="link" url="https://www.izzy.co/blogs/robo-boys.html" created="Thu, 13 Apr 2023 17:47:16 +1300" />
+    <outline text="Are meetings making you less productive? - Stack Overflow" type="link" url="https://stackoverflow.blog/2023/04/12/are-meetings-making-you-less-productive/" created="Thu, 13 Apr 2023 11:47:51 +1300" />
+    <outline text="Shitlist Driven Development" type="link" url="https://sirupsen.com/shitlists" created="Thu, 13 Apr 2023 10:37:51 +1300" />
+    <outline text="Python Software Foundation News: The EU's Proposed CRA Law May Have Unintended Consequences for the Python Ecosystem" type="link" url="https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html" created="Wed, 12 Apr 2023 10:34:13 +1300" />
+    <outline text="We’re Doing Downtime Wrong" type="link" url="https://neuroleadership.com/your-brain-at-work/downtime" created="Tue, 11 Apr 2023 10:32:58 +1300" />
+    <outline text="Incident Review and Postmortem Best Practices" type="link" url="https://newsletter.pragmaticengineer.com/p/incident-review-best-practices" created="Mon, 10 Apr 2023 17:45:02 +1300" />
+    <outline text="Overengineering can kill your product" type="link" url="https://www.mindtheproduct.com/overengineering-can-kill-your-product/" created="Sun, 09 Apr 2023 09:30:29 +1300" />
+    <outline text="Why I've Been Merging Microservices Back Into The Monolith At InVision" type="link" url="https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm" created="Sat, 08 Apr 2023 17:38:21 +1300" />
+    <outline text="2023 04 04 Python Monorepo 1" type="link" url="https://www.tweag.io/blog/2023-04-04-python-monorepo-1/" created="Fri, 07 Apr 2023 17:31:23 +1300" />
+    <outline text="Improve your Django Code with pre-commit" type="link" url="https://builtwithdjango.com/blog/improve-your-code-with-pre-commit" created="Fri, 07 Apr 2023 15:30:18 +1300" />
+    <outline text="vlfig.me" type="link" url="https://vlfig.me/posts/microservices" created="Thu, 06 Apr 2023 13:40:11 +1300" />
+    <outline text="#332: Robust Python — Talk Python To Me — Overcast" type="link" url="https://overcast.fm/+F4RCVYuDA" created="Wed, 05 Apr 2023 18:32:02 +1300" />
+    <outline text="How to Make Your Code Reviewer Fall in Love with You · mtlynch.io" type="link" url="https://mtlynch.io/code-review-love/" created="Wed, 05 Apr 2023 13:05:13 +1300" />
+    <outline text="Writing system software: code comments. - &lt;antirez&gt;" type="link" url="http://antirez.com/news/124" created="Tue, 04 Apr 2023 15:26:39 +1300" />
+    <outline text="The case for slacking off at work" type="link" url="https://jacobsingh.name/the-case-for-slacking-off-at-work/" created="Tue, 04 Apr 2023 11:27:43 +1300" />
+    <outline text="How Big Tech Runs Tech Projects and the Curious Absence of Scrum - The Pragmatic Engineer" type="link" url="https://blog.pragmaticengineer.com/project-management-at-big-tech/" created="Mon, 03 Apr 2023 20:15:24 +1300" />
+    <outline text="How We Made Our SaaS Homepage Cookie-Free for Better Privacy - Leave Me Alone" type="link" url="https://leavemealone.com/blog/no-more-cookies/" created="Sun, 02 Apr 2023 21:05:57 +1300" />
+    <outline text="The case of the 500-mile email" type="link" url="https://www.ibiblio.org/harris/500milemail.html" created="Sun, 02 Apr 2023 20:37:38 +1300" />
+    <outline text="You Want Modules, Not Microservices" type="link" url="https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html" created="Sat, 01 Apr 2023 17:28:38 +1300" />
+    <outline text="Follow-ups to &quot;Incompetent but Nice&quot; - Jacob Kaplan-Moss" type="link" url="https://jacobian.org/2023/mar/31/incompetent-but-nice-follow-ups/#oh-no-i-think-this-is-me" created="Sat, 01 Apr 2023 11:12:48 +1300" />
+    <outline text="Django Views — The Right Way" type="link" url="https://spookylukey.github.io/django-views-the-right-way/index.html" created="Fri, 31 Mar 2023 11:11:26 +1300" />
+    <outline text="Friday Deploy Freezes Are Exactly Like Murdering Puppies" type="link" url="https://charity.wtf/2019/05/01/friday-deploy-freezes-are-exactly-like-murdering-puppies/" created="Thu, 30 Mar 2023 21:05:52 +1300" />
+    <outline text="You've only added two lines - why did that take two days! ~ Matt Lacey - Software Developer" type="link" url="https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html" created="Thu, 30 Mar 2023 20:58:31 +1300" />
+    <outline text="What Is A Product Engineer" type="link" url="https://posthog.com/blog/what-is-a-product-engineer" created="Wed, 29 Mar 2023 10:56:52 +1300" />
+    <outline text="Is there ever a good time for a code freeze? | Thoughtworks" type="link" url="https://www.thoughtworks.com/insights/podcasts/technology-podcasts/is-there-ever-a-good-time-for-a-code-freeze" created="Tue, 28 Mar 2023 16:48:17 +1300" />
+    <outline text="Our in-house coding conventions | Tech blog | Kraken" type="link" url="https://tech.octopus.energy/news/2019/02/28/conventions-repo.html" created="Mon, 27 Mar 2023 21:06:07 +1300" />
+    <outline text="Deploys Are The %E2%9C%A8Wrong%E2%9C%A8 Way To Change User Experience" type="link" url="https://charity.wtf/2023/03/08/deploys-are-the-%e2%9c%a8wrong%e2%9c%a8-way-to-change-user-experience/" created="Mon, 27 Mar 2023 17:33:45 +1300" />
+    <outline text="The Ambiguous Zone - Ben Northrop" type="link" url="https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php" created="Sun, 26 Mar 2023 10:22:09 +1300" />
+    <outline text="Medium" type="link" url="https://skamille.medium.com/which-meetings-should-you-kill-7430467c005b" created="Thu, 23 Mar 2023 22:17:11 +1300" />
+    <outline text="The mythical 10x programmer - &lt;antirez&gt;" type="link" url="http://antirez.com/news/112" created="Thu, 23 Mar 2023 22:12:45 +1300" />
+    <outline text="Architects, Anti-Patterns, and Organizational Fuckery" type="link" url="https://charity.wtf/2023/03/09/architects-anti-patterns-and-organizational-fuckery/" created="Wed, 22 Mar 2023 19:26:02 +1300" />
+    <outline text="Holiday Book Recommendations for Software Engineers, Engineering Managers and Product Managers - The Pragmatic Engineer" type="link" url="https://blog.pragmaticengineer.com/holiday-tech-book-recommendations/" created="Tue, 14 Mar 2023 09:45:56 +1300" />
+    <outline text="Regex Crossword" type="link" url="https://regexcrossword.com" created="Mon, 13 Mar 2023 22:43:06 +1300" />
+    <outline text="Learn and Test DMARC" type="link" url="https://www.learndmarc.com/" created="Mon, 13 Mar 2023 22:42:04 +1300" />
+    <outline text="When to delegate, when to say no | Lara Hogan" type="link" url="http://larahogan.github.io/blog/when-to-delegate-when-to-say-no/" created="Mon, 13 Mar 2023 22:39:18 +1300" />
+    <outline text="#352: Running Python in Production — Talk Python To Me — Overcast" type="link" url="https://overcast.fm/+F4RA618Tk" created="Mon, 13 Mar 2023 22:38:47 +1300" />
+    <outline text="xkcd: Data Trap" type="link" url="https://xkcd.com/2582/" created="Mon, 13 Mar 2023 22:37:55 +1300" />
+    <outline text="Desperation-Induced Focus | RKG" type="link" url="https://rkg.blog/desperation-induced-focus.php" created="Mon, 13 Mar 2023 22:36:38 +1300" />
+    <outline text="The Scale Of Monitoring" type="link" url="https://dcramer.github.io/the-scale-of-monitoring/" created="Mon, 13 Mar 2023 22:35:59 +1300" />
+    <outline text="How We Built r/Place - Upvoted" type="link" url="https://www.redditinc.com/blog/how-we-built-rplace/" created="Mon, 13 Mar 2023 22:35:16 +1300" />
+    <outline text="Sweating the small stuff • Slack Design" type="link" url="https://slack.design/articles/sweating-the-small-stuff/" created="Mon, 13 Mar 2023 22:34:35 +1300" />
+    <outline text="Some benefits of simple software architectures - Wave Blog" type="link" url="https://www.wave.com/en/blog/simple-architecture/" created="Mon, 13 Mar 2023 22:34:02 +1300" />
+    <outline text="PyScript is an open source platform for Python in the browser." type="link" url="https://pyscript.net" created="Mon, 13 Mar 2023 22:33:02 +1300" />
+    <outline text="Learnings from 5 years of tech startup code audits - Ken Kantzer's Blog" type="link" url="https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/" created="Mon, 13 Mar 2023 22:32:00 +1300" />
+    <outline text="What Is the Python GIL and Will They Get Rid of It?" type="link" url="https://www.backblaze.com/blog/the-python-gil-past-present-and-future/" created="Mon, 13 Mar 2023 22:31:11 +1300" />
+    <outline text="GitHub - satwikkansal/wtfpython: What the f*ck Python? 😱 · GitHub" type="link" url="https://github.com/satwikkansal/wtfpython" created="Mon, 13 Mar 2023 22:30:25 +1300" />
+    <outline text="GitHub - seddonym/import-linter: Lint your Python architecture. · GitHub" type="link" url="https://github.com/seddonym/import-linter" created="Mon, 13 Mar 2023 22:29:28 +1300" />
+    <outline text="My Favorite npm Commit" type="link" url="https://blog.izs.me/2021/10/my-favorite-npm-commit/" created="Mon, 13 Mar 2023 22:28:19 +1300" />
+    <outline text="Better understanding Microsoft" type="link" url="https://www.spamresource.com/2022/06/better-understanding-microsoft.html" created="Mon, 13 Mar 2023 22:27:15 +1300" />
+    <outline text="1545370626273120256" type="link" url="https://twitter.com/gd3kr/status/1545370626273120256" created="Mon, 13 Mar 2023 14:38:44 +1300" />
+    <outline text="Remote Development at Slack | Engineering at Slack" type="link" url="https://slack.engineering/remote-development-at-slack/" created="Mon, 13 Mar 2023 14:37:48 +1300" />
+    <outline text="Manticore: a faster alternative to Elasticsearch in C++ with a 21-year history" type="link" url="https://manticoresearch.com/blog/manticore-alternative-to-elasticsearch/" created="Mon, 13 Mar 2023 14:37:10 +1300" />
+    <outline text="&lt;/&gt; htmx ~ How Did REST Come To Mean The Opposite of REST?" type="link" url="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" created="Mon, 13 Mar 2023 14:35:24 +1300" />
+    <outline text="Medium" type="link" url="https://itnext.io/you-dont-need-microservices-2ad8508b9e27" created="Mon, 13 Mar 2023 14:34:13 +1300" />
+    <outline text="Chesterton’s Fence: A Lesson in Thinking" type="link" url="https://fs.blog/chestertons-fence/" created="Mon, 13 Mar 2023 14:33:44 +1300" />
+    <outline text="Ben Carlsson's Blog" type="link" url="https://twos.dev/thepopin.html" created="Mon, 13 Mar 2023 14:32:41 +1300" />
+    <outline text="Janet Jackson had the power to crash laptop computers - The Old New Thing" type="link" url="https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994" created="Mon, 13 Mar 2023 14:31:45 +1300" />
+    <outline text="Rituals for Engineering Teams - by Charity Majors" type="link" url="https://charity.wtf/2022/08/15/rituals-for-engineering-teams/" created="Mon, 13 Mar 2023 14:31:13 +1300" />
+    <outline text="Verifying Estimates" type="link" url="https://workchronicles.com/verifying-estimates/" created="Mon, 13 Mar 2023 14:30:11 +1300" />
+    <outline text="The Sender Policy Framework (SPF)" type="link" url="https://www.netmeister.org/blog/spf.html" created="Mon, 13 Mar 2023 14:28:48 +1300" />
+    <outline text="Carlos Fenollosa - Blog" type="link" url="https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html" created="Mon, 13 Mar 2023 14:28:21 +1300" />
+    <outline text="Be good-argument-driven, not data-driven - Richard Marmorstein" type="link" url="http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html" created="Mon, 13 Mar 2023 14:27:16 +1300" />
+    <outline text="How Handle Reorganization Engineering Manager" type="link" url="https://leaddev.com/managing-time-crisis/how-handle-reorganization-engineering-manager" created="Mon, 13 Mar 2023 14:26:33 +1300" />
+    <outline text="Once Upon A Teams Meeting" type="link" url="https://www.commitstrip.com/en/2022/09/13/once-upon-a-teams-meeting/?" created="Mon, 13 Mar 2023 14:25:11 +1300" />
+    <outline text="Timing" type="link" url="https://workchronicles.com/timing/" created="Mon, 13 Mar 2023 14:23:40 +1300" />
+    <outline text="The Hierarchy Is Bullshit (And Bad For Business)" type="link" url="https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/" created="Mon, 13 Mar 2023 14:21:58 +1300" />
+    <outline text="The Thorny Problem of Keeping the Internet’s Time | The New Yorker" type="link" url="https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time" created="Mon, 13 Mar 2023 14:20:43 +1300" />
+    <outline text="1577298602371809281" type="link" url="https://twitter.com/forrestbrazeal/status/1577298602371809281" created="Mon, 13 Mar 2023 14:20:22 +1300" />
+    <outline text="Software engineering practices" type="link" url="https://simonwillison.net/2022/Oct/1/software-engineering-practices/" created="Mon, 13 Mar 2023 14:19:54 +1300" />
+    <outline text="Fewer, happier incident heroes. | Irrational Exuberance" type="link" url="https://lethain.com/fewer-happier-incident-heroes/" created="Mon, 13 Mar 2023 14:18:31 +1300" />
+    <outline text="Watch" type="link" url="https://www.youtube.com/watch?v=8Ab3ArE8W3s" created="Mon, 13 Mar 2023 14:17:40 +1300" />
+    <outline text="Medium" type="link" url="https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f" created="Mon, 13 Mar 2023 14:17:13 +1300" />
+    <outline text="Playlist" type="link" url="https://www.youtube.com/playlist?list=PL8uoeex94UhE2pLJUo9ouV0h5yRtt3CAG" created="Mon, 13 Mar 2023 14:16:57 +1300" />
+    <outline text="YAGNI exceptions - lukeplant.me.uk" type="link" url="https://lukeplant.me.uk/blog/posts/yagni-exceptions/" created="Mon, 13 Mar 2023 14:16:13 +1300" />
+    <outline text="Why we're leaving the cloud" type="link" url="https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0" created="Mon, 13 Mar 2023 14:15:27 +1300" />
+    <outline text="charset-normalizer · PyPI" type="link" url="https://pypi.org/project/charset-normalizer/" created="Mon, 13 Mar 2023 14:14:40 +1300" />
+    <outline text="SAFe Delusion - SAFe Delusion is a community-driven resource that provides evidence-based insights and expert opinions on the SAFe framework, helping decision-makers make informed choices about Agile scaling." type="link" url="https://safedelusion.com/." created="Mon, 13 Mar 2023 14:14:04 +1300" />
+    <outline text="1587247159841259520" type="link" url="https://twitter.com/chadwhitacre_/status/1587247159841259520" created="Mon, 13 Mar 2023 14:12:04 +1300" />
+    <outline text="Hired 2023%20State%20Of%20Software%20Engineers.Pdf" type="link" url="https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf" created="Sun, 12 Mar 2023 16:19:53 +1300" />
+    <outline text="GitHub - astral-sh/ruff: An extremely fast Python linter and code formatter, written in Rust. · GitHub" type="link" url="https://github.com/charliermarsh/ruff" created="Fri, 10 Mar 2023 21:19:34 +1300" />
+    <outline text="What to do when a beloved employee quits | Lara Hogan" type="link" url="https://larahogan.me/blog/steps-when-employee-quits/" created="Fri, 10 Mar 2023 21:18:58 +1300" />
+    <outline text="Containers are chroot with a Marketing Budget - Earthly Blog" type="link" url="https://earthly.dev/blog/chroot/" created="Fri, 10 Mar 2023 21:17:52 +1300" />
+    <outline text="Watch" type="link" url="https://www.youtube.com/watch?v=VVc5QiMedno" created="Fri, 10 Mar 2023 21:17:17 +1300" />
+    <outline text="1592937368285507584" type="link" url="https://twitter.com/pyblogsal/status/1592937368285507584" created="Fri, 10 Mar 2023 21:16:35 +1300" />
+    <outline text="Kite is saying farewell - Code Faster with Kite" type="link" url="https://www.kite.com/blog/product/kite-is-saying-farewell/" created="Fri, 10 Mar 2023 21:15:28 +1300" />
+    <outline text="GitHub - jlevy/the-art-of-command-line: Master the command line, in one page · GitHub" type="link" url="https://github.com/jlevy/the-art-of-command-line" created="Fri, 10 Mar 2023 21:13:45 +1300" />
+    <outline text="The Origins of Python | Lambert Meertens | Inference" type="link" url="https://inference-review.com/article/the-origins-of-python" created="Fri, 10 Mar 2023 21:12:35 +1300" />
+    <outline text="Bringing Codecov Into The Sentry Family Where Code Coverage Meets Application Monitoring" type="link" url="https://blog.sentry.io/2022/11/30/bringing-codecov-into-the-sentry-family-where-code-coverage-meets-application-monitoring/" created="Fri, 10 Mar 2023 21:11:22 +1300" />
+    <outline text="Investing in Internal Documentation: A Brick-by-Brick Guide for Startups" type="link" url="https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups" created="Thu, 09 Mar 2023 17:55:28 +1300" />
+    <outline text="1600524902225829890" type="link" url="https://twitter.com/forrestbrazeal/status/1600524902225829890" created="Thu, 09 Mar 2023 17:54:10 +1300" />
+    <outline text="Creative usernames and Spotify account hijacking | Spotify Engineering" type="link" url="https://engineering.atspotify.com/2013/06/creative-usernames/" created="Thu, 09 Mar 2023 17:44:43 +1300" />
+    <outline text="Count Vs Countcol In Mysql" type="link" url="https://www.percona.com/blog/count-vs-countcol-in-mysql/" created="Thu, 09 Mar 2023 17:43:56 +1300" />
+    <outline text="xkcd: Code Lifespan" type="link" url="https://xkcd.com/2730/" created="Thu, 09 Mar 2023 17:42:23 +1300" />
+    <outline text="Things they didn't teach you about Software Engineering" type="link" url="https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/" created="Thu, 09 Mar 2023 17:41:57 +1300" />
+    <outline text="We invested 10% to pay back tech debt; Here's what happened" type="link" url="https://blog.alexewerlof.com/p/tech-debt-day" created="Thu, 09 Mar 2023 17:40:16 +1300" />
+    <outline text="Python’s “Disappointing” Superpowers - lukeplant.me.uk" type="link" url="https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/" created="Thu, 09 Mar 2023 17:37:58 +1300" />
+    <outline text="Can C Be Saved Bjarne Stroustrup On Ensuring Memory Safety" type="link" url="https://thenewstack.io/can-c-be-saved-bjarne-stroustrup-on-ensuring-memory-safety/" created="Thu, 09 Mar 2023 17:35:58 +1300" />
+    <outline text="Email explained from first principles" type="link" url="https://explained-from-first-principles.com/email/" created="Thu, 09 Mar 2023 17:34:51 +1300" />
+    <outline text="How Pay Down Your Monitoring Debt" type="link" url="https://leaddev.com/tech/how-pay-down-your-monitoring-debt" created="Wed, 08 Mar 2023 01:44:35 +1300" />
+    <outline text="Monitoring debt builds up faster than software teams can pay it off - Stack Overflow" type="link" url="https://stackoverflow.blog/2023/02/16/monitoring-debt-builds-up-faster-than-software-teams-can-pay-it-off/" created="Wed, 08 Mar 2023 01:43:11 +1300" />
+    <outline text="The Missing Semester of Your CS Education" type="link" url="https://missing.csail.mit.edu/" created="Wed, 08 Mar 2023 01:42:14 +1300" />
+    <outline text="Reliability: It's Not Great - login-only - Fly.io" type="link" url="https://community.fly.io/t/reliability-its-not-great/11253" created="Wed, 08 Mar 2023 01:39:21 +1300" />
   </body>
 </opml>
