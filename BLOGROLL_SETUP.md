@@ -1,42 +1,61 @@
 # Blogroll Setup
 
-This repository includes automated blogroll functionality that generates OPML files from:
-1. Articles shared on tonyandrewmeyer.blog
-2. RSS feeds followed in Feedly
+This repository publishes two OPML files:
 
-## Setup
+| File | Contents | Updated |
+| --- | --- | --- |
+| `articles.opml` | Articles linked from [tonyandrewmeyer.blog](https://tonyandrewmeyer.blog) | Automatically, daily |
+| `feeds.opml` | RSS feeds followed in Feedly | Manually (see below) |
 
-### Feedly Access Token
+## `articles.opml` — automatic
 
-To enable the Feedly integration, you need to set up a `FEEDLY_ACCESS_TOKEN` secret in your GitHub repository:
+Each post on the link blog quotes and links to an article elsewhere. It is that
+outgoing link that belongs in the blogroll, so `generate_articles_opml.py`
+extracts the first external link from each post and records it.
 
-1. **Get your Feedly Access Token:**
-   - For Enterprise/Threat Intelligence users: Visit https://feedly.com/i/team/api
-   - For other users: You'll need to use the Feedly Developer API:
-     1. Register your application at https://developers.feedly.com/
-     2. Note your Client ID and Client Secret
-     3. Authorize your application and get an access token
-     
-   Alternatively, you can manually export your Feedly feeds as OPML by visiting https://feedly.com/i/opml and downloading the file, then committing it as `feeds.opml`.
+The blogroll is **cumulative**. The RSS feed only serves the 25 most recent
+posts, so the script merges what it finds into the existing `articles.opml`
+instead of rewriting it — articles that have scrolled out of the feed stay in
+the blogroll, and titles already recorded are never re-fetched.
 
-2. **Add the token as a GitHub Secret:**
-   1. Go to your repository's Settings
-   2. Navigate to Secrets and variables → Actions
-   3. Click "New repository secret"
-   4. Name: `FEEDLY_ACCESS_TOKEN`
-   5. Value: Your Feedly access token
-   6. Click "Add secret"
+The `Update Blogroll OPML Files` workflow runs daily and commits only when an
+article has actually been added.
 
-### Manual Testing
+### Backfilling
 
-You can manually trigger the workflow:
-1. Go to the Actions tab in your GitHub repository
-2. Select "Update Blogroll OPML Files"
-3. Click "Run workflow"
+`generate_articles_opml.py` can only see the feed's 25-post window. To recover
+everything older, `backfill_articles_opml.py` walks the blog's full archive
+(`/archive/index.json`), fetches each post page, and merges in every outgoing
+link it finds:
 
-## Files Generated
+```sh
+uv run backfill_articles_opml.py            # every post, ~0.2s apart
+uv run backfill_articles_opml.py --limit 20 # try it on the 20 most recent first
+```
 
-- `articles.opml` - All articles from tonyandrewmeyer.blog
-- `feeds.opml` - All RSS feeds from Feedly
+Run the tests with `uv run --group dev pytest`.
 
-These files are referenced in `BLOGROLL.md` and are automatically updated daily.
+It is safe to re-run: existing entries are never re-fetched or overwritten, so
+an interrupted run picks up where it left off.
+
+## `feeds.opml` — manual
+
+There is no automation for this file, because Feedly no longer offers API
+access to personal accounts. Their
+[authorization docs](https://developers.feedly.com/reference/authorization)
+state plainly that "self service API tokens are only available to Enterprise
+clients", so a `FEEDLY_ACCESS_TOKEN` cannot be obtained for a Pro account.
+
+To refresh it, export from Feedly and commit the result:
+
+1. Visit <https://feedly.com/i/opml>.
+2. Download the OPML export.
+3. Replace `feeds.opml` and commit.
+
+## Manual testing
+
+To trigger the articles workflow by hand:
+
+1. Go to the Actions tab.
+2. Select "Update Blogroll OPML Files".
+3. Click "Run workflow".

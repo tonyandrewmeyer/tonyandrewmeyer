@@ -1,0 +1,77 @@
+[project]
+name = "blogroll"
+version = "0"
+description = "Generate OPML blogroll files from tonyandrewmeyer.blog"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser>=6.0.10",
+    "requests>=2.31.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.uv]
+# Scripts at the repository root, not an installable package.
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = "."
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 99
+
+[tool.ruff.lint]
+select = [
+    "F",
+    "E",
+    "W",
+    "I",
+    "N",
+    "A",
+    "UP",
+    "YTT",
+    "S",
+    "B",
+    "SIM",
+    "RUF",
+    "PERF",
+    "D",
+    "FA",
+    "TC",
+]
+ignore = [
+    "D105",
+    "D107",
+    "D203",
+    "D204",
+    "D213",
+    "D215",
+    "D400",
+    "D404",
+    "D406",
+    "D407",
+    "D408",
+    "D409",
+    "D413",
+    # Method docstrings are not mandated; module/class/function docs are.
+    "D102",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"**/tests/**" = [
+    "S101",
+    "D",
+    "S105",
+    "S106",
+    "S108",
+    "PLR2004",
+    "ARG",
+    "SLF001",
+    "N802",
+    "N803",
+    "N806",
+]

@@ -1,0 +1,54 @@
+name: Update Blogroll OPML Files
+
+on:
+  schedule:
+    # Run daily at 8:28 a.m. NZ time (19:28 UTC, which is 8:28 a.m. NZDT)
+    # Note: During NZST (winter), this will run at 7:28 a.m. NZ time
+    - cron: '28 19 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update-blogroll
+  cancel-in-progress: false
+
+jobs:
+  update-opml:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Commits the regenerated OPML back to the branch.
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@37802adc94f370d6bfd71619e3f0bf239e1f3b78 # v7.6.0
+
+      - name: Update articles OPML
+        run: uv run --locked generate_articles_opml.py
+
+      - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet -- articles.opml; then
+            echo "No new articles; nothing to commit."
+            exit 0
+          fi
+
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add articles.opml
+          git commit -m "Update blogroll OPML files"
+
+          # The checkout above deliberately does not persist credentials, so
+          # supply them for this single push rather than leaving them on disk.
+          auth="$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
+          git -c "http.extraheader=Authorization: Basic ${auth}" \
+            push "https://github.com/${GITHUB_REPOSITORY}.git" \
+            "HEAD:${GITHUB_REF_NAME}"
